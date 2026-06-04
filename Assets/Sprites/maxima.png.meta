@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 3544f0c5a1adb4db1acf80bcf2640ccb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8817588743374810647
+    second: maxima_0
+  - first:
+      213: 6075295467350424428
+    second: maxima_1
+  - first:
+      213: 9171186080936867604
+    second: maxima_2
+  - first:
+      213: -3764850153753257809
+    second: maxima_3
+  - first:
+      213: 8039880578942361415
+    second: maxima_4
+  - first:
+      213: 6033848268746552452
+    second: maxima_5
+  - first:
+      213: -9138177389758554687
+    second: maxima_6
+  - first:
+      213: -5473643114265041519
+    second: maxima_7
+  - first:
+      213: -3388185278813152700
+    second: maxima_8
+  - first:
+      213: 334453120473301597
+    second: maxima_9
+  - first:
+      213: -364316742397800649
+    second: maxima_10
+  - first:
+      213: -8935293055597368200
+    second: maxima_11
+  - first:
+      213: -3418141790417539064
+    second: maxima_12
+  - first:
+      213: -1194146616676864338
+    second: maxima_13
+  - first:
+      213: 6749431435857800298
+    second: maxima_14
+  - first:
+      213: 3215675155204326564
+    second: maxima_15
+  - first:
+      213: 2582153283988429183
+    second: maxima_16
+  - first:
+      213: 5087248763532064261
+    second: maxima_17
+  - first:
+      213: 8715446619233518969
+    second: maxima_18
+  - first:
+      213: 7020973759555774928
+    second: maxima_19
+  - first:
+      213: -2170038237570900187
+    second: maxima_20
+  - first:
+      213: -5562464739679200159
+    second: maxima_21
+  - first:
+      213: 5257596980853825936
+    second: maxima_22
+  - first:
+      213: -6178726920211544324
+    second: maxima_23
+  - first:
+      213: -6014111994022065045
+    second: maxima_24
+  - first:
+      213: -7887807896697592611
+    second: maxima_25
+  - first:
+      213: 8823967215990489326
+    second: maxima_26
+  - first:
+      213: -53361354770105114
+    second: maxima_27
+  - first:
+      213: 2840950339932472764
+    second: maxima_28
+  - first:
+      213: -5010906574773697105
+    second: maxima_29
+  - first:
+      213: 4239163444330120916
+    second: maxima_30
+  - first:
+      213: -5123981986884616958
+    second: maxima_31
+  - first:
+      213: 3042025698821336067
+    second: maxima_32
+  - first:
+      213: 5869094724903134542
+    second: maxima_33
+  - first:
+      213: 6330539927069452723
+    second: maxima_34
+  - first:
+      213: -6039616533607067843
+    second: maxima_35
+  - first:
+      213: -350998573321822402
+    second: maxima_36
+  - first:
+      213: -6979968441564453508
+    second: maxima_37
+  - first:
+      213: 7011087073686707941
+    second: maxima_38
+  - first:
+      213: -7799310842491200479
+    second: maxima_39
+  - first:
+      213: -8078955716057288128
+    second: maxima_40
+  - first:
+      213: 8915097998157891579
+    second: maxima_41
+  - first:
+      213: -3976438035039194846
+    second: maxima_42
+  - first:
+      213: 3819977596157667551
+    second: maxima_43
+  - first:
+      213: 5446773738904910753
+    second: maxima_44
+  - first:
+      213: -3368916163691907743
+    second: maxima_45
+  - first:
+      213: -6425342343980886254
+    second: maxima_46
+  - first:
+      213: -1852815062240446785
+    second: maxima_47
+  - first:
+      213: -4859604643607255315
+    second: maxima_48
+  - first:
+      213: 9107568653723859595
+    second: maxima_49
+  - first:
+      213: 3524058875504417447
+    second: maxima_50
+  - first:
+      213: -3083356797813063867
+    second: maxima_51
+  - first:
+      213: -1473835904258126006
+    second: maxima_52
+  - first:
+      213: -5813564953575647684
+    second: maxima_53
+  - first:
+      213: -7940920072202441299
+    second: maxima_54
+  - first:
+      213: -7416909752538687523
+    second: maxima_55
+  - first:
+      213: -8757114650892250463
+    second: maxima_56
+  - first:
+      213: -2677350934931215474
+    second: maxima_57
+  - first:
+      213: -967878812413638439
+    second: maxima_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maxima_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7333
+        width: 1029
+        height: 1905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e159a761c1a1a580800000000000000
+      internalID: -8817588743374810647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_1
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 7333
+        width: 1030
+        height: 1898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b76fc0a09cf4450800000000000000
+      internalID: 6075295467350424428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_2
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 7333
+        width: 1031
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417bf3b4629964f70800000000000000
+      internalID: 9171186080936867604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_3
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 7333
+        width: 1039
+        height: 1871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa856f07bb090cbc0800000000000000
+      internalID: -3764850153753257809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_4
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 7333
+        width: 1043
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fdb681ac4639f60800000000000000
+      internalID: 8039880578942361415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_5
+      rect:
+        serializedVersion: 2
+        x: 6433
+        y: 7333
+        width: 1048
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4847e3f18098cb350800000000000000
+      internalID: 6033848268746552452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_6
+      rect:
+        serializedVersion: 2
+        x: 7698
+        y: 7333
+        width: 1031
+        height: 1908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd5fe4841cae2180800000000000000
+      internalID: -9138177389758554687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_7
+      rect:
+        serializedVersion: 2
+        x: 8972
+        y: 7333
+        width: 1025
+        height: 1914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19528f29696b904b0800000000000000
+      internalID: -5473643114265041519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_8
+      rect:
+        serializedVersion: 2
+        x: 10248
+        y: 7333
+        width: 1019
+        height: 1914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a5227b07fbaf0d0800000000000000
+      internalID: -3388185278813152700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4724
+        width: 997
+        height: 1915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5205df475734a400800000000000000
+      internalID: 334453120473301597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_10
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 4723
+        width: 1005
+        height: 1916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fc6af5adfa1faf0800000000000000
+      internalID: -364316742397800649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_11
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 4723
+        width: 1011
+        height: 1916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87caa11ae467ff380800000000000000
+      internalID: -8935293055597368200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_12
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 4723
+        width: 1016
+        height: 1916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800be36d6225090d0800000000000000
+      internalID: -3418141790417539064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_13
+      rect:
+        serializedVersion: 2
+        x: 5284
+        y: 4723
+        width: 1021
+        height: 1916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaead3f9af98d6fe0800000000000000
+      internalID: -1194146616676864338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_14
+      rect:
+        serializedVersion: 2
+        x: 6581
+        y: 4723
+        width: 1037
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ca822812ccaad50800000000000000
+      internalID: 6749431435857800298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_15
+      rect:
+        serializedVersion: 2
+        x: 7864
+        y: 4723
+        width: 1040
+        height: 1903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4c00b248f50ac20800000000000000
+      internalID: 3215675155204326564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_16
+      rect:
+        serializedVersion: 2
+        x: 9148
+        y: 4723
+        width: 1040
+        height: 1905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f791dbf1bb6a5d320800000000000000
+      internalID: 2582153283988429183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_17
+      rect:
+        serializedVersion: 2
+        x: 10430
+        y: 4723
+        width: 1042
+        height: 1907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506bf5a0cc9899640800000000000000
+      internalID: 5087248763532064261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_18
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2479
+        width: 954
+        height: 1725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750b46168c73f870800000000000000
+      internalID: 8715446619233518969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_19
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 2479
+        width: 954
+        height: 1725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d929a38f628f6160800000000000000
+      internalID: 7020973759555774928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_20
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 2477
+        width: 982
+        height: 1662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f529468b972e1e0800000000000000
+      internalID: -2170038237570900187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_21
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 2525
+        width: 994
+        height: 1670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c19cb5ac72ec2b0800000000000000
+      internalID: -5562464739679200159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_22
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 2468
+        width: 1041
+        height: 1705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09165ff199cb6f840800000000000000
+      internalID: 5257596980853825936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_23
+      rect:
+        serializedVersion: 2
+        x: 6572
+        y: 2477
+        width: 1056
+        height: 1677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6c5a43a90c04aa0800000000000000
+      internalID: -6178726920211544324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_24
+      rect:
+        serializedVersion: 2
+        x: 7843
+        y: 2377
+        width: 1082
+        height: 1922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c06ec6105998ca0800000000000000
+      internalID: -6014111994022065045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_25
+      rect:
+        serializedVersion: 2
+        x: 9158
+        y: 2481
+        width: 1019
+        height: 1708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a1d46280e88290800000000000000
+      internalID: -7887807896697592611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_26
+      rect:
+        serializedVersion: 2
+        x: 10413
+        y: 2474
+        width: 1053
+        height: 1675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee04eca7e67057a70800000000000000
+      internalID: 8823967215990489326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_27
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 2188
+        width: 1056
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecb13c612c624ff0800000000000000
+      internalID: -53361354770105114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_28
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 2195
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5433c38451d6720800000000000000
+      internalID: 2840950339932472764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_29
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 2195
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5c1f7e40fa57ab0800000000000000
+      internalID: -5010906574773697105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_30
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 2195
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d64e1c41b884da30800000000000000
+      internalID: 4239163444330120916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_31
+      rect:
+        serializedVersion: 2
+        x: 4448
+        y: 2195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dfd3ce785f3e8b0800000000000000
+      internalID: -5123981986884616958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_32
+      rect:
+        serializedVersion: 2
+        x: 4477
+        y: 2195
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cead77142773a20800000000000000
+      internalID: 3042025698821336067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_33
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 2195
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4568f67e86337150800000000000000
+      internalID: 5869094724903134542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_34
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 2195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e665e5889ad750800000000000000
+      internalID: 6330539927069452723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_35
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 2195
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f46ce03c8fe2ca0800000000000000
+      internalID: -6039616533607067843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_36
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 2195
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fdb7048a0012bf0800000000000000
+      internalID: -350998573321822402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_37
+      rect:
+        serializedVersion: 2
+        x: 4616
+        y: 2195
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c752d111fab222f90800000000000000
+      internalID: -6979968441564453508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_38
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 2195
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eedd641c826c4160800000000000000
+      internalID: 7011087073686707941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_39
+      rect:
+        serializedVersion: 2
+        x: 4657
+        y: 2195
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c957c7c1843c390800000000000000
+      internalID: -7799310842491200479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_40
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 2195
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0423b449498c1ef80800000000000000
+      internalID: -8078955716057288128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_41
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 2195
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf74ff5256ac8bb70800000000000000
+      internalID: 8915097998157891579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_42
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 2195
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f22adcaad0d8c0800000000000000
+      internalID: -3976438035039194846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_43
+      rect:
+        serializedVersion: 2
+        x: 4774
+        y: 2195
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8ade47269430530800000000000000
+      internalID: 3819977596157667551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_44
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 2195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab7a577bd3d69b40800000000000000
+      internalID: 5446773738904910753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_45
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2195
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165721139943f31d0800000000000000
+      internalID: -3368916163691907743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_46
+      rect:
+        serializedVersion: 2
+        x: 4873
+        y: 2195
+        width: 269
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2175eba5e2994d6a0800000000000000
+      internalID: -6425342343980886254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_47
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 2195
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb63aac748a7946e0800000000000000
+      internalID: -1852815062240446785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_48
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 2195
+        width: 50
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de663fce2573f8cb0800000000000000
+      internalID: -4859604643607255315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_49
+      rect:
+        serializedVersion: 2
+        x: 5232
+        y: 2195
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a71b4cf65946e70800000000000000
+      internalID: 9107568653723859595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_50
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 2173
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad00240e8f7e030800000000000000
+      internalID: 3524058875504417447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_51
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 406
+        width: 1033
+        height: 1687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ff0962457b535d0800000000000000
+      internalID: -3083356797813063867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_52
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 464
+        width: 1001
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f4a75cd02eb8be0800000000000000
+      internalID: -1473835904258126006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_53
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 393
+        width: 1043
+        height: 1680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36967fe971125fa0800000000000000
+      internalID: -5813564953575647684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_54
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 296
+        width: 1080
+        height: 1834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadaa92644f2cc190800000000000000
+      internalID: -7940920072202441299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_55
+      rect:
+        serializedVersion: 2
+        x: 5523
+        y: 433
+        width: 1001
+        height: 1690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd71dc460e7d11990800000000000000
+      internalID: -7416909752538687523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_56
+      rect:
+        serializedVersion: 2
+        x: 6773
+        y: 396
+        width: 1045
+        height: 1679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2d2384f9a787680800000000000000
+      internalID: -8757114650892250463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_57
+      rect:
+        serializedVersion: 2
+        x: 8052
+        y: 423
+        width: 1040
+        height: 1668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b6d58828328dad0800000000000000
+      internalID: -2677350934931215474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima_58
+      rect:
+        serializedVersion: 2
+        x: 5267
+        y: 294
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8457029576192f0800000000000000
+      internalID: -967878812413638439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      maxima_0: -8817588743374810647
+      maxima_1: 6075295467350424428
+      maxima_10: -364316742397800649
+      maxima_11: -8935293055597368200
+      maxima_12: -3418141790417539064
+      maxima_13: -1194146616676864338
+      maxima_14: 6749431435857800298
+      maxima_15: 3215675155204326564
+      maxima_16: 2582153283988429183
+      maxima_17: 5087248763532064261
+      maxima_18: 8715446619233518969
+      maxima_19: 7020973759555774928
+      maxima_2: 9171186080936867604
+      maxima_20: -2170038237570900187
+      maxima_21: -5562464739679200159
+      maxima_22: 5257596980853825936
+      maxima_23: -6178726920211544324
+      maxima_24: -6014111994022065045
+      maxima_25: -7887807896697592611
+      maxima_26: 8823967215990489326
+      maxima_27: -53361354770105114
+      maxima_28: 2840950339932472764
+      maxima_29: -5010906574773697105
+      maxima_3: -3764850153753257809
+      maxima_30: 4239163444330120916
+      maxima_31: -5123981986884616958
+      maxima_32: 3042025698821336067
+      maxima_33: 5869094724903134542
+      maxima_34: 6330539927069452723
+      maxima_35: -6039616533607067843
+      maxima_36: -350998573321822402
+      maxima_37: -6979968441564453508
+      maxima_38: 7011087073686707941
+      maxima_39: -7799310842491200479
+      maxima_4: 8039880578942361415
+      maxima_40: -8078955716057288128
+      maxima_41: 8915097998157891579
+      maxima_42: -3976438035039194846
+      maxima_43: 3819977596157667551
+      maxima_44: 5446773738904910753
+      maxima_45: -3368916163691907743
+      maxima_46: -6425342343980886254
+      maxima_47: -1852815062240446785
+      maxima_48: -4859604643607255315
+      maxima_49: 9107568653723859595
+      maxima_5: 6033848268746552452
+      maxima_50: 3524058875504417447
+      maxima_51: -3083356797813063867
+      maxima_52: -1473835904258126006
+      maxima_53: -5813564953575647684
+      maxima_54: -7940920072202441299
+      maxima_55: -7416909752538687523
+      maxima_56: -8757114650892250463
+      maxima_57: -2677350934931215474
+      maxima_58: -967878812413638439
+      maxima_6: -9138177389758554687
+      maxima_7: -5473643114265041519
+      maxima_8: -3388185278813152700
+      maxima_9: 334453120473301597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
