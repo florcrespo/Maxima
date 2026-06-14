@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 645cc847b4e748049b2d36dc47a4a93c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6350618798649742531
+    second: plataforma larga_0
+  - first:
+      213: -6117536878182213470
+    second: plataforma larga_1
+  - first:
+      213: 7217957624436972154
+    second: plataforma larga_2
+  - first:
+      213: -1364956407551307669
+    second: plataforma larga_3
+  - first:
+      213: 4836799911173339636
+    second: plataforma larga_4
+  - first:
+      213: 8074421465958723244
+    second: plataforma larga_5
+  - first:
+      213: 7348244379269219634
+    second: plataforma larga_6
+  - first:
+      213: 300381448782979801
+    second: plataforma larga_7
+  - first:
+      213: 2665368540761099102
+    second: plataforma larga_8
+  - first:
+      213: 3782785654770229642
+    second: plataforma larga_9
+  - first:
+      213: -1397368071468961805
+    second: plataforma larga_10
+  - first:
+      213: 1870614145414103879
+    second: plataforma larga_11
+  - first:
+      213: 1978868622034064409
+    second: plataforma larga_12
+  - first:
+      213: -3592538769471359314
+    second: plataforma larga_13
+  - first:
+      213: -7388919460128489017
+    second: plataforma larga_14
+  - first:
+      213: -2570543637793842863
+    second: plataforma larga_15
+  - first:
+      213: 355948880577062567
+    second: plataforma larga_16
+  - first:
+      213: 7296948871480404548
+    second: plataforma larga_17
+  - first:
+      213: -3045870819066929874
+    second: plataforma larga_18
+  - first:
+      213: -2942925784637022324
+    second: plataforma larga_19
+  - first:
+      213: 2989337362907197623
+    second: plataforma larga_20
+  - first:
+      213: 7839442424443172862
+    second: plataforma larga_21
+  - first:
+      213: -8408725550080427366
+    second: plataforma larga_22
+  - first:
+      213: -3285527483119760009
+    second: plataforma larga_23
+  - first:
+      213: -7532471720454013305
+    second: plataforma larga_24
+  - first:
+      213: 9167894717662828127
+    second: plataforma larga_25
+  - first:
+      213: 3753534224798814772
+    second: plataforma larga_26
+  - first:
+      213: -2325178298113078864
+    second: plataforma larga_27
+  - first:
+      213: 701059865879277715
+    second: plataforma larga_28
+  - first:
+      213: -7247862465111836398
+    second: plataforma larga_29
+  - first:
+      213: 4700409263761929104
+    second: plataforma larga_30
+  - first:
+      213: 1717814814448796502
+    second: plataforma larga_31
+  - first:
+      213: 3477349702876611302
+    second: plataforma larga_32
+  - first:
+      213: 3210855668318255705
+    second: plataforma larga_33
+  - first:
+      213: -4300462143189837393
+    second: plataforma larga_34
+  - first:
+      213: 9119804403286267505
+    second: plataforma larga_35
+  - first:
+      213: -8890562071963097335
+    second: plataforma larga_36
+  - first:
+      213: -4303946389002139842
+    second: plataforma larga_37
+  - first:
+      213: -7430020888907706618
+    second: plataforma larga_38
+  - first:
+      213: -1737719038676583787
+    second: plataforma larga_39
+  - first:
+      213: 8261262812293783921
+    second: plataforma larga_40
+  - first:
+      213: 1245255355328939987
+    second: plataforma larga_41
+  - first:
+      213: -6184062581462237355
+    second: plataforma larga_42
+  - first:
+      213: -6906735462231527761
+    second: plataforma larga_43
+  - first:
+      213: 7819567550259748502
+    second: plataforma larga_44
+  - first:
+      213: -8653557292536388534
+    second: plataforma larga_45
+  - first:
+      213: -6216039205763964065
+    second: plataforma larga_46
+  - first:
+      213: 3393813918860687134
+    second: plataforma larga_47
+  - first:
+      213: -1935430735172301418
+    second: plataforma larga_48
+  - first:
+      213: 9162705781332861375
+    second: plataforma larga_49
+  - first:
+      213: -5116621633751063326
+    second: plataforma larga_50
+  - first:
+      213: 6398108762905717076
+    second: plataforma larga_51
+  - first:
+      213: 6331432309325268026
+    second: plataforma larga_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plataforma larga_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 1539
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c49f6d762ee12850800000000000000
+      internalID: 6350618798649742531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 314
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8d8931f942a1ba0800000000000000
+      internalID: -6117536878182213470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 298
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a536097365b2460800000000000000
+      internalID: 7217957624436972154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 298
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60d2021163be0de0800000000000000
+      internalID: -1364956407551307669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_4
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 298
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9b02b84e3cf1340800000000000000
+      internalID: 4836799911173339636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_5
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 298
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae224d0b8b1e0070800000000000000
+      internalID: 8074421465958723244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_6
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 298
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2354a1d84553af560800000000000000
+      internalID: 7348244379269219634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_7
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 307
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2a3df065b2b2400800000000000000
+      internalID: 300381448782979801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b019be09a4df420800000000000000
+      internalID: 2665368540761099102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 299
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81e50ec2872f7430800000000000000
+      internalID: 3782785654770229642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 296
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffae9f742d8b9ce0800000000000000
+      internalID: -1397368071468961805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 298
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7438a3187a1c5f910800000000000000
+      internalID: 1870614145414103879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 298
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914d189f68a567b10800000000000000
+      internalID: 1978868622034064409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 298
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea637d3f50db42ec0800000000000000
+      internalID: -3592538769471359314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1021136e8457990800000000000000
+      internalID: -7388919460128489017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_15
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 298
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15958a54e28935cd0800000000000000
+      internalID: -2570543637793842863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_16
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 298
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a66ef8fe9590f400800000000000000
+      internalID: 355948880577062567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_17
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 298
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae6c47658f34560800000000000000
+      internalID: 7296948871480404548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_18
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 298
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d99c5b0a4eab5d0800000000000000
+      internalID: -3045870819066929874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_19
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 298
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f5f565790a827d0800000000000000
+      internalID: -2942925784637022324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_20
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 298
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0f2ed4e724c7920800000000000000
+      internalID: 2989337362907197623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_21
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 303
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7ff02995b4bcc60800000000000000
+      internalID: 7839442424443172862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_22
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 298
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a74bdd9a43e4b80800000000000000
+      internalID: -8408725550080427366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_23
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 298
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d0ddc59267762d0800000000000000
+      internalID: -3285527483119760009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_24
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eb9a501e8477790800000000000000
+      internalID: -7532471720454013305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_25
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 298
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5619701ca7ea3f70800000000000000
+      internalID: 9167894717662828127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_26
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43297698d7b371430800000000000000
+      internalID: 3753534224798814772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_27
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 298
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9c58d38ae4bbfd0800000000000000
+      internalID: -2325178298113078864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_28
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 304
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3907400db3aaab900800000000000000
+      internalID: 701059865879277715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_29
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 298
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2193f122d7b6a6b90800000000000000
+      internalID: -7247862465111836398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_30
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 298
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0933c7152553b3140800000000000000
+      internalID: 4700409263761929104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_31
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653cf1de877e6d710800000000000000
+      internalID: 1717814814448796502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_32
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 298
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e245c78127024030800000000000000
+      internalID: 3477349702876611302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_33
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 298
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab82fe7304f8c20800000000000000
+      internalID: 3210855668318255705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa997213770b154c0800000000000000
+      internalID: -4300462143189837393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 296
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176dbe639cd009e70800000000000000
+      internalID: 9119804403286267505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_36
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907241756e06e9480800000000000000
+      internalID: -8890562071963097335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_37
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37c33fff8f4544c0800000000000000
+      internalID: -4303946389002139842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_38
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 298
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f8ce21e5343e890800000000000000
+      internalID: -7430020888907706618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_39
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 298
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59abf3cbdb162e7e0800000000000000
+      internalID: -1737719038676583787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_40
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1716aeaf1c6e5a270800000000000000
+      internalID: 8261262812293783921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_41
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c805e529084110800000000000000
+      internalID: 1245255355328939987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_42
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f7823c8dbcd2aa0800000000000000
+      internalID: -6184062581462237355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea818c0b85620a0800000000000000
+      internalID: -6906735462231527761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_44
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 50
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e5762d14fa48c60800000000000000
+      internalID: 7819567550259748502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_45
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44a0eead7368e780800000000000000
+      internalID: -8653557292536388534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_46
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 51
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a98eb6413cb9a0800000000000000
+      internalID: -6216039205763964065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_47
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 51
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17b77b27cf391f20800000000000000
+      internalID: 3393813918860687134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_48
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 52
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d8eae2008f325e0800000000000000
+      internalID: -1935430735172301418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_49
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 52
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb163cdac58782f70800000000000000
+      internalID: 9162705781332861375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_50
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4603eabbb1ef8b0800000000000000
+      internalID: -5116621633751063326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_51
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 40
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4592f4f6506aac850800000000000000
+      internalID: 6398108762905717076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma larga_52
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3483c4d324cdd750800000000000000
+      internalID: 6331432309325268026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plataforma larga_0: 6350618798649742531
+      plataforma larga_1: -6117536878182213470
+      plataforma larga_10: -1397368071468961805
+      plataforma larga_11: 1870614145414103879
+      plataforma larga_12: 1978868622034064409
+      plataforma larga_13: -3592538769471359314
+      plataforma larga_14: -7388919460128489017
+      plataforma larga_15: -2570543637793842863
+      plataforma larga_16: 355948880577062567
+      plataforma larga_17: 7296948871480404548
+      plataforma larga_18: -3045870819066929874
+      plataforma larga_19: -2942925784637022324
+      plataforma larga_2: 7217957624436972154
+      plataforma larga_20: 2989337362907197623
+      plataforma larga_21: 7839442424443172862
+      plataforma larga_22: -8408725550080427366
+      plataforma larga_23: -3285527483119760009
+      plataforma larga_24: -7532471720454013305
+      plataforma larga_25: 9167894717662828127
+      plataforma larga_26: 3753534224798814772
+      plataforma larga_27: -2325178298113078864
+      plataforma larga_28: 701059865879277715
+      plataforma larga_29: -7247862465111836398
+      plataforma larga_3: -1364956407551307669
+      plataforma larga_30: 4700409263761929104
+      plataforma larga_31: 1717814814448796502
+      plataforma larga_32: 3477349702876611302
+      plataforma larga_33: 3210855668318255705
+      plataforma larga_34: -4300462143189837393
+      plataforma larga_35: 9119804403286267505
+      plataforma larga_36: -8890562071963097335
+      plataforma larga_37: -4303946389002139842
+      plataforma larga_38: -7430020888907706618
+      plataforma larga_39: -1737719038676583787
+      plataforma larga_4: 4836799911173339636
+      plataforma larga_40: 8261262812293783921
+      plataforma larga_41: 1245255355328939987
+      plataforma larga_42: -6184062581462237355
+      plataforma larga_43: -6906735462231527761
+      plataforma larga_44: 7819567550259748502
+      plataforma larga_45: -8653557292536388534
+      plataforma larga_46: -6216039205763964065
+      plataforma larga_47: 3393813918860687134
+      plataforma larga_48: -1935430735172301418
+      plataforma larga_49: 9162705781332861375
+      plataforma larga_5: 8074421465958723244
+      plataforma larga_50: -5116621633751063326
+      plataforma larga_51: 6398108762905717076
+      plataforma larga_52: 6331432309325268026
+      plataforma larga_6: 7348244379269219634
+      plataforma larga_7: 300381448782979801
+      plataforma larga_8: 2665368540761099102
+      plataforma larga_9: 3782785654770229642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

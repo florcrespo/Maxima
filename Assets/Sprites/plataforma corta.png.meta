@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 3e3e33bcb30cfaa45adbcb8b291ebc85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4771047611149804464
+    second: plataforma corta_0
+  - first:
+      213: 8027236430412543567
+    second: plataforma corta_1
+  - first:
+      213: 3439997623281489155
+    second: plataforma corta_2
+  - first:
+      213: 589222882659778007
+    second: plataforma corta_3
+  - first:
+      213: -8489647923791902258
+    second: plataforma corta_4
+  - first:
+      213: -640350351106322157
+    second: plataforma corta_5
+  - first:
+      213: 8442468641784944708
+    second: plataforma corta_6
+  - first:
+      213: 1448611377456865345
+    second: plataforma corta_7
+  - first:
+      213: 6782221635674165732
+    second: plataforma corta_8
+  - first:
+      213: 6865160968421872255
+    second: plataforma corta_9
+  - first:
+      213: -372328568400883209
+    second: plataforma corta_10
+  - first:
+      213: -830615284174441274
+    second: plataforma corta_11
+  - first:
+      213: -3532189446137070460
+    second: plataforma corta_12
+  - first:
+      213: -4927069870456249732
+    second: plataforma corta_13
+  - first:
+      213: 1909479447702069294
+    second: plataforma corta_14
+  - first:
+      213: -1593457288052362003
+    second: plataforma corta_15
+  - first:
+      213: -5422652930299993021
+    second: plataforma corta_16
+  - first:
+      213: 2183372308019080308
+    second: plataforma corta_17
+  - first:
+      213: 602080051244657316
+    second: plataforma corta_18
+  - first:
+      213: 8286538748111356819
+    second: plataforma corta_19
+  - first:
+      213: 4660102030818629148
+    second: plataforma corta_20
+  - first:
+      213: 1020709030573151627
+    second: plataforma corta_21
+  - first:
+      213: -8729924322329451953
+    second: plataforma corta_22
+  - first:
+      213: -1519671651581716748
+    second: plataforma corta_23
+  - first:
+      213: -1139394672201511640
+    second: plataforma corta_24
+  - first:
+      213: -3561090468114577145
+    second: plataforma corta_25
+  - first:
+      213: -7773704304552633831
+    second: plataforma corta_26
+  - first:
+      213: -4144355179942730421
+    second: plataforma corta_27
+  - first:
+      213: 8325005295636803166
+    second: plataforma corta_28
+  - first:
+      213: 3301076995874806803
+    second: plataforma corta_29
+  - first:
+      213: 709228720805888038
+    second: plataforma corta_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plataforma corta_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 759
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b36f05368a263240800000000000000
+      internalID: 4771047611149804464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 270
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4670dad009766f60800000000000000
+      internalID: 8027236430412543567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_2
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30591ebcc935dbf20800000000000000
+      internalID: 3439997623281489155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 43
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddb77607175d2800800000000000000
+      internalID: 589222882659778007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 46
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec940428136be2a80800000000000000
+      internalID: -8489647923791902258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 48
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311d2869fb40d17f0800000000000000
+      internalID: -640350351106322157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44857f4ef7ca92570800000000000000
+      internalID: 8442468641784944708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 48
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140e7ea6f508a1410800000000000000
+      internalID: 1448611377456865345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 48
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d356d4aa4f1e50800000000000000
+      internalID: 6782221635674165732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 49
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7299a01783f54f50800000000000000
+      internalID: 6865160968421872255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 43
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f15cb4c32935daf0800000000000000
+      internalID: -372328568400883209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 49
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4b5c1cccf0974f0800000000000000
+      internalID: -830615284174441274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 49
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cbd9fb9642bfec0800000000000000
+      internalID: -3532189446137070460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 41
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72ecebbe088f9bb0800000000000000
+      internalID: -4927069870456249732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20e03ad075df7a10800000000000000
+      internalID: 1909479447702069294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 49
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4b1ecf907e2e9e0800000000000000
+      internalID: -1593457288052362003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_16
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344ec3de3eddeb4b0800000000000000
+      internalID: -5422652930299993021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ce6efcb85ec4e10800000000000000
+      internalID: 2183372308019080308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_18
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 48
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa69ccdd940b5800800000000000000
+      internalID: 602080051244657316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39300b26613bff270800000000000000
+      internalID: 8286538748111356819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_20
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 48
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1655045b120ca040800000000000000
+      internalID: 4660102030818629148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 49
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85985294794a2e00800000000000000
+      internalID: 1020709030573151627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_22
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 46
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a28bf41419d680800000000000000
+      internalID: -8729924322329451953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_23
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 41
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f69d383faa09eae0800000000000000
+      internalID: -1519671651581716748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_24
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 49
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dc478159e0030f0800000000000000
+      internalID: -1139394672201511640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 49
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70940033617749ec0800000000000000
+      internalID: -3561090468114577145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 45
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a17323f114e1490800000000000000
+      internalID: -7773704304552633831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_27
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45a67cebea4c76c0800000000000000
+      internalID: -4144355179942730421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 49
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e6da7653c588370800000000000000
+      internalID: 8325005295636803166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_29
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cd453b908cfcd20800000000000000
+      internalID: 3301076995874806803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma corta_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620c32093cfa7d900800000000000000
+      internalID: 709228720805888038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plataforma corta_0: 4771047611149804464
+      plataforma corta_1: 8027236430412543567
+      plataforma corta_10: -372328568400883209
+      plataforma corta_11: -830615284174441274
+      plataforma corta_12: -3532189446137070460
+      plataforma corta_13: -4927069870456249732
+      plataforma corta_14: 1909479447702069294
+      plataforma corta_15: -1593457288052362003
+      plataforma corta_16: -5422652930299993021
+      plataforma corta_17: 2183372308019080308
+      plataforma corta_18: 602080051244657316
+      plataforma corta_19: 8286538748111356819
+      plataforma corta_2: 3439997623281489155
+      plataforma corta_20: 4660102030818629148
+      plataforma corta_21: 1020709030573151627
+      plataforma corta_22: -8729924322329451953
+      plataforma corta_23: -1519671651581716748
+      plataforma corta_24: -1139394672201511640
+      plataforma corta_25: -3561090468114577145
+      plataforma corta_26: -7773704304552633831
+      plataforma corta_27: -4144355179942730421
+      plataforma corta_28: 8325005295636803166
+      plataforma corta_29: 3301076995874806803
+      plataforma corta_3: 589222882659778007
+      plataforma corta_30: 709228720805888038
+      plataforma corta_4: -8489647923791902258
+      plataforma corta_5: -640350351106322157
+      plataforma corta_6: 8442468641784944708
+      plataforma corta_7: 1448611377456865345
+      plataforma corta_8: 6782221635674165732
+      plataforma corta_9: 6865160968421872255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

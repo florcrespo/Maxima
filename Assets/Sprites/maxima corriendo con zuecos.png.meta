@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 89f9b53dcbd850340883921a7d6aa5de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -73539586089451850
+    second: maxima corriendo con zuecos_0
+  - first:
+      213: 5191331259677457469
+    second: maxima corriendo con zuecos_1
+  - first:
+      213: -1598536109835336355
+    second: maxima corriendo con zuecos_2
+  - first:
+      213: -5293585795583414944
+    second: maxima corriendo con zuecos_3
+  - first:
+      213: -2480761160367415947
+    second: maxima corriendo con zuecos_4
+  - first:
+      213: 7551149262141028740
+    second: maxima corriendo con zuecos_5
+  - first:
+      213: -6026497377495100878
+    second: maxima corriendo con zuecos_6
+  - first:
+      213: -1760064778685432609
+    second: maxima corriendo con zuecos_7
+  - first:
+      213: -226945935446743465
+    second: maxima corriendo con zuecos_8
+  - first:
+      213: -2654494979105489720
+    second: maxima corriendo con zuecos_9
+  - first:
+      213: -7746493074580121617
+    second: maxima corriendo con zuecos_10
+  - first:
+      213: 4600138816060038502
+    second: maxima corriendo con zuecos_11
+  - first:
+      213: 5618508154780766607
+    second: maxima corriendo con zuecos_12
+  - first:
+      213: -4342482306915100920
+    second: maxima corriendo con zuecos_13
+  - first:
+      213: -3584717772339989091
+    second: maxima corriendo con zuecos_14
+  - first:
+      213: -2265795100691308838
+    second: maxima corriendo con zuecos_15
+  - first:
+      213: -5922425609400642645
+    second: maxima corriendo con zuecos_16
+  - first:
+      213: -4823481788639490100
+    second: maxima corriendo con zuecos_17
+  - first:
+      213: 9201114857487671897
+    second: maxima corriendo con zuecos_18
+  - first:
+      213: 6728922651187287372
+    second: maxima corriendo con zuecos_19
+  - first:
+      213: -2875499025698268547
+    second: maxima corriendo con zuecos_20
+  - first:
+      213: -2486106453458439086
+    second: maxima corriendo con zuecos_21
+  - first:
+      213: -2413593964368187793
+    second: maxima corriendo con zuecos_22
+  - first:
+      213: -7322677972049141002
+    second: maxima corriendo con zuecos_23
+  - first:
+      213: -2816401834024589788
+    second: maxima corriendo con zuecos_24
+  - first:
+      213: 6822737297701014862
+    second: maxima corriendo con zuecos_25
+  - first:
+      213: -3320299443360489195
+    second: maxima corriendo con zuecos_26
+  - first:
+      213: 679692399783073508
+    second: maxima corriendo con zuecos_27
+  - first:
+      213: -4638902843504157033
+    second: maxima corriendo con zuecos_28
+  - first:
+      213: 3273307577214912979
+    second: maxima corriendo con zuecos_29
+  - first:
+      213: 3755398671205023191
+    second: maxima corriendo con zuecos_30
+  - first:
+      213: 1696592436529348360
+    second: maxima corriendo con zuecos_31
+  - first:
+      213: -1388061545846032482
+    second: maxima corriendo con zuecos_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6461
+        width: 1112
+        height: 1899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be7536d22cbafef0800000000000000
+      internalID: -73539586089451850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_1
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 6461
+        width: 1111
+        height: 1898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cb47c96405b0840800000000000000
+      internalID: 5191331259677457469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_2
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 6441
+        width: 1022
+        height: 1953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5541a4a0ebd0d9e0800000000000000
+      internalID: -1598536109835336355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_3
+      rect:
+        serializedVersion: 2
+        x: 4532
+        y: 6433
+        width: 1043
+        height: 1949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d623af3c76986b0800000000000000
+      internalID: -5293585795583414944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_4
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 6437
+        width: 1082
+        height: 1923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd6b74ed0929dd0800000000000000
+      internalID: -2480761160367415947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_5
+      rect:
+        serializedVersion: 2
+        x: 7349
+        y: 6438
+        width: 1127
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4897ed70f321bc860800000000000000
+      internalID: 7551149262141028740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_6
+      rect:
+        serializedVersion: 2
+        x: 8774
+        y: 6435
+        width: 1151
+        height: 1888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d49e90949d5ca0800000000000000
+      internalID: -6026497377495100878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_7
+      rect:
+        serializedVersion: 2
+        x: 10217
+        y: 6436
+        width: 1149
+        height: 1902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc37c4b86ef297e0800000000000000
+      internalID: -1760064778685432609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_8
+      rect:
+        serializedVersion: 2
+        x: 11668
+        y: 6446
+        width: 1139
+        height: 1924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7566a76cfd9b9dcf0800000000000000
+      internalID: -226945935446743465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_9
+      rect:
+        serializedVersion: 2
+        x: 13114
+        y: 6452
+        width: 1122
+        height: 1955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccfb5071e6592bd0800000000000000
+      internalID: -2654494979105489720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_10
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 6289
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7d0a2679dee7490800000000000000
+      internalID: -7746493074580121617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3437
+        width: 1115
+        height: 1957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d9eb071e9f6df30800000000000000
+      internalID: 4600138816060038502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_12
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 3470
+        width: 1117
+        height: 1935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81d75d0663f8fd40800000000000000
+      internalID: 5618508154780766607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_13
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3439
+        width: 1138
+        height: 1966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80718ec69576cb3c0800000000000000
+      internalID: -4342482306915100920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_14
+      rect:
+        serializedVersion: 2
+        x: 4435
+        y: 3405
+        width: 1158
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9535afbd26804ec0800000000000000
+      internalID: -3584717772339989091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_15
+      rect:
+        serializedVersion: 2
+        x: 5854
+        y: 3384
+        width: 1170
+        height: 1972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade59715c574e80e0800000000000000
+      internalID: -2265795100691308838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_16
+      rect:
+        serializedVersion: 2
+        x: 7268
+        y: 3383
+        width: 1202
+        height: 1931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39ffe59415fcda0800000000000000
+      internalID: -5922425609400642645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_17
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 3381
+        width: 1223
+        height: 1918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfc39f7edc8f0db0800000000000000
+      internalID: -4823481788639490100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_18
+      rect:
+        serializedVersion: 2
+        x: 10156
+        y: 3383
+        width: 1223
+        height: 1936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9522f1a963de0bf70800000000000000
+      internalID: 9201114857487671897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_19
+      rect:
+        serializedVersion: 2
+        x: 11624
+        y: 3388
+        width: 1195
+        height: 1970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c451919ff7fe16d50800000000000000
+      internalID: 6728922651187287372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_20
+      rect:
+        serializedVersion: 2
+        x: 13100
+        y: 3389
+        width: 1148
+        height: 2003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ad5450fdc2818d0800000000000000
+      internalID: -2875499025698268547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 335
+        width: 1164
+        height: 2042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254bdcf3a539f7dd0800000000000000
+      internalID: -2486106453458439086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_22
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 438
+        width: 1196
+        height: 1948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eaec1c311318ed0800000000000000
+      internalID: -2413593964368187793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_23
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 410
+        width: 1198
+        height: 1971
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2ee6f7e2f906a90800000000000000
+      internalID: -7322677972049141002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_24
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 368
+        width: 1158
+        height: 1983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426a43234712ae8d0800000000000000
+      internalID: -2816401834024589788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_25
+      rect:
+        serializedVersion: 2
+        x: 5851
+        y: 347
+        width: 1170
+        height: 1972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d07418c6b3fae50800000000000000
+      internalID: 6822737297701014862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_26
+      rect:
+        serializedVersion: 2
+        x: 7265
+        y: 347
+        width: 1201
+        height: 1929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511229a7f3debe1d0800000000000000
+      internalID: -3320299443360489195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_27
+      rect:
+        serializedVersion: 2
+        x: 8699
+        y: 345
+        width: 1222
+        height: 1916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e65a9de2a0ce6900800000000000000
+      internalID: 679692399783073508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_28
+      rect:
+        serializedVersion: 2
+        x: 10150
+        y: 346
+        width: 1222
+        height: 1935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e9269117e4f9fb0800000000000000
+      internalID: -4638902843504157033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_29
+      rect:
+        serializedVersion: 2
+        x: 11617
+        y: 351
+        width: 1194
+        height: 1969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d94d7416ef1d6d20800000000000000
+      internalID: 3273307577214912979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_30
+      rect:
+        serializedVersion: 2
+        x: 13092
+        y: 352
+        width: 1147
+        height: 2002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd362bc13bdd1430800000000000000
+      internalID: 3755398671205023191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_31
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 205
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f32f305d18b8710800000000000000
+      internalID: 1696592436529348360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima corriendo con zuecos_32
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 196
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97b779d06d9cbce0800000000000000
+      internalID: -1388061545846032482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      maxima corriendo con zuecos_0: -73539586089451850
+      maxima corriendo con zuecos_1: 5191331259677457469
+      maxima corriendo con zuecos_10: -7746493074580121617
+      maxima corriendo con zuecos_11: 4600138816060038502
+      maxima corriendo con zuecos_12: 5618508154780766607
+      maxima corriendo con zuecos_13: -4342482306915100920
+      maxima corriendo con zuecos_14: -3584717772339989091
+      maxima corriendo con zuecos_15: -2265795100691308838
+      maxima corriendo con zuecos_16: -5922425609400642645
+      maxima corriendo con zuecos_17: -4823481788639490100
+      maxima corriendo con zuecos_18: 9201114857487671897
+      maxima corriendo con zuecos_19: 6728922651187287372
+      maxima corriendo con zuecos_2: -1598536109835336355
+      maxima corriendo con zuecos_20: -2875499025698268547
+      maxima corriendo con zuecos_21: -2486106453458439086
+      maxima corriendo con zuecos_22: -2413593964368187793
+      maxima corriendo con zuecos_23: -7322677972049141002
+      maxima corriendo con zuecos_24: -2816401834024589788
+      maxima corriendo con zuecos_25: 6822737297701014862
+      maxima corriendo con zuecos_26: -3320299443360489195
+      maxima corriendo con zuecos_27: 679692399783073508
+      maxima corriendo con zuecos_28: -4638902843504157033
+      maxima corriendo con zuecos_29: 3273307577214912979
+      maxima corriendo con zuecos_3: -5293585795583414944
+      maxima corriendo con zuecos_30: 3755398671205023191
+      maxima corriendo con zuecos_31: 1696592436529348360
+      maxima corriendo con zuecos_32: -1388061545846032482
+      maxima corriendo con zuecos_4: -2480761160367415947
+      maxima corriendo con zuecos_5: 7551149262141028740
+      maxima corriendo con zuecos_6: -6026497377495100878
+      maxima corriendo con zuecos_7: -1760064778685432609
+      maxima corriendo con zuecos_8: -226945935446743465
+      maxima corriendo con zuecos_9: -2654494979105489720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
