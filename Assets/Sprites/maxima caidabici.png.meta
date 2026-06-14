@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: a1d88b57851594715ad0c757bf0f7755
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3404489327792093328
+    second: maxima caidabici_0
+  - first:
+      213: 3933842619659010931
+    second: maxima caidabici_1
+  - first:
+      213: 3970842622098530630
+    second: maxima caidabici_2
+  - first:
+      213: 7342152127934604473
+    second: maxima caidabici_3
+  - first:
+      213: -3194659428717014096
+    second: maxima caidabici_4
+  - first:
+      213: 2882108330504964113
+    second: maxima caidabici_5
+  - first:
+      213: 7605068074499402214
+    second: maxima caidabici_6
+  - first:
+      213: 7544912888935281328
+    second: maxima caidabici_7
+  - first:
+      213: 6897587110699668411
+    second: maxima caidabici_8
+  - first:
+      213: -1250146715165711822
+    second: maxima caidabici_9
+  - first:
+      213: -6088916684033702102
+    second: maxima caidabici_10
+  - first:
+      213: 1114777713177944683
+    second: maxima caidabici_11
+  - first:
+      213: -3424228860047624430
+    second: maxima caidabici_12
+  - first:
+      213: 8795014616978143819
+    second: maxima caidabici_13
+  - first:
+      213: 952970969971233494
+    second: maxima caidabici_14
+  - first:
+      213: -2141833959601610645
+    second: maxima caidabici_15
+  - first:
+      213: -1265376605107890734
+    second: maxima caidabici_16
+  - first:
+      213: -4635631930933333242
+    second: maxima caidabici_17
+  - first:
+      213: 1337721623279638763
+    second: maxima caidabici_18
+  - first:
+      213: 6665223559743544364
+    second: maxima caidabici_19
+  - first:
+      213: -8470835471464748765
+    second: maxima caidabici_20
+  - first:
+      213: 3132364956812056879
+    second: maxima caidabici_21
+  - first:
+      213: 7515064587718970147
+    second: maxima caidabici_22
+  - first:
+      213: -7264286986326312503
+    second: maxima caidabici_23
+  - first:
+      213: 2304958953235544080
+    second: maxima caidabici_24
+  - first:
+      213: 2458965973736759883
+    second: maxima caidabici_25
+  - first:
+      213: 6413425840938736880
+    second: maxima caidabici_26
+  - first:
+      213: -4570260996767086163
+    second: maxima caidabici_27
+  - first:
+      213: -8185258984777960215
+    second: maxima caidabici_28
+  - first:
+      213: 1121726481976029977
+    second: maxima caidabici_29
+  - first:
+      213: -7981036174611885839
+    second: maxima caidabici_30
+  - first:
+      213: 3784326459553991535
+    second: maxima caidabici_31
+  - first:
+      213: -744076963563854802
+    second: maxima caidabici_32
+  - first:
+      213: -9086523166035466121
+    second: maxima caidabici_33
+  - first:
+      213: -9051926830729402827
+    second: maxima caidabici_34
+  - first:
+      213: 2176845703162821127
+    second: maxima caidabici_35
+  - first:
+      213: 2964565619223712738
+    second: maxima caidabici_36
+  - first:
+      213: 4190864075609118405
+    second: maxima caidabici_37
+  - first:
+      213: -4158376300623013137
+    second: maxima caidabici_38
+  - first:
+      213: 1206996663627948910
+    second: maxima caidabici_39
+  - first:
+      213: -2404921624095769954
+    second: maxima caidabici_40
+  - first:
+      213: 6055636694576294447
+    second: maxima caidabici_41
+  - first:
+      213: 717582930421509170
+    second: maxima caidabici_42
+  - first:
+      213: 2106776358565827360
+    second: maxima caidabici_43
+  - first:
+      213: -5085679695012668758
+    second: maxima caidabici_44
+  - first:
+      213: -8670878124778534165
+    second: maxima caidabici_45
+  - first:
+      213: -4369941797463390091
+    second: maxima caidabici_46
+  - first:
+      213: 7820953507824245848
+    second: maxima caidabici_47
+  - first:
+      213: 3443767681209251625
+    second: maxima caidabici_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maxima caidabici_0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6233
+        width: 624
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098f7a0810d2f3f20800000000000000
+      internalID: 3404489327792093328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_1
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 6233
+        width: 629
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373411b2501d79630800000000000000
+      internalID: 3933842619659010931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_2
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 6233
+        width: 630
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641e92d83544b1730800000000000000
+      internalID: 3970842622098530630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_3
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 6218
+        width: 634
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4ab60c57094e560800000000000000
+      internalID: 7342152127934604473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_4
+      rect:
+        serializedVersion: 2
+        x: 4054
+        y: 6245
+        width: 643
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b358f4fc2a4aa3d0800000000000000
+      internalID: -3194659428717014096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_5
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 6240
+        width: 650
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11841fba14e4ff720800000000000000
+      internalID: 2882108330504964113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_6
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 6241
+        width: 637
+        height: 883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e96331de11aa8960800000000000000
+      internalID: 7605068074499402214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_7
+      rect:
+        serializedVersion: 2
+        x: 6841
+        y: 6240
+        width: 597
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f04e3c4ae4b860800000000000000
+      internalID: 7544912888935281328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_8
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 6912
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb31194aee629bf50800000000000000
+      internalID: 6897587110699668411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_9
+      rect:
+        serializedVersion: 2
+        x: 7782
+        y: 6241
+        width: 583
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2322d65af2696aee0800000000000000
+      internalID: -1250146715165711822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 5143
+        width: 648
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27c83d4982df7ba0800000000000000
+      internalID: -6088916684033702102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_11
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 5145
+        width: 645
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b626e7d7c6c787f00800000000000000
+      internalID: 1114777713177944683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_12
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 5146
+        width: 643
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217783f7ef1ba70d0800000000000000
+      internalID: -3424228860047624430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_13
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 5146
+        width: 640
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ab957323b2e0a70800000000000000
+      internalID: 8795014616978143819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_14
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 5147
+        width: 636
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d215625c02a93d00800000000000000
+      internalID: 952970969971233494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_15
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 5148
+        width: 632
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e3169c5da642e0800000000000000
+      internalID: -2141833959601610645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_16
+      rect:
+        serializedVersion: 2
+        x: 5956
+        y: 5150
+        width: 622
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d554719eaa707ee0800000000000000
+      internalID: -1265376605107890734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_17
+      rect:
+        serializedVersion: 2
+        x: 6875
+        y: 5155
+        width: 593
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603b247c15deaafb0800000000000000
+      internalID: -4635631930933333242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_18
+      rect:
+        serializedVersion: 2
+        x: 7797
+        y: 5132
+        width: 592
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be811f39aba809210800000000000000
+      internalID: 1337721623279638763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3993
+        width: 590
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c14138381af7c50800000000000000
+      internalID: 6665223559743544364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_20
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 3976
+        width: 615
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329a094e40c817a80800000000000000
+      internalID: -8470835471464748765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_21
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 3997
+        width: 632
+        height: 854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f291aad0555687b20800000000000000
+      internalID: 3132364956812056879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_22
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 3987
+        width: 642
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b4b1f0d6fda4860800000000000000
+      internalID: 7515064587718970147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_23
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 3976
+        width: 651
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9f6894971103b90800000000000000
+      internalID: -7264286986326312503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_24
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 3983
+        width: 655
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018f57da4fbdcff10800000000000000
+      internalID: 2304958953235544080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_25
+      rect:
+        serializedVersion: 2
+        x: 5964
+        y: 3964
+        width: 645
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b422a536680002220800000000000000
+      internalID: 2458965973736759883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_26
+      rect:
+        serializedVersion: 2
+        x: 6915
+        y: 3965
+        width: 662
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd67292d0110950800000000000000
+      internalID: 6413425840938736880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_27
+      rect:
+        serializedVersion: 2
+        x: 7866
+        y: 3966
+        width: 672
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da900e476db2390c0800000000000000
+      internalID: -4570260996767086163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3173
+        width: 667
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e43cb9125e186e80800000000000000
+      internalID: -8185258984777960215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_29
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 3174
+        width: 683
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913745dca4c219f00800000000000000
+      internalID: 1121726481976029977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_30
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 3174
+        width: 651
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f057b072e9ad3190800000000000000
+      internalID: -7981036174611885839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_31
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 3176
+        width: 653
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc3df5dd0a48430800000000000000
+      internalID: 3784326459553991535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_32
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1709
+        width: 684
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24a935a1f18ca5f0800000000000000
+      internalID: -744076963563854802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_33
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1712
+        width: 682
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778291da25f26e180800000000000000
+      internalID: -9086523166035466121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_34
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1716
+        width: 680
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536eb81b188116280800000000000000
+      internalID: -9051926830729402827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_35
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1718
+        width: 680
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70afad332a5b53e10800000000000000
+      internalID: 2176845703162821127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_36
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 1719
+        width: 679
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e35a2749b0442920800000000000000
+      internalID: 2964565619223712738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_37
+      rect:
+        serializedVersion: 2
+        x: 5722
+        y: 1721
+        width: 676
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c690a03ca0f82a30800000000000000
+      internalID: 4190864075609118405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_38
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 1722
+        width: 676
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea56fe59ca7a46c0800000000000000
+      internalID: -4158376300623013137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_39
+      rect:
+        serializedVersion: 2
+        x: 7883
+        y: 1724
+        width: 676
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6320a4121d10c010800000000000000
+      internalID: 1206996663627948910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_40
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 425
+        width: 675
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9abd13568000aed0800000000000000
+      internalID: -2404921624095769954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_41
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 426
+        width: 674
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a6a055d71f90450800000000000000
+      internalID: 6055636694576294447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_42
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 427
+        width: 676
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c68a09fdd55f900800000000000000
+      internalID: 717582930421509170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_43
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 427
+        width: 675
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023d1899fe5cc3d10800000000000000
+      internalID: 2106776358565827360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_44
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 427
+        width: 674
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa5a5133490c69b0800000000000000
+      internalID: -5085679695012668758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_45
+      rect:
+        serializedVersion: 2
+        x: 5048
+        y: 429
+        width: 674
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaced9294adaa780800000000000000
+      internalID: -8670878124778534165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_46
+      rect:
+        serializedVersion: 2
+        x: 5993
+        y: 428
+        width: 673
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57800119619da53c0800000000000000
+      internalID: -4369941797463390091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_47
+      rect:
+        serializedVersion: 2
+        x: 6938
+        y: 429
+        width: 673
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c95b637cb998c60800000000000000
+      internalID: 7820953507824245848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: maxima caidabici_48
+      rect:
+        serializedVersion: 2
+        x: 7884
+        y: 429
+        width: 672
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927b27fc578bacf20800000000000000
+      internalID: 3443767681209251625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      maxima caidabici_0: 3404489327792093328
+      maxima caidabici_1: 3933842619659010931
+      maxima caidabici_10: -6088916684033702102
+      maxima caidabici_11: 1114777713177944683
+      maxima caidabici_12: -3424228860047624430
+      maxima caidabici_13: 8795014616978143819
+      maxima caidabici_14: 952970969971233494
+      maxima caidabici_15: -2141833959601610645
+      maxima caidabici_16: -1265376605107890734
+      maxima caidabici_17: -4635631930933333242
+      maxima caidabici_18: 1337721623279638763
+      maxima caidabici_19: 6665223559743544364
+      maxima caidabici_2: 3970842622098530630
+      maxima caidabici_20: -8470835471464748765
+      maxima caidabici_21: 3132364956812056879
+      maxima caidabici_22: 7515064587718970147
+      maxima caidabici_23: -7264286986326312503
+      maxima caidabici_24: 2304958953235544080
+      maxima caidabici_25: 2458965973736759883
+      maxima caidabici_26: 6413425840938736880
+      maxima caidabici_27: -4570260996767086163
+      maxima caidabici_28: -8185258984777960215
+      maxima caidabici_29: 1121726481976029977
+      maxima caidabici_3: 7342152127934604473
+      maxima caidabici_30: -7981036174611885839
+      maxima caidabici_31: 3784326459553991535
+      maxima caidabici_32: -744076963563854802
+      maxima caidabici_33: -9086523166035466121
+      maxima caidabici_34: -9051926830729402827
+      maxima caidabici_35: 2176845703162821127
+      maxima caidabici_36: 2964565619223712738
+      maxima caidabici_37: 4190864075609118405
+      maxima caidabici_38: -4158376300623013137
+      maxima caidabici_39: 1206996663627948910
+      maxima caidabici_4: -3194659428717014096
+      maxima caidabici_40: -2404921624095769954
+      maxima caidabici_41: 6055636694576294447
+      maxima caidabici_42: 717582930421509170
+      maxima caidabici_43: 2106776358565827360
+      maxima caidabici_44: -5085679695012668758
+      maxima caidabici_45: -8670878124778534165
+      maxima caidabici_46: -4369941797463390091
+      maxima caidabici_47: 7820953507824245848
+      maxima caidabici_48: 3443767681209251625
+      maxima caidabici_5: 2882108330504964113
+      maxima caidabici_6: 7605068074499402214
+      maxima caidabici_7: 7544912888935281328
+      maxima caidabici_8: 6897587110699668411
+      maxima caidabici_9: -1250146715165711822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

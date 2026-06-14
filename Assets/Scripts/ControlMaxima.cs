@@ -5,11 +5,18 @@ public class ControlMaxima : MonoBehaviour
 {
     [Header("Movimiento")]
     public float velocidad = 5f;
+    public float velocidadBici = 9f;
     public float fuerzaSalto = 10f;
+    public float fuerzaTrampolin = 20f;
 
     [Header("Referencias")]
     public Transform sensorSuelo;
     public LayerMask capaSuelo;
+    public GestorVidas gestor;
+
+    [Header("Estado")]
+    public bool estaEnBicicleta = false;
+    public bool esInvencible = false;
 
     private Rigidbody2D rb;
     private Animator animator;
@@ -26,29 +33,73 @@ public class ControlMaxima : MonoBehaviour
 
     void Update()
     {
-        // Movimiento Horizontal
+        // Movimiento
+        float velX = estaEnBicicleta ? velocidadBici : velocidad;
         inputX = 0f;
         if (Keyboard.current.rightArrowKey.isPressed) inputX = 1f;
         else if (Keyboard.current.leftArrowKey.isPressed) inputX = -1f;
 
-        // Orientación del Sprite
+        // Orientación
         if (inputX > 0) spriteRenderer.flipX = false;
         else if (inputX < 0) spriteRenderer.flipX = true;
 
         // Animación
-        animator.SetFloat("Speed", Mathf.Abs(inputX));
+        float vel = Mathf.Abs(rb.linearVelocity.x);
+        animator.SetFloat("velocidad", vel);
+        animator.SetBool("enBicicleta", estaEnBicicleta);
+
+        // Control de velocidad de animación bici
+        if (estaEnBicicleta) animator.speed = (vel > 0.1f) ? 1.0f : 0.0f;
+        else animator.speed = 1.0f;
 
         // Salto
-        estaEnSuelo = Physics2D.OverlapCircle(sensorSuelo.position, 0.2f, capaSuelo);
-        if (Keyboard.current.upArrowKey.wasPressedThisFrame && estaEnSuelo)
+        estaEnSuelo = Physics2D.OverlapCircle(sensorSuelo.position, 0.1f, capaSuelo);
+        if (Keyboard.current.upArrowKey.wasPressedThisFrame && estaEnSuelo && !estaEnBicicleta)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
             rb.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
         }
+        animator.SetBool("isJumping", !estaEnSuelo && !estaEnBicicleta);
     }
 
     void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(inputX * velocidad, rb.linearVelocity.y);
+        float velX = estaEnBicicleta ? velocidadBici : velocidad;
+        rb.linearVelocity = new Vector2(inputX * velX, rb.linearVelocity.y);
+    }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if ((collision.CompareTag("Reina") || collision.CompareTag("Toro")) && !esInvencible)
+        {
+            if (estaEnBicicleta)
+            {
+                estaEnBicicleta = false;
+                StartCoroutine(InvencibilidadTemporal());
+            }
+            else if (gestor != null)
+            {
+                gestor.PerderVida(this.gameObject);
+            }
+        }
+
+        if (collision.CompareTag("Bicicleta"))
+        {
+            estaEnBicicleta = true;
+            collision.gameObject.SetActive(false);
+        }
+
+        if (collision.CompareTag("Trampolin"))
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
+            rb.AddForce(Vector2.up * fuerzaTrampolin, ForceMode2D.Impulse);
+        }
+    }
+
+    System.Collections.IEnumerator InvencibilidadTemporal()
+    {
+        esInvencible = true;
+        yield return new WaitForSeconds(1.0f);
+        esInvencible = false;
     }
 }

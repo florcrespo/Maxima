@@ -14,9 +14,9 @@ GameObject:
   - component: {fileID: 3637732978080199654}
   - component: {fileID: 635983937555093782}
   - component: {fileID: 7265018615161398799}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: toro_0 1
-  m_TagString: Untagged
+  m_TagString: Toro
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121,7 +121,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 6
 --- !u!61 &3637732978080199654
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -152,7 +152,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0

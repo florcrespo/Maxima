@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: b7b71155db8f24352a0666823711859a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7965038128679362565
+    second: trampolin_0
+  - first:
+      213: 598020673526392592
+    second: trampolin_1
+  - first:
+      213: 4491048998997259371
+    second: trampolin_2
+  - first:
+      213: 2403110338164441903
+    second: trampolin_3
+  - first:
+      213: 3828685790543647813
+    second: trampolin_4
+  - first:
+      213: -1564670521612119481
+    second: trampolin_5
+  - first:
+      213: 6171098185797650355
+    second: trampolin_6
+  - first:
+      213: 2290500252841302036
+    second: trampolin_7
+  - first:
+      213: 6596426184370750397
+    second: trampolin_8
+  - first:
+      213: -7933264268384841004
+    second: trampolin_9
+  - first:
+      213: 2297016607623043862
+    second: trampolin_10
+  - first:
+      213: 4983853765049489982
+    second: trampolin_11
+  - first:
+      213: 6996493809742014277
+    second: trampolin_12
+  - first:
+      213: 2422545651315950111
+    second: trampolin_13
+  - first:
+      213: -5334551493914322321
+    second: trampolin_14
+  - first:
+      213: 6392576508491924419
+    second: trampolin_15
+  - first:
+      213: -7515502029268804988
+    second: trampolin_16
+  - first:
+      213: -1380197739935773341
+    second: trampolin_17
+  - first:
+      213: -1848548951245447169
+    second: trampolin_18
+  - first:
+      213: -1491541297477479499
+    second: trampolin_19
+  - first:
+      213: 2688057799430072126
+    second: trampolin_20
+  - first:
+      213: -3713878783819617569
+    second: trampolin_21
+  - first:
+      213: 8284038155252887542
+    second: trampolin_22
+  - first:
+      213: 13162884505212135
+    second: trampolin_23
+  - first:
+      213: -7842292510924888220
+    second: trampolin_24
+  - first:
+      213: -6680715995052910468
+    second: trampolin_25
+  - first:
+      213: -2453809147568100927
+    second: trampolin_26
+  - first:
+      213: -1299231730097835907
+    second: trampolin_27
+  - first:
+      213: -6646319652157604281
+    second: trampolin_28
+  - first:
+      213: 6999300230153977139
+    second: trampolin_29
+  - first:
+      213: -2984306243164528491
+    second: trampolin_30
+  - first:
+      213: 7799655086492092174
+    second: trampolin_31
+  - first:
+      213: -451274276587188222
+    second: trampolin_32
+  - first:
+      213: -1442697298986394804
+    second: trampolin_33
+  - first:
+      213: -8003753903127460169
+    second: trampolin_34
+  - first:
+      213: -332603312722688525
+    second: trampolin_35
+  - first:
+      213: 1443333946212804803
+    second: trampolin_36
+  - first:
+      213: -5226023600991812302
+    second: trampolin_37
+  - first:
+      213: 5974770333921501824
+    second: trampolin_38
+  - first:
+      213: 6791709173364287048
+    second: trampolin_39
+  - first:
+      213: 5168345311075062225
+    second: trampolin_40
+  - first:
+      213: -3530169948524397056
+    second: trampolin_41
+  - first:
+      213: 2749142414770407714
+    second: trampolin_42
+  - first:
+      213: -7421479839959418667
+    second: trampolin_43
+  - first:
+      213: -5775568953103374823
+    second: trampolin_44
+  - first:
+      213: 1787121798305163915
+    second: trampolin_45
+  - first:
+      213: 7028632604432039286
+    second: trampolin_46
+  - first:
+      213: -3610305557600171697
+    second: trampolin_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trampolin_0
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 1757
+        height: 1543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffdf95c500867190800000000000000
+      internalID: -7965038128679362565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 953
+        width: 137
+        height: 865
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01761e552a89c4800800000000000000
+      internalID: 598020673526392592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_2
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1777
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64fa1e1549635e30800000000000000
+      internalID: 4491048998997259371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1747
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f234c5ece10995120800000000000000
+      internalID: 2403110338164441903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_4
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1718
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54490f5f079322530800000000000000
+      internalID: 3828685790543647813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_5
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1678
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742d8c8537c294ae0800000000000000
+      internalID: -1564670521612119481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1578
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7c686aa1524a550800000000000000
+      internalID: 6171098185797650355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_7
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1578
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4185c8828dd79cf10800000000000000
+      internalID: 2290500252841302036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1534
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db301825aa63b8b50800000000000000
+      internalID: 6596426184370750397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_9
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d25f9d1e2267e190800000000000000
+      internalID: -7933264268384841004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1465
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b5b8c3f64a0ef10800000000000000
+      internalID: 2297016607623043862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1424
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a944ef7943a2540800000000000000
+      internalID: 4983853765049489982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_12
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54764ea0d0a881160800000000000000
+      internalID: 6996493809742014277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1408
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12cad64f6c9e9120800000000000000
+      internalID: 2422545651315950111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1365
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a15311eadd7f5b0800000000000000
+      internalID: -5334551493914322321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1336
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c30b24177ef6b850800000000000000
+      internalID: 6392576508491924419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_16
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a94b429b293b790800000000000000
+      internalID: -7515502029268804988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_17
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1256
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dc457d77d88dce0800000000000000
+      internalID: -1380197739935773341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff181bd582a856e0800000000000000
+      internalID: -1848548951245447169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3970ca71bfc4be0800000000000000
+      internalID: -1491541297477479499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1066
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e376fbe9356ed4520800000000000000
+      internalID: 2688057799430072126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1052
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda629f4ce6a57cc0800000000000000
+      internalID: -3713878783819617569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_22
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 1056
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff61adbfc0d6f270800000000000000
+      internalID: 8284038155252887542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1038
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4172fd293ce2000800000000000000
+      internalID: 13162884505212135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 782
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467ad95f2849a2390800000000000000
+      internalID: -7842292510924888220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 697
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d99dc2345943a0800000000000000
+      internalID: -6680715995052910468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 640
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c96994c49152fdd0800000000000000
+      internalID: -2453809147568100927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_27
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 612
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d703a9600a338fde0800000000000000
+      internalID: -1299231730097835907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 583
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb2757d7783c3a0800000000000000
+      internalID: -6646319652157604281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_29
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 583
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d33a6b972822160800000000000000
+      internalID: 6999300230153977139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 526
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590a23b884d9596d0800000000000000
+      internalID: -2984306243164528491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 455
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e070ee01af0fd3c60800000000000000
+      internalID: 7799655086492092174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_32
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 398
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200dfb7bf60ccb9f0800000000000000
+      internalID: -451274276587188222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b108743728afbe0800000000000000
+      internalID: -1442697298986394804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_34
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b601761b34fce090800000000000000
+      internalID: -8003753903127460169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5cb0e9c0b526bf0800000000000000
+      internalID: -332603312722688525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 169
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8e644b390c70410800000000000000
+      internalID: 1443333946212804803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_37
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235431b393f6977b0800000000000000
+      internalID: -5226023600991812302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082eee786f5aae250800000000000000
+      internalID: 5974770333921501824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_39
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e328528ff04e50800000000000000
+      internalID: 6791709173364287048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d15f276da6a9b740800000000000000
+      internalID: 5168345311075062225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_41
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 75
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eb17da221520fc0800000000000000
+      internalID: -3530169948524397056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 43
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229895de57ae62620800000000000000
+      internalID: 2749142414770407714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_43
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8fe7ff76b910990800000000000000
+      internalID: -7421479839959418667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916af7e23ae09dfa0800000000000000
+      internalID: -5775568953103374823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_45
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a26569ec12dc810800000000000000
+      internalID: 1787121798305163915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_46
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d76eb4d18ba8160800000000000000
+      internalID: 7028632604432039286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trampolin_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f498f9c393e95edc0800000000000000
+      internalID: -3610305557600171697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e600e74b5b9804e8689ab58b90407d3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trampolin_0: -7965038128679362565
+      trampolin_1: 598020673526392592
+      trampolin_10: 2297016607623043862
+      trampolin_11: 4983853765049489982
+      trampolin_12: 6996493809742014277
+      trampolin_13: 2422545651315950111
+      trampolin_14: -5334551493914322321
+      trampolin_15: 6392576508491924419
+      trampolin_16: -7515502029268804988
+      trampolin_17: -1380197739935773341
+      trampolin_18: -1848548951245447169
+      trampolin_19: -1491541297477479499
+      trampolin_2: 4491048998997259371
+      trampolin_20: 2688057799430072126
+      trampolin_21: -3713878783819617569
+      trampolin_22: 8284038155252887542
+      trampolin_23: 13162884505212135
+      trampolin_24: -7842292510924888220
+      trampolin_25: -6680715995052910468
+      trampolin_26: -2453809147568100927
+      trampolin_27: -1299231730097835907
+      trampolin_28: -6646319652157604281
+      trampolin_29: 6999300230153977139
+      trampolin_3: 2403110338164441903
+      trampolin_30: -2984306243164528491
+      trampolin_31: 7799655086492092174
+      trampolin_32: -451274276587188222
+      trampolin_33: -1442697298986394804
+      trampolin_34: -8003753903127460169
+      trampolin_35: -332603312722688525
+      trampolin_36: 1443333946212804803
+      trampolin_37: -5226023600991812302
+      trampolin_38: 5974770333921501824
+      trampolin_39: 6791709173364287048
+      trampolin_4: 3828685790543647813
+      trampolin_40: 5168345311075062225
+      trampolin_41: -3530169948524397056
+      trampolin_42: 2749142414770407714
+      trampolin_43: -7421479839959418667
+      trampolin_44: -5775568953103374823
+      trampolin_45: 1787121798305163915
+      trampolin_46: 7028632604432039286
+      trampolin_47: -3610305557600171697
+      trampolin_5: -1564670521612119481
+      trampolin_6: 6171098185797650355
+      trampolin_7: 2290500252841302036
+      trampolin_8: 6596426184370750397
+      trampolin_9: -7933264268384841004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
