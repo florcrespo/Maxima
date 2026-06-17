@@ -103,9 +103,9 @@ TextureImporter:
       name: fondo corto_0
       rect:
         serializedVersion: 2
-        x: 149
+        x: 0
         y: 80
-        width: 258
+        width: 512
         height: 208
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
