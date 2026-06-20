@@ -92,8 +92,28 @@ public class GestorVidas : MonoBehaviour
         }
         else
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            StartCoroutine(GameOver(maxima));
         }
+    }
+
+    System.Collections.IEnumerator GameOver(GameObject maxima)
+    {
+        ControlMaxima control = maxima.GetComponent<ControlMaxima>();
+        Animator anim = maxima.GetComponent<Animator>();
+        Rigidbody2D rb = maxima.GetComponent<Rigidbody2D>();
+
+        if (control != null)
+            control.enabled = false;
+
+        if (rb != null)
+            rb.linearVelocity = Vector2.zero;
+
+        if (anim != null)
+            anim.SetTrigger("Morir");
+
+        yield return new WaitForSeconds(3f);
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void PerderBici(GameObject maxima)
