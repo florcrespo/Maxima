@@ -1,9 +1,18 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GestorVidas : MonoBehaviour
 {
     public int vidas = 3;
+
+    public Image corazon1;
+    public Image corazon2;
+    public Image corazon3;
+
+    public Sprite corazonLleno;
+    public Sprite corazonVacio;
+
     public Vector3 puntoInicio;
     public GameObject mensajeNivelCompletado;
     public GameObject reinaPerseguidora;
@@ -16,6 +25,15 @@ public class GestorVidas : MonoBehaviour
         {
             mensajeNivelCompletado.SetActive(false);
         }
+
+        ActualizarCorazones();
+    }
+
+    void ActualizarCorazones()
+    {
+        corazon1.sprite = (vidas >= 1) ? corazonLleno : corazonVacio;
+        corazon2.sprite = (vidas >= 2) ? corazonLleno : corazonVacio;
+        corazon3.sprite = (vidas >= 3) ? corazonLleno : corazonVacio;
     }
 
     public void NivelCompletado(GameObject maxima)
@@ -57,7 +75,6 @@ public class GestorVidas : MonoBehaviour
             anim.SetBool("enBicicleta", false);
             anim.SetBool("isJumping", false);
 
-            // Fuerza el cambio inmediato al idle
             anim.CrossFade("maxima_idle", 0f, 0);
         }
     }
@@ -65,6 +82,8 @@ public class GestorVidas : MonoBehaviour
     public void PerderVida(GameObject maxima)
     {
         vidas--;
+
+        ActualizarCorazones();
 
         if (vidas > 0)
         {
