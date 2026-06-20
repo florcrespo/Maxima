@@ -1445,7 +1445,7 @@ MonoBehaviour:
   corazonVacio: {fileID: 4186542550215484924, guid: 2732f5d5c30747149a675dcf3be3baf9, type: 3}
   puntoInicio: {x: -10.6, y: -5.14, z: 0}
   mensajeNivelCompletado: {fileID: 0}
-  reinaPerseguidora: {fileID: 0}
+  reinaPerseguidora: {fileID: 1547482163}
   nivelCompletado: 0
 --- !u!4 &1146452531
 Transform:
@@ -2570,6 +2570,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PersecucionReina
   objetivo: {fileID: 1347422385}
   velocidad: 4
+  distanciaMinima: 2
 --- !u!1 &1557728437
 GameObject:
   m_ObjectHideFlags: 0

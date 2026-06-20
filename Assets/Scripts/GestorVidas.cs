@@ -111,6 +111,19 @@ public class GestorVidas : MonoBehaviour
         if (anim != null)
             anim.SetTrigger("Morir");
 
+        // Congelar Reina
+        if (reinaPerseguidora != null)
+        {
+            Rigidbody2D rbReina = reinaPerseguidora.GetComponent<Rigidbody2D>();
+            Animator animReina = reinaPerseguidora.GetComponent<Animator>();
+
+            if (rbReina != null)
+                rbReina.linearVelocity = Vector2.zero;
+
+            if (animReina != null)
+                animReina.enabled = false;
+        }
+
         yield return new WaitForSeconds(3f);
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);

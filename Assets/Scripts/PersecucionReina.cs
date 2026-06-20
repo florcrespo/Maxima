@@ -4,41 +4,51 @@ public class PersecucionReina : MonoBehaviour
 {
     [Header("Configuración")]
     public Transform objetivo; // Acá vamos a arrastrar a Máxima
-    public float velocidad = 3.5f; // Velocidad constante de la Reina
+    public float velocidad = 3.5f;
+    public float distanciaMinima = 1f; // Distancia que mantiene con Máxima
 
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
 
     void Start()
     {
-        // Obtenemos los componentes de la Reina al arrancar
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void FixedUpdate()
     {
-        // Si por alguna razón Máxima no está asignada, no hace nada para evitar errores
         if (objetivo == null) return;
 
-        // 1. Calculamos la dirección resta de vectores: (Posición Destino - Posición Actual)
+        // Si Máxima murió, la Reina deja de moverse
+        ControlMaxima control = objetivo.GetComponent<ControlMaxima>();
+        if (control != null && !control.enabled)
+        {
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
         Vector2 direccion = (objetivo.position - transform.position).normalized;
+        direccion.y = 0;
 
-        // 2. Si el juego es de plataformas (2D lateral), ignoramos el eje Y para que no vuele.
-        // Descomentá la línea de abajo borrando las dos barras "//" si solo querés que se mueva de izquierda a derecha.
-         direccion.y = 0;
+        float distancia = Vector2.Distance(transform.position, objetivo.position);
 
-        // 3. Aplicamos el movimiento constante usando el Rigidbody
-        rb.linearVelocity = new Vector2(direccion.x * velocidad, 0);
+        if (distancia > distanciaMinima)
+        {
+            rb.linearVelocity = new Vector2(direccion.x * velocidad, 0);
+        }
+        else
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
 
-        // 4. Voltear el sprite de la Reina para que mire a donde camina
         if (direccion.x > 0)
         {
-            spriteRenderer.flipX = false; // Mira a la derecha
+            spriteRenderer.flipX = false;
         }
         else if (direccion.x < 0)
         {
-            spriteRenderer.flipX = true; // Mira a la izquierda
+            spriteRenderer.flipX = true;
         }
     }
 }
