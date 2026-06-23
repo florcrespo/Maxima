@@ -2012,7 +2012,7 @@ GameObject:
   - component: {fileID: 1230692734}
   m_Layer: 3
   m_Name: fondo largo_0
-  m_TagString: Untagged
+  m_TagString: Suelo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2131,8 +2131,8 @@ Transform:
   m_GameObject: {fileID: 1230692729}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.8787, y: -2.9967, z: 0}
-  m_LocalScale: {x: 1.8520751, y: 1.5077919, z: 1.43}
+  m_LocalPosition: {x: 21.1308, y: -2.9967, z: 0}
+  m_LocalScale: {x: 2.2559845, y: 1.5077919, z: 1.43}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -3147,6 +3147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventarioManager
   iconoAsado: {fileID: 1771287591}
+  prefabAsadoLanzado: {fileID: 1676879459043142652, guid: 6b90f84b8fc7ff44bbd1ffb17be686f0, type: 3}
 --- !u!4 &1673494194
 Transform:
   m_ObjectHideFlags: 0

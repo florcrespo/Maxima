@@ -35,6 +35,7 @@ public class ControlMaxima : MonoBehaviour
     {
         float velX = estaEnBicicleta ? velocidadBici : velocidad;
         inputX = 0f;
+
         if (Keyboard.current.rightArrowKey.isPressed) inputX = 1f;
         else if (Keyboard.current.leftArrowKey.isPressed) inputX = -1f;
 
@@ -44,16 +45,26 @@ public class ControlMaxima : MonoBehaviour
         float vel = Mathf.Abs(rb.linearVelocity.x);
         animator.SetFloat("velocidad", vel);
         animator.SetBool("enBicicleta", estaEnBicicleta);
-        
-        if (estaEnBicicleta) animator.speed = (vel > 0.1f) ? 1.0f : 0.0f;
-        else animator.speed = 1.0f;
+
+        if (estaEnBicicleta)
+            animator.speed = (vel > 0.1f) ? 1.0f : 0.0f;
+        else
+            animator.speed = 1.0f;
 
         estaEnSuelo = Physics2D.OverlapCircle(sensorSuelo.position, 0.1f, capaSuelo);
+
         if (Keyboard.current.upArrowKey.wasPressedThisFrame && estaEnSuelo && !estaEnBicicleta)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
             rb.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
         }
+
+        // USAR ASADO
+        if (Keyboard.current.eKey.wasPressedThisFrame)
+        {
+            InventarioManager.instancia.UsarAsado(transform.position);
+        }
+
         animator.SetBool("isJumping", !estaEnSuelo && !estaEnBicicleta);
     }
 
@@ -67,10 +78,13 @@ public class ControlMaxima : MonoBehaviour
     {
         if ((collision.CompareTag("Reina") || collision.CompareTag("Toro")) && !esInvencible)
         {
-            if (estaEnBicicleta) {
+            if (estaEnBicicleta)
+            {
                 estaEnBicicleta = false;
                 StartCoroutine(InvencibilidadTemporal());
-            } else if (gestor != null) {
+            }
+            else if (gestor != null)
+            {
                 gestor.PerderVida(this.gameObject);
             }
         }
@@ -89,7 +103,8 @@ public class ControlMaxima : MonoBehaviour
 
         if (collision.CompareTag("Meta"))
         {
-            if (gestor != null) gestor.NivelCompletado(this.gameObject);
+            if (gestor != null)
+                gestor.NivelCompletado(this.gameObject);
         }
     }
 

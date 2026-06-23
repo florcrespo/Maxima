@@ -9,6 +9,7 @@ TagManager:
   - Bicicleta
   - Trampolin
   - Asado
+  - Suelo
   layers:
   - Default
   - TransparentFX
