@@ -1750,8 +1750,8 @@ Transform:
   m_GameObject: {fileID: 1230692729}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.8603, y: -3.18, z: 0}
-  m_LocalScale: {x: 1.628341, y: 1.43, z: 1.43}
+  m_LocalPosition: {x: 13.8787, y: -2.9967, z: 0}
+  m_LocalScale: {x: 1.8520751, y: 1.5077919, z: 1.43}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -1864,7 +1864,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -20
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 6354319023136011486, guid: 37ac1440db304443694e823415f4ec5b, type: 3}
+  m_Sprite: {fileID: -2969346232804555883, guid: 757f37c988fc1284780fec0cd750b58a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1883,8 +1883,8 @@ Transform:
   m_GameObject: {fileID: 1244584809}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.16, y: 0.3, z: 0}
-  m_LocalScale: {x: 6.69, y: 6.69, z: 6.69}
+  m_LocalPosition: {x: 25.3253, y: 11.0022, z: 0}
+  m_LocalScale: {x: 1.1126747, y: 1.0950223, z: 0.9593677}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -2069,9 +2069,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e246794ff21bd4d468af945f5f91ea1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ControlMaxima
-  velocidad: 5
-  velocidadBici: 7
-  fuerzaSalto: 8
+  velocidad: 6
+  velocidadBici: 8
+  fuerzaSalto: 9
   fuerzaTrampolin: 14
   sensorSuelo: {fileID: 653227090}
   capaSuelo:
@@ -2569,7 +2569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PersecucionReina
   objetivo: {fileID: 1347422385}
-  velocidad: 4
+  velocidad: 5
   distanciaMinima: 2
 --- !u!1 &1557728437
 GameObject:
