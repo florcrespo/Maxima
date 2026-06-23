@@ -33,7 +33,6 @@ public class ControlMaxima : MonoBehaviour
 
     void Update()
     {
-        float velX = estaEnBicicleta ? velocidadBici : velocidad;
         inputX = 0f;
 
         if (Keyboard.current.rightArrowKey.isPressed) inputX = 1f;
@@ -91,8 +90,7 @@ public class ControlMaxima : MonoBehaviour
 
         if (collision.CompareTag("Bicicleta"))
         {
-            estaEnBicicleta = true;
-            collision.gameObject.SetActive(false);
+            StartCoroutine(ActivarBicicletaTemporal(collision.gameObject));
         }
 
         if (collision.CompareTag("Trampolin"))
@@ -106,6 +104,16 @@ public class ControlMaxima : MonoBehaviour
             if (gestor != null)
                 gestor.NivelCompletado(this.gameObject);
         }
+    }
+
+    System.Collections.IEnumerator ActivarBicicletaTemporal(GameObject bicicleta)
+    {
+        estaEnBicicleta = true;
+        bicicleta.SetActive(false);
+
+        yield return new WaitForSeconds(5f);
+
+        estaEnBicicleta = false;
     }
 
     System.Collections.IEnumerator InvencibilidadTemporal()
