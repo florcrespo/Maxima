@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: 9c4aac301c9df75499ee95922b847d5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6996492222815415416
+    second: Inventario_0
+  - first:
+      213: 3710196622539882684
+    second: Inventario_1
+  - first:
+      213: -4221830926778613084
+    second: Inventario_2
+  - first:
+      213: 6380286997473437221
+    second: Inventario_3
+  - first:
+      213: 1564845085229105538
+    second: Inventario_4
+  - first:
+      213: -7302540089576172625
+    second: Inventario_5
+  - first:
+      213: 3140303851083407099
+    second: Inventario_6
+  - first:
+      213: 4626967678530752496
+    second: Inventario_7
+  - first:
+      213: -141677519312013632
+    second: Inventario_8
+  - first:
+      213: 2014888123832554231
+    second: Inventario_9
+  - first:
+      213: 3775469579086993300
+    second: Inventario_10
+  - first:
+      213: -7178683888158736974
+    second: Inventario_11
+  - first:
+      213: 7350011495844333835
+    second: Inventario_12
+  - first:
+      213: -5104907828405794426
+    second: Inventario_13
+  - first:
+      213: 7362419752620046869
+    second: Inventario_14
+  - first:
+      213: 2122047804746942166
+    second: Inventario_15
+  - first:
+      213: 5124253158105903120
+    second: Inventario_16
+  - first:
+      213: -8337586156173509487
+    second: Inventario_17
+  - first:
+      213: -1712453606612018247
+    second: Inventario_18
+  - first:
+      213: -5371905106586833758
+    second: Inventario_19
+  - first:
+      213: -4826022029939013731
+    second: Inventario_20
+  - first:
+      213: 3749014178322056764
+    second: Inventario_21
+  - first:
+      213: -5214214918176532537
+    second: Inventario_22
+  - first:
+      213: 3791790786577543120
+    second: Inventario_23
+  - first:
+      213: 1016698782572556889
+    second: Inventario_24
+  - first:
+      213: 4929183094536931310
+    second: Inventario_25
+  - first:
+      213: -4220711631220956893
+    second: Inventario_26
+  - first:
+      213: -4892133879080635816
+    second: Inventario_27
+  - first:
+      213: -7565853712296532844
+    second: Inventario_28
+  - first:
+      213: 8604642163609739879
+    second: Inventario_29
+  - first:
+      213: -8908573483160921522
+    second: Inventario_30
+  - first:
+      213: -6023269254992544134
+    second: Inventario_31
+  - first:
+      213: 6250201624228505160
+    second: Inventario_32
+  - first:
+      213: 3529738490219816145
+    second: Inventario_33
+  - first:
+      213: 4283427917097658313
+    second: Inventario_34
+  - first:
+      213: 4694836968828026726
+    second: Inventario_35
+  - first:
+      213: 4986779301676968030
+    second: Inventario_36
+  - first:
+      213: 9038481068248054861
+    second: Inventario_37
+  - first:
+      213: -4182619446997802329
+    second: Inventario_38
+  - first:
+      213: 4242325436199351163
+    second: Inventario_39
+  - first:
+      213: 1500517273862889728
+    second: Inventario_40
+  - first:
+      213: -5158590623556191886
+    second: Inventario_41
+  - first:
+      213: -5752653066243677231
+    second: Inventario_42
+  - first:
+      213: -3956351590522638264
+    second: Inventario_43
+  - first:
+      213: -3715881281129015214
+    second: Inventario_44
+  - first:
+      213: 5819095835323540865
+    second: Inventario_45
+  - first:
+      213: -6448356454884096207
+    second: Inventario_46
+  - first:
+      213: -2488160574114578525
+    second: Inventario_47
+  - first:
+      213: 4470777207527325841
+    second: Inventario_48
+  - first:
+      213: -2009119786325847777
+    second: Inventario_49
+  - first:
+      213: -3023640178602085535
+    second: Inventario_50
+  - first:
+      213: 2498846499661952442
+    second: Inventario_51
+  - first:
+      213: 1240591311974687720
+    second: Inventario_52
+  - first:
+      213: -2332787919364577990
+    second: Inventario_53
+  - first:
+      213: -4173035918606738228
+    second: Inventario_54
+  - first:
+      213: 4671563179732586417
+    second: Inventario_55
+  - first:
+      213: -4115705812803272152
+    second: Inventario_56
+  - first:
+      213: 3648715533968928227
+    second: Inventario_57
+  - first:
+      213: 8603294376187438423
+    second: Inventario_58
+  - first:
+      213: -5296218674126827727
+    second: Inventario_59
+  - first:
+      213: 5661772083308791809
+    second: Inventario_60
+  - first:
+      213: -2717896619437636428
+    second: Inventario_61
+  - first:
+      213: 1334761797893350937
+    second: Inventario_62
+  - first:
+      213: -675467266364540196
+    second: Inventario_63
+  - first:
+      213: -3599824036076554274
+    second: Inventario_64
+  - first:
+      213: 9175012009316607443
+    second: Inventario_65
+  - first:
+      213: 4442465697880649848
+    second: Inventario_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inventario_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1589
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c22be8b98881160800000000000000
+      internalID: 6996492222815415416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_1
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1597
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb00855bb244d7330800000000000000
+      internalID: 3710196622539882684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1529
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a24a9be32b0965c0800000000000000
+      internalID: -4221830926778613084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_3
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1538
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526a27158355b8850800000000000000
+      internalID: 6380286997473437221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281c899605277b510800000000000000
+      internalID: 1564845085229105538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_5
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1480
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa353c2aa7a28aa90800000000000000
+      internalID: -7302540089576172625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 54
+        width: 4980
+        height: 1407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe1e9ae6b9949b20800000000000000
+      internalID: 3140303851083407099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_7
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1458
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff0a02c69a463040800000000000000
+      internalID: 4626967678530752496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_8
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1458
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6bfbcfb09a80ef0800000000000000
+      internalID: -141677519312013632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_9
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1439
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f25133c21256fb10800000000000000
+      internalID: 2014888123832554231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_10
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1458
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49716c13499256430800000000000000
+      internalID: 3775469579086993300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_11
+      rect:
+        serializedVersion: 2
+        x: 5408
+        y: 807
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd7a7bb901306c90800000000000000
+      internalID: -7178683888158736974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 794
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09c6d0738c700660800000000000000
+      internalID: 7350011495844333835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_13
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 793
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68903c48069b729b0800000000000000
+      internalID: -5104907828405794426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_14
+      rect:
+        serializedVersion: 2
+        x: 5402
+        y: 705
+        width: 22
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51abc3ad1c19c2660800000000000000
+      internalID: 7362419752620046869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_15
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 771
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6c65e3c37037d10800000000000000
+      internalID: 2122047804746942166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_16
+      rect:
+        serializedVersion: 2
+        x: 5387
+        y: 752
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010731c09110d1740800000000000000
+      internalID: 5124253158105903120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_17
+      rect:
+        serializedVersion: 2
+        x: 5401
+        y: 758
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c301db091fa4c80800000000000000
+      internalID: -8337586156173509487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 729
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbdd8b84842c38e0800000000000000
+      internalID: -1712453606612018247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_19
+      rect:
+        serializedVersion: 2
+        x: 5238
+        y: 728
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ace8c264c82375b0800000000000000
+      internalID: -5371905106586833758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_20
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 734
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97864b7886860db0800000000000000
+      internalID: -4826022029939013731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 677
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c360ac4388c270430800000000000000
+      internalID: 3749014178322056764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_22
+      rect:
+        serializedVersion: 2
+        x: 5261
+        y: 683
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c79b83782363a7b0800000000000000
+      internalID: -5214214918176532537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_23
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 676
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfad8071a52f9430800000000000000
+      internalID: 3791790786577543120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_24
+      rect:
+        serializedVersion: 2
+        x: 5398
+        y: 567
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9523fc2f72a0c1e00800000000000000
+      internalID: 1016698782572556889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_25
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 626
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee70cb698e9f76440800000000000000
+      internalID: 4929183094536931310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_26
+      rect:
+        serializedVersion: 2
+        x: 5384
+        y: 634
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32127b932250d65c0800000000000000
+      internalID: -4220711631220956893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 619
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852beb71826ab1cb0800000000000000
+      internalID: -4892133879080635816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_28
+      rect:
+        serializedVersion: 2
+        x: 5252
+        y: 593
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494aeff5220b00790800000000000000
+      internalID: -7565853712296532844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_29
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 589
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762ae4d5574d96770800000000000000
+      internalID: 8604642163609739879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_30
+      rect:
+        serializedVersion: 2
+        x: 5387
+        y: 577
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a9ab0ed936e5480800000000000000
+      internalID: -8908573483160921522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_31
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 559
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e33a5768c096ca0800000000000000
+      internalID: -6023269254992544134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_32
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 535
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846a5b2234d2db650800000000000000
+      internalID: 6250201624228505160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_33
+      rect:
+        serializedVersion: 2
+        x: 5409
+        y: 515
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4639b94762cf030800000000000000
+      internalID: 3529738490219816145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_34
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 501
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7e89bfefac17b30800000000000000
+      internalID: 4283427917097658313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_35
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 465
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fbd5d4959672140800000000000000
+      internalID: 4694836968828026726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_36
+      rect:
+        serializedVersion: 2
+        x: 5413
+        y: 425
+        width: 11
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e9b19a59943540800000000000000
+      internalID: 4986779301676968030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_37
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cb406c4a22f6d70800000000000000
+      internalID: 9038481068248054861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_38
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 443
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a22e0ff5c954f5c0800000000000000
+      internalID: -4182619446997802329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_39
+      rect:
+        serializedVersion: 2
+        x: 5387
+        y: 435
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b733446e184cfda30800000000000000
+      internalID: 4242325436199351163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_40
+      rect:
+        serializedVersion: 2
+        x: 5394
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0016fefa288e2d410800000000000000
+      internalID: 1500517273862889728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_41
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 407
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279b545c8210968b0800000000000000
+      internalID: -5158590623556191886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_42
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3eb7ed3887a20b0800000000000000
+      internalID: -5752653066243677231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_43
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840b858a0373819c0800000000000000
+      internalID: -3956351590522638264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_44
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25818c299a98e6cc0800000000000000
+      internalID: -3715881281129015214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1852a62d4d491c050800000000000000
+      internalID: 5819095835323540865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_46
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137498918f5d286a0800000000000000
+      internalID: -6448356454884096207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_47
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afb4c30427487dd0800000000000000
+      internalID: -2488160574114578525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_48
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190449cde246b0e30800000000000000
+      internalID: 4470777207527325841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_49
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 41
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11d6d8f23c2e14e0800000000000000
+      internalID: -2009119786325847777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_50
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163f2d9074fd906d0800000000000000
+      internalID: -3023640178602085535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_51
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53498e6afada220800000000000000
+      internalID: 2498846499661952442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_52
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3efada937773110800000000000000
+      internalID: 1240591311974687720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_53
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35a3f93fb540afd0800000000000000
+      internalID: -2332787919364577990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_54
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 41
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccdf7411f56616c0800000000000000
+      internalID: -4173035918606738228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_55
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 43
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf41c106f9b4d040800000000000000
+      internalID: 4671563179732586417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_56
+      rect:
+        serializedVersion: 2
+        x: 5035
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822c9d38e5312e6c0800000000000000
+      internalID: -4115705812803272152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_57
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edeaa84277d2a230800000000000000
+      internalID: 3648715533968928227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_58
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755a4c627aa056770800000000000000
+      internalID: 8603294376187438423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_59
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f41eb2d2d0086b0800000000000000
+      internalID: -5296218674126827727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_60
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10808d066b7a29e40800000000000000
+      internalID: 5661772083308791809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_61
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44f26bc67184ad0800000000000000
+      internalID: -2717896619437636428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_62
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916e13788c6068210800000000000000
+      internalID: 1334761797893350937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_63
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaffea991240a6f0800000000000000
+      internalID: -675467266364540196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_64
+      rect:
+        serializedVersion: 2
+        x: 4971
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed77eb3ac1bda0ec0800000000000000
+      internalID: -3599824036076554274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_65
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 14
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d56249afc0345f70800000000000000
+      internalID: 9175012009316607443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inventario_66
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870b809d30fc6ad30800000000000000
+      internalID: 4442465697880649848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Inventario_0: 6996492222815415416
+      Inventario_1: 3710196622539882684
+      Inventario_10: 3775469579086993300
+      Inventario_11: -7178683888158736974
+      Inventario_12: 7350011495844333835
+      Inventario_13: -5104907828405794426
+      Inventario_14: 7362419752620046869
+      Inventario_15: 2122047804746942166
+      Inventario_16: 5124253158105903120
+      Inventario_17: -8337586156173509487
+      Inventario_18: -1712453606612018247
+      Inventario_19: -5371905106586833758
+      Inventario_2: -4221830926778613084
+      Inventario_20: -4826022029939013731
+      Inventario_21: 3749014178322056764
+      Inventario_22: -5214214918176532537
+      Inventario_23: 3791790786577543120
+      Inventario_24: 1016698782572556889
+      Inventario_25: 4929183094536931310
+      Inventario_26: -4220711631220956893
+      Inventario_27: -4892133879080635816
+      Inventario_28: -7565853712296532844
+      Inventario_29: 8604642163609739879
+      Inventario_3: 6380286997473437221
+      Inventario_30: -8908573483160921522
+      Inventario_31: -6023269254992544134
+      Inventario_32: 6250201624228505160
+      Inventario_33: 3529738490219816145
+      Inventario_34: 4283427917097658313
+      Inventario_35: 4694836968828026726
+      Inventario_36: 4986779301676968030
+      Inventario_37: 9038481068248054861
+      Inventario_38: -4182619446997802329
+      Inventario_39: 4242325436199351163
+      Inventario_4: 1564845085229105538
+      Inventario_40: 1500517273862889728
+      Inventario_41: -5158590623556191886
+      Inventario_42: -5752653066243677231
+      Inventario_43: -3956351590522638264
+      Inventario_44: -3715881281129015214
+      Inventario_45: 5819095835323540865
+      Inventario_46: -6448356454884096207
+      Inventario_47: -2488160574114578525
+      Inventario_48: 4470777207527325841
+      Inventario_49: -2009119786325847777
+      Inventario_5: -7302540089576172625
+      Inventario_50: -3023640178602085535
+      Inventario_51: 2498846499661952442
+      Inventario_52: 1240591311974687720
+      Inventario_53: -2332787919364577990
+      Inventario_54: -4173035918606738228
+      Inventario_55: 4671563179732586417
+      Inventario_56: -4115705812803272152
+      Inventario_57: 3648715533968928227
+      Inventario_58: 8603294376187438423
+      Inventario_59: -5296218674126827727
+      Inventario_6: 3140303851083407099
+      Inventario_60: 5661772083308791809
+      Inventario_61: -2717896619437636428
+      Inventario_62: 1334761797893350937
+      Inventario_63: -675467266364540196
+      Inventario_64: -3599824036076554274
+      Inventario_65: 9175012009316607443
+      Inventario_66: 4442465697880649848
+      Inventario_7: 4626967678530752496
+      Inventario_8: -141677519312013632
+      Inventario_9: 2014888123832554231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
