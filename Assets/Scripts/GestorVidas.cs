@@ -15,6 +15,7 @@ public class GestorVidas : MonoBehaviour
 
     public Vector3 puntoInicio;
     public GameObject mensajeNivelCompletado;
+    public GameObject cartelGameOver;
     public GameObject reinaPerseguidora;
 
     public bool nivelCompletado = false;
@@ -22,9 +23,10 @@ public class GestorVidas : MonoBehaviour
     void Start()
     {
         if (mensajeNivelCompletado != null)
-        {
             mensajeNivelCompletado.SetActive(false);
-        }
+
+        if (cartelGameOver != null)
+            cartelGameOver.SetActive(false);
 
         ActualizarCorazones();
     }
@@ -41,14 +43,10 @@ public class GestorVidas : MonoBehaviour
         nivelCompletado = true;
 
         if (mensajeNivelCompletado != null)
-        {
             mensajeNivelCompletado.SetActive(true);
-        }
 
         if (reinaPerseguidora != null)
-        {
             reinaPerseguidora.SetActive(false);
-        }
 
         ControlMaxima control = maxima.GetComponent<ControlMaxima>();
         Animator anim = maxima.GetComponent<Animator>();
@@ -70,11 +68,9 @@ public class GestorVidas : MonoBehaviour
         if (anim != null)
         {
             anim.speed = 1f;
-
             anim.SetFloat("velocidad", 0f);
             anim.SetBool("enBicicleta", false);
             anim.SetBool("isJumping", false);
-
             anim.CrossFade("maxima_idle", 0f, 0);
         }
     }
@@ -82,7 +78,6 @@ public class GestorVidas : MonoBehaviour
     public void PerderVida(GameObject maxima)
     {
         vidas--;
-
         ActualizarCorazones();
 
         if (vidas > 0)
@@ -98,6 +93,9 @@ public class GestorVidas : MonoBehaviour
 
     System.Collections.IEnumerator GameOver(GameObject maxima)
     {
+        if (cartelGameOver != null)
+            cartelGameOver.SetActive(true);
+
         ControlMaxima control = maxima.GetComponent<ControlMaxima>();
         Animator anim = maxima.GetComponent<Animator>();
         Rigidbody2D rb = maxima.GetComponent<Rigidbody2D>();
@@ -111,7 +109,6 @@ public class GestorVidas : MonoBehaviour
         if (anim != null)
             anim.SetTrigger("Morir");
 
-        // Congelar Reina
         if (reinaPerseguidora != null)
         {
             Rigidbody2D rbReina = reinaPerseguidora.GetComponent<Rigidbody2D>();
