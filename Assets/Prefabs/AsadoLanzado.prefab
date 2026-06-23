@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 22647901445254130}
   m_Layer: 0
   m_Name: AsadoLanzado
-  m_TagString: Untagged
+  m_TagString: Asado
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
