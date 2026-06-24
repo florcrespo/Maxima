@@ -11,6 +11,9 @@ TagManager:
   - Asado
   - Suelo
   - Meta
+  - Mate
+  - Tulipan
+  - MedallaEscudo
   layers:
   - Default
   - TransparentFX

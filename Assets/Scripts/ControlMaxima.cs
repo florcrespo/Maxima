@@ -13,11 +13,19 @@ public class ControlMaxima : MonoBehaviour
     public Transform sensorSuelo;
     public LayerMask capaSuelo;
     public GestorVidas gestor;
+    public GameObject visualEscudo; // Arrastrá acá el objeto VisualEscudo (hijo de Máxima)
 
     [Header("Estado")]
     public bool estaEnBicicleta = false;
     public bool esInvencible = false;
+    public bool aTomaMate = false;
+    public bool aTomaTulipan = false;
+    public bool tieneEscudoActivo = false;
 
+    [Header("Tiempo del Escudo")]
+    public float duracionEscudo = 5f; // Duración del escudo en segundos (cambialo a gusto)
+
+    private float velocidadOriginal;
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer spriteRenderer;
@@ -26,9 +34,13 @@ public class ControlMaxima : MonoBehaviour
 
     void Start()
     {
+        velocidadOriginal = velocidad;
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        // Nos aseguramos de que el escudo arranque apagado
+        if (visualEscudo != null) visualEscudo.SetActive(false);
     }
 
     void Update()
@@ -75,19 +87,53 @@ public class ControlMaxima : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if ((collision.CompareTag("Reina") || collision.CompareTag("Toro")) && !esInvencible)
+        // 1. AGARRAR MEDALLA ESCUDO
+        if (collision.CompareTag("MedallaEscudo"))
         {
-            if (estaEnBicicleta)
+            ActivarEscudo();
+            collision.gameObject.SetActive(false);
+        }
+
+        // 2. DETECCIÓN DE PELIGROS LETALES (Reina o Toro)
+        if (collision.CompareTag("Reina") || collision.CompareTag("Toro"))
+        {
+            if (tieneEscudoActivo)
             {
-                estaEnBicicleta = false;
-                StartCoroutine(InvencibilidadTemporal());
+                RomperEscudo();
             }
-            else if (gestor != null)
+            else if (!esInvencible)
             {
-                gestor.PerderVida(this.gameObject);
+                if (estaEnBicicleta)
+                {
+                    estaEnBicicleta = false;
+                    StartCoroutine(InvencibilidadTemporal(1.0f));
+                }
+                else if (gestor != null)
+                {
+                    gestor.PerderVida(this.gameObject);
+                }
             }
         }
 
+        // 3. DETECCIÓN DE TULIPÁN (Obstáculo ralentizador que interactúa con el escudo)
+        if (collision.CompareTag("Tulipan"))
+        {
+            collision.gameObject.SetActive(false); // El tulipán desaparece al tocarlo
+
+            if (tieneEscudoActivo)
+            {
+                // Si tiene escudo, el escudo absorbe el golpe y se rompe. 
+                // Máxima NO pierde velocidad.
+                RomperEscudo();
+            }
+            else
+            {
+                // Si no tiene escudo, se activa la ralentización normalmente
+                StartCoroutine(EfectoTulipan());
+            }
+        }
+
+        // 4. MECÁNICAS GENERALES
         if (collision.CompareTag("Bicicleta"))
         {
             StartCoroutine(ActivarBicicletaTemporal(collision.gameObject));
@@ -104,6 +150,52 @@ public class ControlMaxima : MonoBehaviour
             if (gestor != null)
                 gestor.NivelCompletado(this.gameObject);
         }
+
+        if (collision.CompareTag("Mate"))
+        {
+            collision.gameObject.SetActive(false);
+            StartCoroutine(EfectoMate());
+        }
+    }
+    void ActivarEscudo()
+    {
+        tieneEscudoActivo = true;
+        esInvencible = true;
+
+        // Hacemos visible a Lady Di al lado de Máxima
+        if (visualEscudo != null)
+        {
+            visualEscudo.SetActive(true);
+        }
+
+        // Iniciamos el temporizador para que se apague solo tras unos segundos
+        StartCoroutine(TemporizadorEscudo());
+    }
+
+    void RomperEscudo()
+    {
+        tieneEscudoActivo = false;
+
+        // Ocultamos la figura de Lady Di
+        if (visualEscudo != null)
+        {
+            visualEscudo.SetActive(false);
+        }
+
+        // Damos un breve lapso de invencibilidad para que no la maten instantáneamente
+        StartCoroutine(InvencibilidadTemporal(1.5f));
+    }
+
+    // Corutina que espera el tiempo configurado y quita el escudo
+    System.Collections.IEnumerator TemporizadorEscudo()
+    {
+        yield return new WaitForSeconds(duracionEscudo);
+
+        // Si el escudo sigue activo (no se rompió antes por un choque), lo quitamos
+        if (tieneEscudoActivo)
+        {
+            RomperEscudo();
+        }
     }
 
     System.Collections.IEnumerator ActivarBicicletaTemporal(GameObject bicicleta)
@@ -116,10 +208,33 @@ public class ControlMaxima : MonoBehaviour
         estaEnBicicleta = false;
     }
 
-    System.Collections.IEnumerator InvencibilidadTemporal()
+    System.Collections.IEnumerator InvencibilidadTemporal(float duracion = 1.0f)
     {
         esInvencible = true;
-        yield return new WaitForSeconds(1.0f);
-        esInvencible = false;
+        yield return new WaitForSeconds(duracion);
+
+        // Solo quita la invencibilidad si el escudo ya no está activo
+        if (!tieneEscudoActivo)
+        {
+            esInvencible = false;
+        }
+    }
+
+    System.Collections.IEnumerator EfectoMate()
+    {
+        velocidad = velocidadOriginal * 2f;
+        velocidadBici = velocidadBici * 2f;
+        yield return new WaitForSeconds(4f);
+        velocidad = velocidadOriginal;
+        velocidadBici = velocidadBici / 2f;
+    }
+
+    System.Collections.IEnumerator EfectoTulipan()
+    {
+        velocidad = velocidadOriginal / 2f;
+        velocidadBici = velocidadBici / 2f;
+        yield return new WaitForSeconds(3f);
+        velocidad = velocidadOriginal;
+        velocidadBici = velocidadBici * 2f;
     }
 }
