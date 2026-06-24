@@ -4,13 +4,21 @@ public class InventarioManager : MonoBehaviour
 {
     public static InventarioManager instancia;
 
+    [Header("Iconos")]
     public GameObject iconoAsado;
+    public GameObject iconoDulce;
+
+    [Header("Prefabs")]
     public GameObject prefabAsadoLanzado;
 
     private void Awake()
     {
         instancia = this;
     }
+
+    // -------------------
+    // ASADO
+    // -------------------
 
     public void AgregarAsado()
     {
@@ -33,5 +41,19 @@ public class InventarioManager : MonoBehaviour
             posicionMaxima,
             Quaternion.identity
         );
+    }
+
+    // -------------------
+    // DULCE DE LECHE
+    // -------------------
+
+    public void AgregarDulce()
+    {
+        iconoDulce.SetActive(true);
+    }
+
+    public bool TieneDulce()
+    {
+        return iconoDulce.activeSelf;
     }
 }

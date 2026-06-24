@@ -1,0 +1,2925 @@
+fileFormatVersion: 2
+guid: b1c1ca61ba0bc7b48b1ba69f4af61a45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7068295944827721608
+    second: dulce de leche_0
+  - first:
+      213: -3146430938363896566
+    second: dulce de leche_1
+  - first:
+      213: 4025693824973707494
+    second: dulce de leche_2
+  - first:
+      213: -3007436345444953443
+    second: dulce de leche_3
+  - first:
+      213: 6838380548403135951
+    second: dulce de leche_4
+  - first:
+      213: -1729069626489411495
+    second: dulce de leche_5
+  - first:
+      213: -2694786658406328275
+    second: dulce de leche_6
+  - first:
+      213: -7944285677915853152
+    second: dulce de leche_7
+  - first:
+      213: 8865653517780508539
+    second: dulce de leche_8
+  - first:
+      213: -165817673169755135
+    second: dulce de leche_9
+  - first:
+      213: 1294701673424329071
+    second: dulce de leche_10
+  - first:
+      213: -1062850276675348856
+    second: dulce de leche_11
+  - first:
+      213: 5027784029593560440
+    second: dulce de leche_12
+  - first:
+      213: 5175501884835717230
+    second: dulce de leche_13
+  - first:
+      213: 3750291306948363752
+    second: dulce de leche_14
+  - first:
+      213: 8991949149611886545
+    second: dulce de leche_15
+  - first:
+      213: -7607857217527008002
+    second: dulce de leche_16
+  - first:
+      213: 404166866228596462
+    second: dulce de leche_17
+  - first:
+      213: 4427624208730396109
+    second: dulce de leche_18
+  - first:
+      213: -855349862763616441
+    second: dulce de leche_19
+  - first:
+      213: 5043788786953392637
+    second: dulce de leche_20
+  - first:
+      213: 488506249250189508
+    second: dulce de leche_21
+  - first:
+      213: -2929481754292773324
+    second: dulce de leche_22
+  - first:
+      213: 3028876563844816297
+    second: dulce de leche_23
+  - first:
+      213: 6897957285382536700
+    second: dulce de leche_24
+  - first:
+      213: -3378507082893692722
+    second: dulce de leche_25
+  - first:
+      213: -149702577671213897
+    second: dulce de leche_26
+  - first:
+      213: 5515463594883629304
+    second: dulce de leche_27
+  - first:
+      213: 8579727080688051739
+    second: dulce de leche_28
+  - first:
+      213: 541181444224910979
+    second: dulce de leche_29
+  - first:
+      213: 3479905142026244798
+    second: dulce de leche_30
+  - first:
+      213: 2092624319657336279
+    second: dulce de leche_31
+  - first:
+      213: -5540379280412620171
+    second: dulce de leche_32
+  - first:
+      213: -3855191685702284221
+    second: dulce de leche_33
+  - first:
+      213: -4454712254559049983
+    second: dulce de leche_34
+  - first:
+      213: 4888370289493808814
+    second: dulce de leche_35
+  - first:
+      213: 37183308513447610
+    second: dulce de leche_36
+  - first:
+      213: 2430039403602230903
+    second: dulce de leche_37
+  - first:
+      213: 6352829736439541059
+    second: dulce de leche_38
+  - first:
+      213: 285224274428583751
+    second: dulce de leche_39
+  - first:
+      213: 7898620954697436398
+    second: dulce de leche_40
+  - first:
+      213: 6335884848294502912
+    second: dulce de leche_41
+  - first:
+      213: -3863375887702032013
+    second: dulce de leche_42
+  - first:
+      213: -7516734814674698940
+    second: dulce de leche_43
+  - first:
+      213: 7011673024219750900
+    second: dulce de leche_44
+  - first:
+      213: 4659622989337617960
+    second: dulce de leche_45
+  - first:
+      213: -6853938576264248047
+    second: dulce de leche_46
+  - first:
+      213: 2574196243685038135
+    second: dulce de leche_47
+  - first:
+      213: 1066984186842385210
+    second: dulce de leche_48
+  - first:
+      213: 7479859180082378665
+    second: dulce de leche_49
+  - first:
+      213: 8603381878187103824
+    second: dulce de leche_50
+  - first:
+      213: -5121123291192588765
+    second: dulce de leche_51
+  - first:
+      213: 4889396475097723802
+    second: dulce de leche_52
+  - first:
+      213: -186597830096062946
+    second: dulce de leche_53
+  - first:
+      213: -7251535988578521027
+    second: dulce de leche_54
+  - first:
+      213: -4146427941147782800
+    second: dulce de leche_55
+  - first:
+      213: -4031597365524409992
+    second: dulce de leche_56
+  - first:
+      213: 6866907068642515846
+    second: dulce de leche_57
+  - first:
+      213: 5340461451377731892
+    second: dulce de leche_58
+  - first:
+      213: 4857531212329198163
+    second: dulce de leche_59
+  - first:
+      213: -8018155604773248067
+    second: dulce de leche_60
+  - first:
+      213: -4022048040479926277
+    second: dulce de leche_61
+  - first:
+      213: 7956211296798783402
+    second: dulce de leche_62
+  - first:
+      213: 6149422592347872759
+    second: dulce de leche_63
+  - first:
+      213: -1167026113586477230
+    second: dulce de leche_64
+  - first:
+      213: 7658486727608677726
+    second: dulce de leche_65
+  - first:
+      213: -1554711680941598672
+    second: dulce de leche_66
+  - first:
+      213: -1284935055407375364
+    second: dulce de leche_67
+  - first:
+      213: -6423378239593727707
+    second: dulce de leche_68
+  - first:
+      213: -661797438887348936
+    second: dulce de leche_69
+  - first:
+      213: -3328305553141860075
+    second: dulce de leche_70
+  - first:
+      213: -2935002233922410305
+    second: dulce de leche_71
+  - first:
+      213: -1939388811808736189
+    second: dulce de leche_72
+  - first:
+      213: 6120636726860737604
+    second: dulce de leche_73
+  - first:
+      213: 6599548530024726576
+    second: dulce de leche_74
+  - first:
+      213: 2064175769244786813
+    second: dulce de leche_75
+  - first:
+      213: 3127503811218794902
+    second: dulce de leche_76
+  - first:
+      213: 8189709627918822757
+    second: dulce de leche_77
+  - first:
+      213: -9170705839356125606
+    second: dulce de leche_78
+  - first:
+      213: 4908771874633364367
+    second: dulce de leche_79
+  - first:
+      213: 6596158195145377444
+    second: dulce de leche_80
+  - first:
+      213: 8021140249448363706
+    second: dulce de leche_81
+  - first:
+      213: -1243727577948680447
+    second: dulce de leche_82
+  - first:
+      213: 1527182443479580730
+    second: dulce de leche_83
+  - first:
+      213: -5301594117570397067
+    second: dulce de leche_84
+  - first:
+      213: 6846839642212274909
+    second: dulce de leche_85
+  - first:
+      213: 5601754690823737216
+    second: dulce de leche_86
+  - first:
+      213: 4319619184486633313
+    second: dulce de leche_87
+  - first:
+      213: -4294877516350216795
+    second: dulce de leche_88
+  - first:
+      213: 5338167328730097747
+    second: dulce de leche_89
+  - first:
+      213: 8843008521687603085
+    second: dulce de leche_90
+  - first:
+      213: -3671614494632294494
+    second: dulce de leche_91
+  - first:
+      213: 8691148521081015723
+    second: dulce de leche_92
+  - first:
+      213: 1948208544861349295
+    second: dulce de leche_93
+  - first:
+      213: -7105109137587974395
+    second: dulce de leche_94
+  - first:
+      213: 6660122611402880543
+    second: dulce de leche_95
+  - first:
+      213: -7327562758787929105
+    second: dulce de leche_96
+  - first:
+      213: -3007615149260350609
+    second: dulce de leche_97
+  - first:
+      213: -7835268055833165616
+    second: dulce de leche_98
+  - first:
+      213: 4143597687104592687
+    second: dulce de leche_99
+  - first:
+      213: 5847067577607071558
+    second: dulce de leche_100
+  - first:
+      213: -6567769871381910490
+    second: dulce de leche_101
+  - first:
+      213: 7092806258835598531
+    second: dulce de leche_102
+  - first:
+      213: 1382160390483467768
+    second: dulce de leche_103
+  - first:
+      213: -2208228010152202998
+    second: dulce de leche_104
+  - first:
+      213: -2983330091306653179
+    second: dulce de leche_105
+  - first:
+      213: -1309396459943482814
+    second: dulce de leche_106
+  - first:
+      213: 3275332838586205082
+    second: dulce de leche_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dulce de leche_0
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3375
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878a531a94e58ed90800000000000000
+      internalID: -7068295944827721608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_1
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3327
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d55886bb1a554d0800000000000000
+      internalID: -3146430938363896566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_2
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3278
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e89a0c64332ed730800000000000000
+      internalID: 4025693824973707494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_3
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3254
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d929721f3907346d0800000000000000
+      internalID: -3007436345444953443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_4
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 3180
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc58282a0eec6ee50800000000000000
+      internalID: 6838380548403135951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_5
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 3157
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9586e21f55c1108e0800000000000000
+      internalID: -1729069626489411495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_6
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3157
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d289a30dfc13a9ad0800000000000000
+      internalID: -2694786658406328275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_7
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3133
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae2a9d344a30c190800000000000000
+      internalID: -7944285677915853152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_8
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3085
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fdff4f6e0290b70800000000000000
+      internalID: 8865653517780508539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_9
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 3036
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1042c3d64b5e2bdf0800000000000000
+      internalID: -165817673169755135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_10
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2994
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f699f86ff44b7f110800000000000000
+      internalID: 1294701673424329071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_11
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2987
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8861759fd4fff31f0800000000000000
+      internalID: -1062850276675348856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_12
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2952
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8756e43cfe646c540800000000000000
+      internalID: 5027784029593560440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2903
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e606ff31b8313d740800000000000000
+      internalID: 5175501884835717230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_14
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2891
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e584e2e216bb0430800000000000000
+      internalID: 3750291306948363752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_15
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2843
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d70ef43c12d9cc70800000000000000
+      internalID: 8991949149611886545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_16
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2679
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef439673b267b6690800000000000000
+      internalID: -7607857217527008002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_17
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2676
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeec98b9f93eb9500800000000000000
+      internalID: 404166866228596462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_18
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2680
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc59b4062c4127d30800000000000000
+      internalID: 4427624208730396109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_19
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2682
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747ab47e4df2124f0800000000000000
+      internalID: -855349862763616441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_20
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2682
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df19478bd232ff540800000000000000
+      internalID: 5043788786953392637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_21
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2681
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0bd1178d587c600800000000000000
+      internalID: 488506249250189508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_22
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2682
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e14639dd36857d0800000000000000
+      internalID: -2929481754292773324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_23
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2682
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9add978ef2bb80a20800000000000000
+      internalID: 3028876563844816297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_24
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2682
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd3b07aa977abf50800000000000000
+      internalID: 6897957285382536700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_25
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2674
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0fafc45b12d11d0800000000000000
+      internalID: -3378507082893692722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_26
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 747
+        width: 1791
+        height: 1932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc62fb7c462cedf0800000000000000
+      internalID: -149702577671213897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_27
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 2670
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f043a8daecda8c40800000000000000
+      internalID: 5515463594883629304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_28
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2649
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16e5329250511770800000000000000
+      internalID: 8579727080688051739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2613
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3860f0ef7a9a28700800000000000000
+      internalID: 541181444224910979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_30
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2601
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb297821a4b1b4030800000000000000
+      internalID: 3479905142026244798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_31
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2551
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd4854bbe7a0d10800000000000000
+      internalID: 2092624319657336279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2516
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a421e066e9c13b0800000000000000
+      internalID: -5540379280412620171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_33
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2504
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c0da8669b9f7ac0800000000000000
+      internalID: -3855191685702284221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_34
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2454
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107ad6a7ecead22c0800000000000000
+      internalID: -4454712254559049983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2443
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61adbe0eaf6d340800000000000000
+      internalID: 4888370289493808814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_36
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2405
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe8487a50a148000800000000000000
+      internalID: 37183308513447610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_37
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2309
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb9e176fb39b120800000000000000
+      internalID: 2430039403602230903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2274
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d640f8cf8c92850800000000000000
+      internalID: 6352829736439541059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_39
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 2237
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f52a667f155f300800000000000000
+      internalID: 285224274428583751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2189
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec823cd8e98d9d60800000000000000
+      internalID: 7898620954697436398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_41
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2165
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002af5853b59de750800000000000000
+      internalID: 6335884848294502912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_42
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2115
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37106b36918826ac0800000000000000
+      internalID: -3863375887702032013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_43
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2080
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44db08ce2813fa790800000000000000
+      internalID: -7516734814674698940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_44
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2067
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1aec157777e4160800000000000000
+      internalID: 7011673024219750900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_45
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2020
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82666bacb6e4aa040800000000000000
+      internalID: 4659622989337617960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_46
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1923
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1154c69bd2be1e0a0800000000000000
+      internalID: -6853938576264248047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_47
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1873
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ddfe48d169b320800000000000000
+      internalID: 2574196243685038135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_48
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1826
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b03bdf670bece00800000000000000
+      internalID: 1066984186842385210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_49
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1776
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a731c65b4ccdc760800000000000000
+      internalID: 7479859180082378665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_50
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1753
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056106c4c3a556770800000000000000
+      internalID: 8603381878187103824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_51
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 1753
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3268c71ef7d1ee8b0800000000000000
+      internalID: -5121123291192588765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_52
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1727
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a933f306030aad340800000000000000
+      internalID: 4889396475097723802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_53
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1681
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16f34d1342196df0800000000000000
+      internalID: -186597830096062946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_54
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1631
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30f0dc407e5d5b90800000000000000
+      internalID: -7251535988578521027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_55
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1583
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071d12991cde476c0800000000000000
+      internalID: -4146427941147782800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_56
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1535
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871548e6e83ec08c0800000000000000
+      internalID: -4031597365524409992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_57
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1486
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b5e04b8972c4f50800000000000000
+      internalID: 6866907068642515846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_58
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1437
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439690225612d1a40800000000000000
+      internalID: 5340461451377731892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_59
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1402
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352214cb6ea696340800000000000000
+      internalID: 4857531212329198163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_60
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1389
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3eeaf95f9c9b090800000000000000
+      internalID: -8018155604773248067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_61
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1340
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf753aded90de28c0800000000000000
+      internalID: -4022048040479926277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_62
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa734a745042a6e60800000000000000
+      internalID: 7956211296798783402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_63
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd18a64443275550800000000000000
+      internalID: 6149422592347872759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_64
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1227
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257c210dee3edcfe0800000000000000
+      internalID: -1167026113586477230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_65
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1195
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55b8243a19684a60800000000000000
+      internalID: 7658486727608677726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_66
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1172
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0385351a6fd8c6ae0800000000000000
+      internalID: -1554711680941598672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_67
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1178
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1ffeff5efa2ee0800000000000000
+      internalID: -1284935055407375364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_68
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1147
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529ba0b06839bd6a0800000000000000
+      internalID: -6423378239593727707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_69
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8353bd55cb2d0d6f0800000000000000
+      internalID: -661797438887348936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_70
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1098
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519f409cbbb7fc1d0800000000000000
+      internalID: -3328305553141860075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_71
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1051
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8a310c407c447d0800000000000000
+      internalID: -2935002233922410305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_72
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1001
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cf5c6a628e515e0800000000000000
+      internalID: -1939388811808736189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 967
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c6ebfacaed0f450800000000000000
+      internalID: 6120636726860737604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_74
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 967
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03043121c6e469b50800000000000000
+      internalID: 6599548530024726576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_75
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 948
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70edc7fcec65ac10800000000000000
+      internalID: 2064175769244786813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_76
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 953
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69960656520276b20800000000000000
+      internalID: 3127503811218794902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 936
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56da2b10481b7a170800000000000000
+      internalID: 8189709627918822757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_78
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 942
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ed399a0ab1bb080800000000000000
+      internalID: -9170705839356125606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_79
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 930
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8333fe13067f1440800000000000000
+      internalID: 4908771874633364367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_80
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 930
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a60ce73ee24a8b50800000000000000
+      internalID: 6596158195145377444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_81
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 906
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab635fd1f80d05f60800000000000000
+      internalID: 8021140249448363706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 892
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f030f7b546dbee0800000000000000
+      internalID: -1243727577948680447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_83
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 858
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3040da4754a13510800000000000000
+      internalID: 1527182443479580730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_84
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 761
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c7ae63d34fc66b0800000000000000
+      internalID: -5301594117570397067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_85
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 747
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd21024e06cd40f50800000000000000
+      internalID: 6846839642212274909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_86
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 670
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f4d61463e6dbd40800000000000000
+      internalID: 5601754690823737216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_87
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 664
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fc94013ce52fb30800000000000000
+      internalID: 4319619184486633313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_88
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 640
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5222477a78564c0800000000000000
+      internalID: -4294877516350216795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_89
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 615
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ad8417eaf41a40800000000000000
+      internalID: 5338167328730097747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_90
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 567
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8711f0f56da8ba70800000000000000
+      internalID: 8843008521687603085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_91
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 543
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a74447f11ecb0dc0800000000000000
+      internalID: -3671614494632294494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_92
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 513
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad023148892d9870800000000000000
+      internalID: 8691148521081015723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_93
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 519
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa567d8795d690b10800000000000000
+      internalID: 1948208544861349295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_94
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 452
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fcfa342e4956d90800000000000000
+      internalID: -7105109137587974395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_95
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 416
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16373d6a328d6c50800000000000000
+      internalID: 6660122611402880543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_96
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 421
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb60157e744f4a90800000000000000
+      internalID: -7327562758787929105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_97
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 373
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd04fe4fdc246d0800000000000000
+      internalID: -3007615149260350609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_98
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 325
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0491c5739834390800000000000000
+      internalID: -7835268055833165616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_99
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 275
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bdff78424018930800000000000000
+      internalID: 4143597687104592687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_100
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 222
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64729f49bf4f42150800000000000000
+      internalID: 5847067577607071558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_101
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 227
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ca4c979189ad4a0800000000000000
+      internalID: -6567769871381910490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_102
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc209e86b5be6260800000000000000
+      internalID: 7092806258835598531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_103
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 156
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdd1695d8b6e2310800000000000000
+      internalID: 1382160390483467768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_104
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 130
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d6fcf035cca51e0800000000000000
+      internalID: -2208228010152202998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_105
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 113
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aeeeb96151996d0800000000000000
+      internalID: -2983330091306653179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_106
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 82
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a2aee6bd614dde0800000000000000
+      internalID: -1309396459943482814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dulce de leche_107
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 34
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a934a1dfcd1547d20800000000000000
+      internalID: 3275332838586205082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dulce de leche_0: -7068295944827721608
+      dulce de leche_1: -3146430938363896566
+      dulce de leche_10: 1294701673424329071
+      dulce de leche_100: 5847067577607071558
+      dulce de leche_101: -6567769871381910490
+      dulce de leche_102: 7092806258835598531
+      dulce de leche_103: 1382160390483467768
+      dulce de leche_104: -2208228010152202998
+      dulce de leche_105: -2983330091306653179
+      dulce de leche_106: -1309396459943482814
+      dulce de leche_107: 3275332838586205082
+      dulce de leche_11: -1062850276675348856
+      dulce de leche_12: 5027784029593560440
+      dulce de leche_13: 5175501884835717230
+      dulce de leche_14: 3750291306948363752
+      dulce de leche_15: 8991949149611886545
+      dulce de leche_16: -7607857217527008002
+      dulce de leche_17: 404166866228596462
+      dulce de leche_18: 4427624208730396109
+      dulce de leche_19: -855349862763616441
+      dulce de leche_2: 4025693824973707494
+      dulce de leche_20: 5043788786953392637
+      dulce de leche_21: 488506249250189508
+      dulce de leche_22: -2929481754292773324
+      dulce de leche_23: 3028876563844816297
+      dulce de leche_24: 6897957285382536700
+      dulce de leche_25: -3378507082893692722
+      dulce de leche_26: -149702577671213897
+      dulce de leche_27: 5515463594883629304
+      dulce de leche_28: 8579727080688051739
+      dulce de leche_29: 541181444224910979
+      dulce de leche_3: -3007436345444953443
+      dulce de leche_30: 3479905142026244798
+      dulce de leche_31: 2092624319657336279
+      dulce de leche_32: -5540379280412620171
+      dulce de leche_33: -3855191685702284221
+      dulce de leche_34: -4454712254559049983
+      dulce de leche_35: 4888370289493808814
+      dulce de leche_36: 37183308513447610
+      dulce de leche_37: 2430039403602230903
+      dulce de leche_38: 6352829736439541059
+      dulce de leche_39: 285224274428583751
+      dulce de leche_4: 6838380548403135951
+      dulce de leche_40: 7898620954697436398
+      dulce de leche_41: 6335884848294502912
+      dulce de leche_42: -3863375887702032013
+      dulce de leche_43: -7516734814674698940
+      dulce de leche_44: 7011673024219750900
+      dulce de leche_45: 4659622989337617960
+      dulce de leche_46: -6853938576264248047
+      dulce de leche_47: 2574196243685038135
+      dulce de leche_48: 1066984186842385210
+      dulce de leche_49: 7479859180082378665
+      dulce de leche_5: -1729069626489411495
+      dulce de leche_50: 8603381878187103824
+      dulce de leche_51: -5121123291192588765
+      dulce de leche_52: 4889396475097723802
+      dulce de leche_53: -186597830096062946
+      dulce de leche_54: -7251535988578521027
+      dulce de leche_55: -4146427941147782800
+      dulce de leche_56: -4031597365524409992
+      dulce de leche_57: 6866907068642515846
+      dulce de leche_58: 5340461451377731892
+      dulce de leche_59: 4857531212329198163
+      dulce de leche_6: -2694786658406328275
+      dulce de leche_60: -8018155604773248067
+      dulce de leche_61: -4022048040479926277
+      dulce de leche_62: 7956211296798783402
+      dulce de leche_63: 6149422592347872759
+      dulce de leche_64: -1167026113586477230
+      dulce de leche_65: 7658486727608677726
+      dulce de leche_66: -1554711680941598672
+      dulce de leche_67: -1284935055407375364
+      dulce de leche_68: -6423378239593727707
+      dulce de leche_69: -661797438887348936
+      dulce de leche_7: -7944285677915853152
+      dulce de leche_70: -3328305553141860075
+      dulce de leche_71: -2935002233922410305
+      dulce de leche_72: -1939388811808736189
+      dulce de leche_73: 6120636726860737604
+      dulce de leche_74: 6599548530024726576
+      dulce de leche_75: 2064175769244786813
+      dulce de leche_76: 3127503811218794902
+      dulce de leche_77: 8189709627918822757
+      dulce de leche_78: -9170705839356125606
+      dulce de leche_79: 4908771874633364367
+      dulce de leche_8: 8865653517780508539
+      dulce de leche_80: 6596158195145377444
+      dulce de leche_81: 8021140249448363706
+      dulce de leche_82: -1243727577948680447
+      dulce de leche_83: 1527182443479580730
+      dulce de leche_84: -5301594117570397067
+      dulce de leche_85: 6846839642212274909
+      dulce de leche_86: 5601754690823737216
+      dulce de leche_87: 4319619184486633313
+      dulce de leche_88: -4294877516350216795
+      dulce de leche_89: 5338167328730097747
+      dulce de leche_9: -165817673169755135
+      dulce de leche_90: 8843008521687603085
+      dulce de leche_91: -3671614494632294494
+      dulce de leche_92: 8691148521081015723
+      dulce de leche_93: 1948208544861349295
+      dulce de leche_94: -7105109137587974395
+      dulce de leche_95: 6660122611402880543
+      dulce de leche_96: -7327562758787929105
+      dulce de leche_97: -3007615149260350609
+      dulce de leche_98: -7835268055833165616
+      dulce de leche_99: 4143597687104592687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
