@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 1580367012c027e4ba5c67cb468a00f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1499707593818756298
+    second: ReinaComiendo_0
+  - first:
+      213: 7573612976677826625
+    second: ReinaComiendo_1
+  - first:
+      213: -8133141318474930869
+    second: ReinaComiendo_2
+  - first:
+      213: 2933004658091263641
+    second: ReinaComiendo_3
+  - first:
+      213: 7602680712954637869
+    second: ReinaComiendo_4
+  - first:
+      213: -4275088814563358067
+    second: ReinaComiendo_5
+  - first:
+      213: 3957795456765981391
+    second: ReinaComiendo_6
+  - first:
+      213: 832040160533121255
+    second: ReinaComiendo_7
+  - first:
+      213: -3629075263235987710
+    second: ReinaComiendo_8
+  - first:
+      213: -8208578646088257876
+    second: ReinaComiendo_9
+  - first:
+      213: 2298794627774550690
+    second: ReinaComiendo_10
+  - first:
+      213: -4281340770841689319
+    second: ReinaComiendo_11
+  - first:
+      213: -6411354059531881659
+    second: ReinaComiendo_12
+  - first:
+      213: -8037557822870786022
+    second: ReinaComiendo_13
+  - first:
+      213: 2085159736543786209
+    second: ReinaComiendo_14
+  - first:
+      213: -1746457385349447769
+    second: ReinaComiendo_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReinaComiendo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 220
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b2a73a3e7ff2be0800000000000000
+      internalID: -1499707593818756298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 497
+        width: 207
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140bb2520e0ea1960800000000000000
+      internalID: 7573612976677826625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 497
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45ef34ef07412f80800000000000000
+      internalID: -8133141318474930869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 497
+        width: 200
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9968812623024b820800000000000000
+      internalID: 2933004658091263641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 497
+        width: 210
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eef54e3d5228960800000000000000
+      internalID: 7602680712954637869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_5
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 497
+        width: 208
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a84b0af55dba4c0800000000000000
+      internalID: -4275088814563358067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_6
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 497
+        width: 206
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f036aff9ece630800000000000000
+      internalID: 3957795456765981391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_7
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 497
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e88f6f1e100c8b00800000000000000
+      internalID: 832040160533121255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 207
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20769a7964fe2adc0800000000000000
+      internalID: -3629075263235987710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 195
+        width: 204
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae6d095635451e80800000000000000
+      internalID: -8208578646088257876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 195
+        width: 206
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a21410d885f6ef10800000000000000
+      internalID: 2298794627774550690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_11
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 195
+        width: 203
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913859f904f9594c0800000000000000
+      internalID: -4281340770841689319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_12
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 195
+        width: 204
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f750a37b4607a0800000000000000
+      internalID: -6411354059531881659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_13
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 195
+        width: 205
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ff12bebbd47090800000000000000
+      internalID: -8037557822870786022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_14
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 195
+        width: 194
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4b3a49bb9ffec10800000000000000
+      internalID: 2085159736543786209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReinaComiendo_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 192
+        width: 200
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af73ead24653c7e0800000000000000
+      internalID: -1746457385349447769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ef9b80e88e84fa84fad881fce9382749
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ReinaComiendo_0: -1499707593818756298
+      ReinaComiendo_1: 7573612976677826625
+      ReinaComiendo_10: 2298794627774550690
+      ReinaComiendo_11: -4281340770841689319
+      ReinaComiendo_12: -6411354059531881659
+      ReinaComiendo_13: -8037557822870786022
+      ReinaComiendo_14: 2085159736543786209
+      ReinaComiendo_15: -1746457385349447769
+      ReinaComiendo_2: -8133141318474930869
+      ReinaComiendo_3: 2933004658091263641
+      ReinaComiendo_4: 7602680712954637869
+      ReinaComiendo_5: -4275088814563358067
+      ReinaComiendo_6: 3957795456765981391
+      ReinaComiendo_7: 832040160533121255
+      ReinaComiendo_8: -3629075263235987710
+      ReinaComiendo_9: -8208578646088257876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

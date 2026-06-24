@@ -7,14 +7,19 @@ public class PersecucionReina : MonoBehaviour
     public float velocidad = 3.5f;
     public float distanciaMinima = 1f;
 
+    [Header("Animaciones")]
+    public GameObject reinaComiendo;
+
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
+    private Animator animator;
     private bool comiendo = false;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
     }
 
     void FixedUpdate()
@@ -53,14 +58,9 @@ public class PersecucionReina : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("La Reina tocó: " + other.gameObject.name);
-
         if (other.CompareTag("Asado"))
         {
-            Debug.Log("La Reina encontró el asado");
-
             Destroy(other.gameObject);
-
             StartCoroutine(ComerAsado());
         }
     }
@@ -69,7 +69,32 @@ public class PersecucionReina : MonoBehaviour
     {
         comiendo = true;
 
+        // Aparece la animación de comer donde está la Reina
+        if (reinaComiendo != null)
+        {
+            reinaComiendo.transform.position = transform.position;
+            reinaComiendo.SetActive(true);
+        }
+
+        // Oculta visualmente la Reina en bici
+        if (spriteRenderer != null)
+            spriteRenderer.enabled = false;
+
+        if (animator != null)
+            animator.enabled = false;
+
         yield return new WaitForSeconds(4f);
+
+        // Oculta la animación de comer
+        if (reinaComiendo != null)
+            reinaComiendo.SetActive(false);
+
+        // Vuelve la Reina en bici
+        if (spriteRenderer != null)
+            spriteRenderer.enabled = true;
+
+        if (animator != null)
+            animator.enabled = true;
 
         comiendo = false;
     }
