@@ -35,6 +35,12 @@ public class InventarioManager : MonoBehaviour
     {
         if (!TieneAsado()) return;
 
+        AudioClip clip = Resources.Load<AudioClip>("lanzar objeto");
+        if (clip != null)
+        {
+            AudioSource.PlayClipAtPoint(clip, posicionMaxima);
+        }
+
         iconoAsado.SetActive(false);
 
         Instantiate(
@@ -61,7 +67,15 @@ public class InventarioManager : MonoBehaviour
     public void UsarDulce(Vector3 posicionMaxima)
     {
         if (!TieneDulce()) return;
+
+        AudioClip clip = Resources.Load<AudioClip>("lanzar objeto");
+        if (clip != null)
+        {
+            AudioSource.PlayClipAtPoint(clip, posicionMaxima);
+        }
+
         iconoDulce.SetActive(false);
+
         Instantiate(
             prefabDulceLanzado,
             posicionMaxima,
