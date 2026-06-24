@@ -15,6 +15,7 @@ TagManager:
   - Tulipan
   - MedallaEscudo
   - Dulce
+  - DulceLanzado
   layers:
   - Default
   - TransparentFX

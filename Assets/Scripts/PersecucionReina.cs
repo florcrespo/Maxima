@@ -63,6 +63,10 @@ public class PersecucionReina : MonoBehaviour
             Destroy(other.gameObject);
             StartCoroutine(ComerAsado());
         }
+       if (other.CompareTag("DulceLanzado"))
+        {
+            StartCoroutine(TrabarseConDulce(other.gameObject));
+        }
     }
 
     private System.Collections.IEnumerator ComerAsado()
@@ -97,5 +101,12 @@ public class PersecucionReina : MonoBehaviour
             animator.enabled = true;
 
         comiendo = false;
+    }
+    private System.Collections.IEnumerator TrabarseConDulce(GameObject dulce)
+    {
+        comiendo = true;
+        yield return new WaitForSeconds(3f);
+        comiendo = false;
+        if (dulce != null) Destroy(dulce);
     }
 }

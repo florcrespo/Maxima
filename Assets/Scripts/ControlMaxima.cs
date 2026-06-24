@@ -70,14 +70,18 @@ public class ControlMaxima : MonoBehaviour
             rb.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
         }
 
-        // USAR ASADO
+        // USAR ITEM (en orden)
         if (Keyboard.current.eKey.wasPressedThisFrame)
         {
-            InventarioManager.instancia.UsarAsado(transform.position);
+            if (InventarioManager.instancia.TieneAsado())
+                InventarioManager.instancia.UsarAsado(transform.position);
+            else if (InventarioManager.instancia.TieneDulce())
+             InventarioManager.instancia.UsarDulce(transform.position);
         }
-
+        
         animator.SetBool("isJumping", !estaEnSuelo && !estaEnBicicleta);
     }
+
 
     void FixedUpdate()
     {

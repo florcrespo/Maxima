@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d0fed2c19aebb4494a32a1196ffedd36
+guid: fe2f7aa80e2a69a4b8c1014a8cad0265
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4251985975244239112
-    second: fondo largo_0
+      213: 7119360920479355019
+    second: Plantas_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,12 +37,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fondo largo_0
+      name: Plantas_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3590
+        width: 8000
         height: 471
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fecf939849edf4c0800000000000000
-      internalID: -4251985975244239112
+      spriteID: b8058f4890d0dc260800000000000000
+      internalID: 7119360920479355019
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fondo largo_0: -4251985975244239112
+      Plantas_0: 7119360920479355019
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

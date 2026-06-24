@@ -10,6 +10,7 @@ public class InventarioManager : MonoBehaviour
 
     [Header("Prefabs")]
     public GameObject prefabAsadoLanzado;
+    public GameObject prefabDulceLanzado;
 
     private void Awake()
     {
@@ -55,5 +56,16 @@ public class InventarioManager : MonoBehaviour
     public bool TieneDulce()
     {
         return iconoDulce.activeSelf;
+    }
+
+    public void UsarDulce(Vector3 posicionMaxima)
+    {
+        if (!TieneDulce()) return;
+        iconoDulce.SetActive(false);
+        Instantiate(
+            prefabDulceLanzado,
+            posicionMaxima,
+            Quaternion.identity
+        );
     }
 }
