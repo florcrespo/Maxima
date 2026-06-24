@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+
 public class SecuenciaInicio : MonoBehaviour
 {
     public GameObject[] imagenesIntro;
@@ -57,5 +58,21 @@ public class SecuenciaInicio : MonoBehaviour
         yield return new WaitForSecondsRealtime(tiempoControles);
         pantallaControles.SetActive(false);
         Time.timeScale = 1f;
+
+        // 🎵 EMPIEZA A SONAR LA MÚSICA DE FONDO AQUÍ
+        AudioClip musicaNivel = Resources.Load<AudioClip>("musica_fondo");
+        if (musicaNivel != null)
+        {
+            GameObject emisorMusica = GameObject.Find("MusicaFondo");
+            if (emisorMusica != null)
+            {
+                AudioSource fuenteMusica = emisorMusica.GetComponent<AudioSource>();
+                if (fuenteMusica != null)
+                {
+                    fuenteMusica.clip = musicaNivel;
+                    fuenteMusica.Play();
+                }
+            }
+        }
     }
 }

@@ -29,6 +29,7 @@ public class ControlMaxima : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer spriteRenderer;
+    private AudioSource audioSource; // Referencia para el sonido de salto
     private float inputX;
     private bool estaEnSuelo;
 
@@ -38,9 +39,13 @@ public class ControlMaxima : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>(); // Inicializamos el componente de audio
 
         // Nos aseguramos de que el escudo arranque apagado
         if (visualEscudo != null) visualEscudo.SetActive(false);
+
+        
+
     }
 
     void Update()
@@ -64,10 +69,17 @@ public class ControlMaxima : MonoBehaviour
 
         estaEnSuelo = Physics2D.OverlapCircle(sensorSuelo.position, 0.1f, capaSuelo);
 
+        // SALTO Y SONIDO DE SALTO
         if (Keyboard.current.upArrowKey.wasPressedThisFrame && estaEnSuelo && !estaEnBicicleta)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
             rb.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
+
+            // Reproducimos el sonido si el componente y el audio clip están asignados
+            if (audioSource != null)
+            {
+                audioSource.Play();
+            }
         }
 
         // USAR ITEM (en orden)
@@ -76,12 +88,11 @@ public class ControlMaxima : MonoBehaviour
             if (InventarioManager.instancia.TieneAsado())
                 InventarioManager.instancia.UsarAsado(transform.position);
             else if (InventarioManager.instancia.TieneDulce())
-             InventarioManager.instancia.UsarDulce(transform.position);
+                InventarioManager.instancia.UsarDulce(transform.position);
         }
-        
-        animator.SetBool("isJumping", !estaEnSuelo && !estaEnBicicleta);
-    }
 
+        animator.SetBool("isJumping", !estaEnSuelo && !estaEnBicicleta);
+    } // <--- ¡ESTA LLAVE DE CIERRE FALTABA O ESTABA MAL UBICADA Y ARROJABA EL ERROR CS1513!
 
     void FixedUpdate()
     {
@@ -101,6 +112,13 @@ public class ControlMaxima : MonoBehaviour
         // 2. DETECCIÓN DE PELIGROS LETALES (Reina o Toro)
         if (collision.CompareTag("Reina") || collision.CompareTag("Toro"))
         {
+            // REPRODUCIMOS SONIDO DE CHOQUE / GOLPE
+            AudioClip clipChoque = Resources.Load<AudioClip>("danio");
+            if (clipChoque != null)
+            {
+                AudioSource.PlayClipAtPoint(clipChoque, transform.position);
+            }
+
             if (tieneEscudoActivo)
             {
                 RomperEscudo();
@@ -123,6 +141,13 @@ public class ControlMaxima : MonoBehaviour
         if (collision.CompareTag("Tulipan"))
         {
             collision.gameObject.SetActive(false); // El tulipán desaparece al tocarlo
+
+            // REPRODUCIMOS SONIDO DE CHOQUE / GOLPE
+            AudioClip clipChoque = Resources.Load<AudioClip>("danio");
+            if (clipChoque != null)
+            {
+                AudioSource.PlayClipAtPoint(clipChoque, transform.position);
+            }
 
             if (tieneEscudoActivo)
             {
@@ -147,6 +172,13 @@ public class ControlMaxima : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
             rb.AddForce(Vector2.up * fuerzaTrampolin, ForceMode2D.Impulse);
+
+            // Reproducimos el sonido de salto al usar el trampolín
+            AudioClip clipSalto = Resources.Load<AudioClip>("salto"); // Cambiá "salto" por el nombre exacto de tu archivo de audio si es diferente
+            if (clipSalto != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(clipSalto);
+            }
         }
 
         if (collision.CompareTag("Meta"))
@@ -158,9 +190,18 @@ public class ControlMaxima : MonoBehaviour
         if (collision.CompareTag("Mate"))
         {
             collision.gameObject.SetActive(false);
+
+            // Carga el archivo llamado "sonido_mate" desde la carpeta Resources y lo reproduce
+            AudioClip clipMate = Resources.Load<AudioClip>("mate");
+            if (clipMate != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(clipMate); // PlayOneShot permite reproducir este sonido sin interrumpir otros
+            }
+
             StartCoroutine(EfectoMate());
         }
     }
+
     void ActivarEscudo()
     {
         tieneEscudoActivo = true;

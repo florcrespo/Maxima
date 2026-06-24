@@ -73,6 +73,13 @@ public class PersecucionReina : MonoBehaviour
     {
         comiendo = true;
 
+        // Reproducimos el sonido "bocado" al asimilar el asado
+        AudioClip clipBocado = Resources.Load<AudioClip>("bocado");
+        if (clipBocado != null)
+        {
+            AudioSource.PlayClipAtPoint(clipBocado, transform.position);
+        }
+
         // Aparece la animación de comer donde está la Reina
         if (reinaComiendo != null)
         {
@@ -102,6 +109,7 @@ public class PersecucionReina : MonoBehaviour
 
         comiendo = false;
     }
+    
     private System.Collections.IEnumerator TrabarseConDulce(GameObject dulce)
     {
         comiendo = true;

@@ -60,6 +60,13 @@ public class GestorVidas : MonoBehaviour
         if (mensajeNivelCompletado != null)
             mensajeNivelCompletado.SetActive(true);
 
+        // REPRODUCIMOS SONIDO DE VICTORIA AL LLEGAR A LA META
+        AudioClip clipVictoria = Resources.Load<AudioClip>("victoria");
+        if (clipVictoria != null)
+        {
+            AudioSource.PlayClipAtPoint(clipVictoria, maxima.transform.position);
+        }
+
         if (reinaPerseguidora != null)
             reinaPerseguidora.SetActive(false);
 
@@ -88,6 +95,18 @@ public class GestorVidas : MonoBehaviour
             anim.SetBool("isJumping", false);
             anim.CrossFade("maxima_idle", 0f, 0);
         }
+        
+        // Congelamos el tiempo al final de todo
+        Time.timeScale = 0;
+
+         // Detenemos la música de fondo al terminar el nivel
+        GameObject emisorMusica = GameObject.Find("MusicaFondo");
+        if (emisorMusica != null)
+        {
+            emisorMusica.GetComponent<AudioSource>().Stop();
+        }
+
+        Time.timeScale = 0;
     }
 
     public void PerderVida(GameObject maxima)
@@ -102,6 +121,13 @@ public class GestorVidas : MonoBehaviour
         }
         else
         {
+            // SONIDO DE DERROTA: Suena SOLAMENTE si las vidas llegan a 0 (Game Over)
+            AudioClip clipDerrota = Resources.Load<AudioClip>("derrota");
+            if (clipDerrota != null)
+            {
+                AudioSource.PlayClipAtPoint(clipDerrota, maxima.transform.position);
+            }
+
             StartCoroutine(GameOver(maxima));
         }
     }
@@ -138,9 +164,16 @@ public class GestorVidas : MonoBehaviour
                 animReina.enabled = false;
         }
 
+        GameObject emisorMusica = GameObject.Find("MusicaFondo");
+        if (emisorMusica != null)
+        {
+            emisorMusica.GetComponent<AudioSource>().Stop();
+        }
+
         yield return new WaitForSeconds(3f);
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        
     }
 
     public void PerderBici(GameObject maxima)
