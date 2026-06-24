@@ -14,9 +14,11 @@ public class GestorVidas : MonoBehaviour
     public Sprite corazonVacio;
 
     public Vector3 puntoInicio;
+
     public GameObject mensajeNivelCompletado;
     public GameObject cartelGameOver;
     public GameObject reinaPerseguidora;
+    public GameObject generadorToros;
 
     public bool nivelCompletado = false;
 
@@ -38,9 +40,22 @@ public class GestorVidas : MonoBehaviour
         corazon3.sprite = (vidas >= 3) ? corazonLleno : corazonVacio;
     }
 
+    void DetenerToros()
+    {
+        if (generadorToros != null)
+        {
+            Generador generador = generadorToros.GetComponent<Generador>();
+
+            if (generador != null)
+                generador.DetenerGenerador();
+        }
+    }
+
     public void NivelCompletado(GameObject maxima)
     {
         nivelCompletado = true;
+
+        DetenerToros();
 
         if (mensajeNivelCompletado != null)
             mensajeNivelCompletado.SetActive(true);
@@ -93,6 +108,8 @@ public class GestorVidas : MonoBehaviour
 
     System.Collections.IEnumerator GameOver(GameObject maxima)
     {
+        DetenerToros();
+
         if (cartelGameOver != null)
             cartelGameOver.SetActive(true);
 
