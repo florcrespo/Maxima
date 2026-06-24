@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 82658ab55a56d43758d4c5cac7a0aa9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1852123250417802980
+    second: lady di sprite_0
+  - first:
+      213: -1845600940758929206
+    second: lady di sprite_1
+  - first:
+      213: 2000865206704424464
+    second: lady di sprite_2
+  - first:
+      213: 5225726659675439156
+    second: lady di sprite_3
+  - first:
+      213: 7021784371899666845
+    second: lady di sprite_4
+  - first:
+      213: -3096616741790439457
+    second: lady di sprite_5
+  - first:
+      213: -5684484351189804853
+    second: lady di sprite_6
+  - first:
+      213: 3584547569655167405
+    second: lady di sprite_7
+  - first:
+      213: -7166052809031836302
+    second: lady di sprite_8
+  - first:
+      213: 8998596381192646195
+    second: lady di sprite_9
+  - first:
+      213: -814032660995648782
+    second: lady di sprite_10
+  - first:
+      213: -1968006783253651501
+    second: lady di sprite_11
+  - first:
+      213: -8959335449659458466
+    second: lady di sprite_12
+  - first:
+      213: 6769823390220069594
+    second: lady di sprite_13
+  - first:
+      213: -7133846529057110969
+    second: lady di sprite_14
+  - first:
+      213: 4466818738445149193
+    second: lady di sprite_15
+  - first:
+      213: 8752621282848170661
+    second: lady di sprite_16
+  - first:
+      213: 2134583748197702614
+    second: lady di sprite_17
+  - first:
+      213: 7346817679080517713
+    second: lady di sprite_18
+  - first:
+      213: -1593570865788356765
+    second: lady di sprite_19
+  - first:
+      213: 3678096563098343573
+    second: lady di sprite_20
+  - first:
+      213: -7248314311883887925
+    second: lady di sprite_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lady di sprite_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1462
+        width: 348
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ea9a77bfeb46e0800000000000000
+      internalID: -1852123250417802980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1457
+        width: 351
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0ffe809bb1366e0800000000000000
+      internalID: -1845600940758929206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1460
+        width: 354
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0164e01fd4084cb10800000000000000
+      internalID: 2000865206704424464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1468
+        width: 364
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4304e3bb5b2858840800000000000000
+      internalID: 5225726659675439156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1465
+        width: 403
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d911878eea3627160800000000000000
+      internalID: 7021784371899666845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_5
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 1482
+        width: 446
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7ad0cda7b9605d0800000000000000
+      internalID: -3096616741790439457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_6
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 1477
+        width: 433
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8901ca997ac11b0800000000000000
+      internalID: -5684484351189804853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1465
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da939c9d50fdeb130800000000000000
+      internalID: 3584547569655167405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 854
+        width: 409
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d97f300f01d8c90800000000000000
+      internalID: -7166052809031836302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 814
+        width: 427
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e6a1a6bbf61ec70800000000000000
+      internalID: 8998596381192646195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 817
+        width: 415
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d9c59b99f3b4f0800000000000000
+      internalID: -814032660995648782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 814
+        width: 394
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df5b90f14c30b4e0800000000000000
+      internalID: -1968006783253651501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 814
+        width: 448
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cbb7b80eb0aa380800000000000000
+      internalID: -8959335449659458466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 820
+        width: 445
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaa23e518e33fd50800000000000000
+      internalID: 6769823390220069594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 853
+        width: 406
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c569e06c7ffc90800000000000000
+      internalID: -7133846529057110969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 129
+        width: 408
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904e415f9f35dfd30800000000000000
+      internalID: 4466818738445149193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_16
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 137
+        width: 396
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a260b1feae877970800000000000000
+      internalID: 8752621282848170661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 137
+        width: 380
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db55a60c909f9d10800000000000000
+      internalID: 2134583748197702614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 135
+        width: 387
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150772701c325f560800000000000000
+      internalID: 7346817679080517713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_19
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 129
+        width: 390
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367f54c9dbf72e9e0800000000000000
+      internalID: -1593570865788356765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_20
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 135
+        width: 320
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598df0536593b0330800000000000000
+      internalID: 3678096563098343573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lady di sprite_21
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 142
+        width: 361
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcae7cb5980d86b90800000000000000
+      internalID: -7248314311883887925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lady di sprite_0: -1852123250417802980
+      lady di sprite_1: -1845600940758929206
+      lady di sprite_10: -814032660995648782
+      lady di sprite_11: -1968006783253651501
+      lady di sprite_12: -8959335449659458466
+      lady di sprite_13: 6769823390220069594
+      lady di sprite_14: -7133846529057110969
+      lady di sprite_15: 4466818738445149193
+      lady di sprite_16: 8752621282848170661
+      lady di sprite_17: 2134583748197702614
+      lady di sprite_18: 7346817679080517713
+      lady di sprite_19: -1593570865788356765
+      lady di sprite_2: 2000865206704424464
+      lady di sprite_20: 3678096563098343573
+      lady di sprite_21: -7248314311883887925
+      lady di sprite_3: 5225726659675439156
+      lady di sprite_4: 7021784371899666845
+      lady di sprite_5: -3096616741790439457
+      lady di sprite_6: -5684484351189804853
+      lady di sprite_7: 3584547569655167405
+      lady di sprite_8: -7166052809031836302
+      lady di sprite_9: 8998596381192646195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
