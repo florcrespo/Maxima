@@ -17,6 +17,8 @@ public class ControlMaxima : MonoBehaviour
     [Header("Estado")]
     public bool estaEnBicicleta = false;
     public bool esInvencible = false;
+    private float velocidadOriginal;
+    private bool tomaMate = false;
 
     private Rigidbody2D rb;
     private Animator animator;
@@ -26,6 +28,7 @@ public class ControlMaxima : MonoBehaviour
 
     void Start()
     {
+        velocidadOriginal = velocidad;
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -104,6 +107,16 @@ public class ControlMaxima : MonoBehaviour
             if (gestor != null)
                 gestor.NivelCompletado(this.gameObject);
         }
+        if (collision.CompareTag("Mate"))
+        {
+            collision.gameObject.SetActive(false);
+            StartCoroutine(EfectoMate());
+        }
+        if (collision.CompareTag("Tulipan"))
+        {
+            collision.gameObject.SetActive(false);
+            StartCoroutine(EfectoTulipan());
+        }
     }
 
     System.Collections.IEnumerator ActivarBicicletaTemporal(GameObject bicicleta)
@@ -122,4 +135,23 @@ public class ControlMaxima : MonoBehaviour
         yield return new WaitForSeconds(1.0f);
         esInvencible = false;
     }
+
+    System.Collections.IEnumerator EfectoMate()
+    {
+     velocidad = velocidadOriginal * 2f;
+     velocidadBici = velocidadBici * 2f;
+        yield return new WaitForSeconds(4f);
+        velocidad = velocidadOriginal;
+        velocidadBici = velocidadBici / 2f;
+    }
+    
+    System.Collections.IEnumerator EfectoTulipan()
+    {
+        velocidad = velocidadOriginal / 2f;
+        velocidadBici = velocidadBici / 2f;
+        yield return new WaitForSeconds(3f);
+        velocidad = velocidadOriginal;
+        velocidadBici = velocidadBici * 2f;
+    }
+
 }
