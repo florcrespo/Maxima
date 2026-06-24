@@ -203,19 +203,28 @@ public class ControlMaxima : MonoBehaviour
     }
 
     void ActivarEscudo()
+{
+    tieneEscudoActivo = true;
+    esInvencible = true;
+
+    AudioClip clipLadyDi = Resources.Load<AudioClip>("proteccion lady di");
+
+    if (clipLadyDi != null)
     {
-        tieneEscudoActivo = true;
-        esInvencible = true;
-
-        // Hacemos visible a Lady Di al lado de Máxima
-        if (visualEscudo != null)
-        {
-            visualEscudo.SetActive(true);
-        }
-
-        // Iniciamos el temporizador para que se apague solo tras unos segundos
-        StartCoroutine(TemporizadorEscudo());
+        AudioSource.PlayClipAtPoint(
+            clipLadyDi,
+            transform.position
+        );
     }
+
+    // Hacemos visible a Lady Di al lado de Máxima
+    if (visualEscudo != null)
+    {
+        visualEscudo.SetActive(true);
+    }
+
+    StartCoroutine(TemporizadorEscudo());
+}
 
     void RomperEscudo()
     {
