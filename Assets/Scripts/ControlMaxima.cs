@@ -7,7 +7,7 @@ public class ControlMaxima : MonoBehaviour
     public float velocidad = 5f;
     public float velocidadBici = 9f;
     public float fuerzaSalto = 10f;
-    public float fuerzaTrampolin = 20f;
+    public float fuerzaTrampolin = 15f;
 
     [Header("Referencias")]
     public Transform sensorSuelo;
