@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class MovimientoToro : MonoBehaviour
 {
-    public float velocidadToro = 8f;
+    public float velocidadToro = 12f;
 
     void Update()
     {

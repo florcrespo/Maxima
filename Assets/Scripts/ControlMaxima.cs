@@ -92,7 +92,7 @@ public class ControlMaxima : MonoBehaviour
         }
 
         animator.SetBool("isJumping", !estaEnSuelo && !estaEnBicicleta);
-    } // <--- ¡ESTA LLAVE DE CIERRE FALTABA O ESTABA MAL UBICADA Y ARROJABA EL ERROR CS1513!
+    } 
 
     void FixedUpdate()
     {

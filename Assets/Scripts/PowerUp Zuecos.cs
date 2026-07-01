@@ -13,6 +13,7 @@ public class PowerUpZuecos : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
     private Collider2D colliderZuecos;
+    private bool yaActivado = false;
 
     private void Start()
     {
@@ -22,7 +23,7 @@ public class PowerUpZuecos : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject == maximaNormal)
+        if (!yaActivado && other.CompareTag("Player"))
         {
             StartCoroutine(ActivarZuecos());
         }
@@ -30,6 +31,8 @@ public class PowerUpZuecos : MonoBehaviour
 
     private IEnumerator ActivarZuecos()
     {
+        yaActivado = true;
+
         if (spriteRenderer != null) spriteRenderer.enabled = false;
         if (colliderZuecos != null) colliderZuecos.enabled = false;
 
