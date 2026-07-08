@@ -16,6 +16,7 @@ TagManager:
   - MedallaEscudo
   - Dulce
   - DulceLanzado
+  - AsadoLanzado
   layers:
   - Default
   - TransparentFX
