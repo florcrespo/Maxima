@@ -20,6 +20,9 @@ public class GestorVidas : MonoBehaviour
     public GameObject reinaPerseguidora;
     public GameObject generadorToros;
 
+    public GameObject maximaNormal;
+    public GameObject maximaConZuecos;
+
     public bool nivelCompletado = false;
 
     void Start()
@@ -57,14 +60,23 @@ public class GestorVidas : MonoBehaviour
 
         DetenerToros();
 
+        if (maxima == maximaConZuecos && maximaNormal != null)
+        {
+            Vector3 posicionFinal = maximaConZuecos.transform.position;
+
+            maximaConZuecos.SetActive(false);
+            maximaNormal.transform.position = posicionFinal;
+            maximaNormal.SetActive(true);
+
+            maxima = maximaNormal;
+        }
+
         if (mensajeNivelCompletado != null)
             mensajeNivelCompletado.SetActive(true);
 
         AudioClip clipVictoria = Resources.Load<AudioClip>("victoria");
         if (clipVictoria != null)
-        {
             AudioSource.PlayClipAtPoint(clipVictoria, maxima.transform.position);
-        }
 
         if (reinaPerseguidora != null)
             reinaPerseguidora.SetActive(false);
@@ -97,9 +109,7 @@ public class GestorVidas : MonoBehaviour
 
         GameObject emisorMusica = GameObject.Find("MusicaFondo");
         if (emisorMusica != null)
-        {
             emisorMusica.GetComponent<AudioSource>().Stop();
-        }
 
         Time.timeScale = 0;
     }
@@ -112,14 +122,8 @@ public class GestorVidas : MonoBehaviour
         if (vidas > 0)
         {
             AudioClip clipPerderVida = Resources.Load<AudioClip>("perder vida");
-
             if (clipPerderVida != null)
-            {
-                AudioSource.PlayClipAtPoint(
-                    clipPerderVida,
-                    maxima.transform.position
-                );
-            }
+                AudioSource.PlayClipAtPoint(clipPerderVida, maxima.transform.position);
 
             maxima.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
             StartCoroutine(EfectoParpadeo(maxima.GetComponent<SpriteRenderer>()));
@@ -127,14 +131,8 @@ public class GestorVidas : MonoBehaviour
         else
         {
             AudioClip clipDerrota = Resources.Load<AudioClip>("derrota");
-
             if (clipDerrota != null)
-            {
-                AudioSource.PlayClipAtPoint(
-                    clipDerrota,
-                    maxima.transform.position
-                );
-            }
+                AudioSource.PlayClipAtPoint(clipDerrota, maxima.transform.position);
 
             StartCoroutine(GameOver(maxima));
         }
@@ -147,18 +145,41 @@ public class GestorVidas : MonoBehaviour
         if (cartelGameOver != null)
             cartelGameOver.SetActive(true);
 
+        if (maxima == maximaConZuecos && maximaNormal != null)
+        {
+            Vector3 posicionMuerte = maximaConZuecos.transform.position;
+
+            maximaConZuecos.SetActive(false);
+            maximaNormal.transform.position = posicionMuerte;
+            maximaNormal.SetActive(true);
+
+            maxima = maximaNormal;
+        }
+
         ControlMaxima control = maxima.GetComponent<ControlMaxima>();
         Animator anim = maxima.GetComponent<Animator>();
         Rigidbody2D rb = maxima.GetComponent<Rigidbody2D>();
 
         if (control != null)
+        {
+            control.estaEnBicicleta = false;
             control.enabled = false;
+        }
 
         if (rb != null)
+        {
             rb.linearVelocity = Vector2.zero;
+            rb.angularVelocity = 0f;
+        }
 
         if (anim != null)
+        {
+            anim.speed = 1f;
+            anim.SetBool("enBicicleta", false);
+            anim.SetBool("isJumping", false);
+            anim.SetFloat("velocidad", 0f);
             anim.SetTrigger("Morir");
+        }
 
         if (reinaPerseguidora != null)
         {
@@ -174,9 +195,7 @@ public class GestorVidas : MonoBehaviour
 
         GameObject emisorMusica = GameObject.Find("MusicaFondo");
         if (emisorMusica != null)
-        {
             emisorMusica.GetComponent<AudioSource>().Stop();
-        }
 
         yield return new WaitForSeconds(3f);
 

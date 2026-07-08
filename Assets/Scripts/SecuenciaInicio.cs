@@ -6,6 +6,12 @@ public class SecuenciaInicio : MonoBehaviour
     public GameObject[] imagenesIntro;
     public GameObject pantallaControles;
 
+    public GameObject corazon1;
+    public GameObject corazon2;
+    public GameObject corazon3;
+    public GameObject indicadorMetros;
+    public GameObject inventario;
+
     public float tiempoEntreImagenes = 5f;
     public float tiempoControles = 5f;
 
@@ -21,6 +27,12 @@ public class SecuenciaInicio : MonoBehaviour
             img.SetActive(false);
 
         pantallaControles.SetActive(false);
+
+        corazon1.SetActive(false);
+        corazon2.SetActive(false);
+        corazon3.SetActive(false);
+        indicadorMetros.SetActive(false);
+        inventario.SetActive(false);
     }
 
     public void IniciarIntro()
@@ -47,13 +59,11 @@ public class SecuenciaInicio : MonoBehaviour
 
     void Update()
     {
-        // ENTER saltea la intro desde cualquier imagen
         if (introIniciada && !mostrandoControles && Input.GetKeyDown(KeyCode.Return))
         {
             SaltarIntro();
         }
 
-        // ESPACIO en la última imagen pasa a controles
         if (esperandoEspacio && Input.GetKeyDown(KeyCode.Space))
         {
             StopAllCoroutines();
@@ -95,6 +105,12 @@ public class SecuenciaInicio : MonoBehaviour
         yield return new WaitForSecondsRealtime(tiempoControles);
 
         pantallaControles.SetActive(false);
+
+        corazon1.SetActive(true);
+        corazon2.SetActive(true);
+        corazon3.SetActive(true);
+        indicadorMetros.SetActive(true);
+        inventario.SetActive(true);
 
         Time.timeScale = 1f;
 
