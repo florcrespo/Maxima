@@ -21,11 +21,12 @@ public class ControlMaxima : MonoBehaviour
     public bool aTomaMate = false;
     public bool aTomaTulipan = false;
     public bool tieneEscudoActivo = false;
+    public bool estaAgachada = false;
 
     [Header("Tiempo del Escudo")]
     public float duracionEscudo = 5f; // Duración del escudo en segundos (cambialo a gusto)
-
-    private float velocidadOriginal;
+    public float velocidadOriginal;
+    
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer spriteRenderer;
@@ -54,6 +55,9 @@ public class ControlMaxima : MonoBehaviour
 
         if (Keyboard.current.rightArrowKey.isPressed) inputX = 1f;
         else if (Keyboard.current.leftArrowKey.isPressed) inputX = -1f;
+
+        estaAgachada = Keyboard.current.downArrowKey.isPressed;
+        animator.SetBool("agachada", estaAgachada);
 
         if (inputX > 0) spriteRenderer.flipX = false;
         else if (inputX < 0) spriteRenderer.flipX = true;
