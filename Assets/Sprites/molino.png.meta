@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: dbf19002ae9c045edb4b3e8ad6dc524a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5439705928372511760
+    second: molino quieto_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: molino_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.4761506, y: 0.53246665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a8e5d852181464990e858cad28dc2f
+      internalID: 1525746034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_1
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.46465558, y: 0.53246665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da62eed14e14d63ba903ecd61edf84
+      internalID: -1434168599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_2
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.46735078, y: 0.5331245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73be2b1228904ad28da2ff9fdeed790
+      internalID: 1776626912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_3
+      rect:
+        serializedVersion: 2
+        x: 4760
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47690716, y: 0.5430559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ffd6d587de45e4a32c686de0c8040
+      internalID: 1014666555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_4
+      rect:
+        serializedVersion: 2
+        x: 6338
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48390305, y: 0.546288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a75e8685e9044cc9a5f9cf07bfb8540
+      internalID: 730092479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_5
+      rect:
+        serializedVersion: 2
+        x: 7921
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47603858, y: 0.5413411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483fa8399b64649219742a46f48fed63
+      internalID: 1319706391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_6
+      rect:
+        serializedVersion: 2
+        x: 9506
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.46827954, y: 0.5465093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9e2847a59f54e7c965993df0a83aeb
+      internalID: 74138237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_7
+      rect:
+        serializedVersion: 2
+        x: 11082
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48202866, y: 0.536173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1806f8895ec84800931c515c0168b0a
+      internalID: -1252510468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_8
+      rect:
+        serializedVersion: 2
+        x: 12666
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47250274, y: 0.5398161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c88fbd1d95046c384f7da94ed94b4a
+      internalID: -125273273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_9
+      rect:
+        serializedVersion: 2
+        x: 14245
+        y: 7656
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47569093, y: 0.5405953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba55df4277d34ea68545fbd36f0c410
+      internalID: 1721348921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5244
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.479614, y: 0.5374601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5492233e98d04a36810c1bd3af98260
+      internalID: 841213568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_11
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 5236
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47763538, y: 0.5443123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2175948baa044c3392087b2ee7b5500
+      internalID: 1898738348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_12
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 5236
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.486884, y: 0.5393885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4d446e99dc44debaecedcb541a489
+      internalID: -153620889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_13
+      rect:
+        serializedVersion: 2
+        x: 4764
+        y: 5236
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.4881302, y: 0.5421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a19398cc7d748f9856e8a8ddd293a2
+      internalID: -1968288000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_14
+      rect:
+        serializedVersion: 2
+        x: 6341
+        y: 5236
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48996893, y: 0.539045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b43b787114b4502919f0fa8d379366
+      internalID: -1210957256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_15
+      rect:
+        serializedVersion: 2
+        x: 7922
+        y: 5241
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48479396, y: 0.5383273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940b86678bf0d407786f53c2e13936d2
+      internalID: 1002538568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_16
+      rect:
+        serializedVersion: 2
+        x: 9501
+        y: 5236
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48670053, y: 0.54380304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e7852baa9e14e25b706a5262a8774e
+      internalID: -1683524875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_17
+      rect:
+        serializedVersion: 2
+        x: 11081
+        y: 5236
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.49010858, y: 0.5427838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab7c3dfef534167a6581de46bb0297
+      internalID: -1349824359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_18
+      rect:
+        serializedVersion: 2
+        x: 12659
+        y: 5236
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.49212313, y: 0.53832644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822af57f098dc432690bfb1bb563ba6f
+      internalID: -831164403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_19
+      rect:
+        serializedVersion: 2
+        x: 14243
+        y: 5236
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.49071077, y: 0.53667706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a426c35c230e14d388915e11101d52ec
+      internalID: 545145689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47775772, y: 0.5359758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543fc3112b1394f2a91e0bcb12253d82
+      internalID: 719253256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_21
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.4861991, y: 0.53571546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef505f6ccc2c4d3286b74705a576bb8
+      internalID: -413102147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_22
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.4883273, y: 0.5335656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f68ae68a210454fa41a2d2e8c8790a
+      internalID: -1835803803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_23
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48562047, y: 0.5330782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb540a60392444d9bb23ae0826fe278
+      internalID: 1829387798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_24
+      rect:
+        serializedVersion: 2
+        x: 6339
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.49520683, y: 0.5330782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ef643666b04102a2f912a2fff56dd
+      internalID: 53299591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_25
+      rect:
+        serializedVersion: 2
+        x: 7922
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.49041364, y: 0.52894336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcc89b2a9863424ca6d8767d69647c8
+      internalID: 746360134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_26
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48529512, y: 0.52951837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e359963a216d459381445fa20ba97b3
+      internalID: -1532856252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_27
+      rect:
+        serializedVersion: 2
+        x: 11080
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.4901819, y: 0.5337245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c53fb15e661a4829be6d2fca09b3102
+      internalID: -38336298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_28
+      rect:
+        serializedVersion: 2
+        x: 12666
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47550473, y: 0.52951837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21811ecd316a4cac90d4557fa41cebc
+      internalID: 1759188216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_29
+      rect:
+        serializedVersion: 2
+        x: 14247
+        y: 2816
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.4755176, y: 0.52951837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c369d9c1a6594964b840138f58bb0b0
+      internalID: 1893849691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47847492, y: 0.5324938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262279c9a2454d9da8a10111b7d92af
+      internalID: -52308452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_31
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47309402, y: 0.5371358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557c4d8f586f4aef913d75d15d44d7a
+      internalID: 188752172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_32
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48923752, y: 0.5324938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46241e67b95574f93995fcecc04edff5
+      internalID: 1458058268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_33
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47309402, y: 0.5324938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420837961808d4969a6884283b013136
+      internalID: -701861205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_34
+      rect:
+        serializedVersion: 2
+        x: 6343
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48385602, y: 0.5417778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4ddbf486a214bae87bc0f04c1c8be8
+      internalID: -1433113302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_35
+      rect:
+        serializedVersion: 2
+        x: 7924
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48309436, y: 0.53402555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed8ae9727a543fd9cb705d0d79a105
+      internalID: -410644561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_36
+      rect:
+        serializedVersion: 2
+        x: 9507
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47745883, y: 0.53888637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786a1301d5ba48d9b1942b5d49d476f
+      internalID: -1637045525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_37
+      rect:
+        serializedVersion: 2
+        x: 11085
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48309436, y: 0.53888637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee47901ee65b4063aa67225ee54c2f9
+      internalID: 461575382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_38
+      rect:
+        serializedVersion: 2
+        x: 12662
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.48309436, y: 0.53402555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf5e7d37e10e4ebdbaf6d8bd929d44d
+      internalID: 552695812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: molino_39
+      rect:
+        serializedVersion: 2
+        x: 14251
+        y: 396
+        width: 986
+        height: 1143
+      alignment: 9
+      pivot: {x: 0.47745982, y: 0.53402555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b957c24cb86df4026be4a8bd952080e4
+      internalID: 722791315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0fd5bd9de3d8a4253ba381aaeae959fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      molino_0: 1525746034
+      molino_1: -1434168599
+      molino_10: 841213568
+      molino_11: 1898738348
+      molino_12: -153620889
+      molino_13: -1968288000
+      molino_14: -1210957256
+      molino_15: 1002538568
+      molino_16: -1683524875
+      molino_17: -1349824359
+      molino_18: -831164403
+      molino_19: 545145689
+      molino_2: 1776626912
+      molino_20: 719253256
+      molino_21: -413102147
+      molino_22: -1835803803
+      molino_23: 1829387798
+      molino_24: 53299591
+      molino_25: 746360134
+      molino_26: -1532856252
+      molino_27: -38336298
+      molino_28: 1759188216
+      molino_29: 1893849691
+      molino_3: 1014666555
+      molino_30: -52308452
+      molino_31: 188752172
+      molino_32: 1458058268
+      molino_33: -701861205
+      molino_34: -1433113302
+      molino_35: -410644561
+      molino_36: -1637045525
+      molino_37: 461575382
+      molino_38: 552695812
+      molino_39: 722791315
+      molino_4: 730092479
+      molino_5: 1319706391
+      molino_6: 74138237
+      molino_7: -1252510468
+      molino_8: -125273273
+      molino_9: 1721348921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

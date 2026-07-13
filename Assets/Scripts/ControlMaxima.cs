@@ -113,14 +113,19 @@ public class ControlMaxima : MonoBehaviour
             collision.gameObject.SetActive(false);
         }
 
-        // 2. DETECCIÓN DE PELIGROS LETALES (Reina o Toro)
-        if (collision.CompareTag("Reina") || collision.CompareTag("Toro"))
+        // 2. DETECCIÓN DE PELIGROS LETALES (Reina, Toro o queso)
+        if (collision.CompareTag("Reina") || collision.CompareTag("Toro") || collision.CompareTag("Queso"))
         {
             // REPRODUCIMOS SONIDO DE CHOQUE / GOLPE
             AudioClip clipChoque = Resources.Load<AudioClip>("danio");
             if (clipChoque != null)
             {
                 AudioSource.PlayClipAtPoint(clipChoque, transform.position);
+            }
+
+            if (collision.CompareTag("Queso"))
+            {
+                collision.gameObject.SetActive(false);
             }
 
             if (tieneEscudoActivo)
@@ -165,6 +170,8 @@ public class ControlMaxima : MonoBehaviour
                 StartCoroutine(EfectoTulipan());
             }
         }
+
+        
 
         // 4. MECÁNICAS GENERALES
         if (collision.CompareTag("Bicicleta"))
