@@ -7,9 +7,6 @@ public class PersecucionReina : MonoBehaviour
     public float velocidad = 3.5f;
     public float distanciaMinima = 1f;
 
-    [Header("Animaciones")]
-    public GameObject reinaComiendo;
-
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private Animator animator;
@@ -58,7 +55,6 @@ public class PersecucionReina : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Solo come el asado lanzado por Máxima
         if (other.CompareTag("AsadoLanzado"))
         {
             Destroy(other.gameObject);
@@ -75,34 +71,20 @@ public class PersecucionReina : MonoBehaviour
     {
         comiendo = true;
 
+        rb.linearVelocity = Vector2.zero;
+
         AudioClip clipBocado = Resources.Load<AudioClip>("bocado");
         if (clipBocado != null)
         {
             AudioSource.PlayClipAtPoint(clipBocado, transform.position);
         }
 
-        if (reinaComiendo != null)
+        if (animator != null)
         {
-            reinaComiendo.transform.position = transform.position;
-            reinaComiendo.SetActive(true);
+            animator.SetTrigger("Comer");
         }
 
-        if (spriteRenderer != null)
-            spriteRenderer.enabled = false;
-
-        if (animator != null)
-            animator.enabled = false;
-
         yield return new WaitForSeconds(4f);
-
-        if (reinaComiendo != null)
-            reinaComiendo.SetActive(false);
-
-        if (spriteRenderer != null)
-            spriteRenderer.enabled = true;
-
-        if (animator != null)
-            animator.enabled = true;
 
         comiendo = false;
     }
@@ -110,7 +92,11 @@ public class PersecucionReina : MonoBehaviour
     private System.Collections.IEnumerator TrabarseConDulce(GameObject dulce)
     {
         comiendo = true;
+
+        rb.linearVelocity = Vector2.zero;
+
         yield return new WaitForSeconds(3f);
+
         comiendo = false;
 
         if (dulce != null)
