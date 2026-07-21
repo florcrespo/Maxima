@@ -4,6 +4,8 @@ using UnityEngine.UI;
 
 public class GestorVidas : MonoBehaviour
 {
+    public static GestorVidas instancia;
+
     public int vidas = 3;
 
     public Image corazon1;
@@ -24,6 +26,11 @@ public class GestorVidas : MonoBehaviour
     public GameObject maximaConZuecos;
 
     public bool nivelCompletado = false;
+
+    void Awake()
+    {
+        instancia = this;
+    }
 
     void Start()
     {
@@ -135,6 +142,19 @@ public class GestorVidas : MonoBehaviour
                 AudioSource.PlayClipAtPoint(clipDerrota, maxima.transform.position);
 
             StartCoroutine(GameOver(maxima));
+        }
+    }
+
+    public void RecuperarVida()
+    {
+        if (vidas < 3)
+        {
+            vidas++;
+            ActualizarCorazones();
+
+            AudioClip clipRecuperarVida = Resources.Load<AudioClip>("recuperar vida");
+            if (clipRecuperarVida != null)
+                AudioSource.PlayClipAtPoint(clipRecuperarVida, Camera.main.transform.position);
         }
     }
 
