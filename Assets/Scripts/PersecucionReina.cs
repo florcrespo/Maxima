@@ -20,6 +20,9 @@ public class PersecucionReina : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+
+        if (reinaComiendo != null)
+            reinaComiendo.SetActive(false);
     }
 
     void FixedUpdate()
@@ -74,15 +77,18 @@ public class PersecucionReina : MonoBehaviour
     {
         comiendo = true;
 
+        rb.linearVelocity = Vector2.zero;
+
         AudioClip clipBocado = Resources.Load<AudioClip>("bocado");
         if (clipBocado != null)
-        {
             AudioSource.PlayClipAtPoint(clipBocado, transform.position);
-        }
 
         if (reinaComiendo != null)
         {
-            // NO movemos el objeto. Lo dejamos donde está en la escena.
+            SpriteRenderer srComiendo = reinaComiendo.GetComponent<SpriteRenderer>();
+            if (srComiendo != null)
+                srComiendo.flipX = spriteRenderer.flipX;
+
             reinaComiendo.SetActive(true);
         }
 
@@ -92,7 +98,7 @@ public class PersecucionReina : MonoBehaviour
         if (animator != null)
             animator.enabled = false;
 
-        yield return new WaitForSeconds(4f);
+        yield return new WaitForSeconds(3f);
 
         if (reinaComiendo != null)
             reinaComiendo.SetActive(false);
@@ -109,6 +115,8 @@ public class PersecucionReina : MonoBehaviour
     private System.Collections.IEnumerator TrabarseConDulce(GameObject dulce)
     {
         comiendo = true;
+
+        rb.linearVelocity = Vector2.zero;
 
         yield return new WaitForSeconds(3f);
 
