@@ -11527,6 +11527,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1825114991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1825114992}
+  m_Layer: 6
+  m_Name: PuntoLanzamientoBomba
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1825114992
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1825114991}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.45, y: -1.92, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1991847735}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1914351409
 GameObject:
   m_ObjectHideFlags: 0
@@ -11863,6 +11894,7 @@ GameObject:
   - component: {fileID: 1991847732}
   - component: {fileID: 1991847731}
   - component: {fileID: 1991847730}
+  - component: {fileID: 1991847736}
   m_Layer: 6
   m_Name: inglaterra_0
   m_TagString: Reina
@@ -12054,8 +12086,26 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1178664359}
+  - {fileID: 1825114992}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1991847736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1991847729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dcc226ec2dfa9e4196a7ef12bb058a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LanzadorBombas
+  prefabBomba: {fileID: 782593533625088437, guid: 31573813f438ef74ead1f45656181df2, type: 3}
+  puntoLanzamiento: {fileID: 1825114992}
+  tiempoEntreBombas: 10
+  fuerzaHorizontal: 15
+  fuerzaVertical: 9
 --- !u!1 &2019173960
 GameObject:
   m_ObjectHideFlags: 0
