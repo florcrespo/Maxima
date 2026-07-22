@@ -6,6 +6,7 @@ public class MenuPrincipal : MonoBehaviour
     [Header("Paneles")]
     public GameObject panelComoJugar;
     public GameObject panelCreditos;
+    public GameObject panelOpciones;
 
     public void ComenzarPartida()
     {
@@ -41,6 +42,22 @@ public class MenuPrincipal : MonoBehaviour
         if (panelCreditos != null)
         {
             panelCreditos.SetActive(false);
+        }
+    }
+
+    public void Opciones()
+    {
+        if (panelOpciones != null)
+        {
+            panelOpciones.SetActive(true);
+        }
+    }
+
+    public void VolverDesdeOpciones()
+    {
+        if (panelOpciones != null)
+        {
+            panelOpciones.SetActive(false);
         }
     }
 
