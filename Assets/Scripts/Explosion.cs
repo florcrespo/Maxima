@@ -8,6 +8,9 @@ public class Explosion : MonoBehaviour
     [Header("Sonido")]
     public float volumen = 2f;
 
+    [Header("Radio de daño")]
+    public float radioDaño = 2.5f;
+
     private bool hizoDaño = false;
 
     void Start()
@@ -17,6 +20,19 @@ public class Explosion : MonoBehaviour
         if (clip != null)
         {
             AudioSource.PlayClipAtPoint(clip, transform.position, volumen);
+        }
+
+        // Comprueba inmediatamente si Máxima ya está dentro del radio
+        Collider2D jugador = Physics2D.OverlapCircle(
+            transform.position,
+            radioDaño,
+            LayerMask.GetMask("Player")
+        );
+
+        if (jugador != null)
+        {
+            hizoDaño = true;
+            GestorVidas.instancia.PerderVida(jugador.gameObject);
         }
 
         Destroy(gameObject, tiempoVida);

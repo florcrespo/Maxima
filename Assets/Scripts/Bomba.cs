@@ -12,14 +12,24 @@ public class Bomba : MonoBehaviour
         if (exploto)
             return;
 
+        // Si toca a Máxima, explota inmediatamente
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            exploto = true;
+
+            Instantiate(explosionPrefab, transform.position, Quaternion.identity);
+
+            Destroy(gameObject);
+            return;
+        }
+
+        // Si toca el piso, también explota
         if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
         {
             exploto = true;
 
-            // Crear la explosión
             Instantiate(explosionPrefab, transform.position, Quaternion.identity);
 
-            // Destruir la bomba
             Destroy(gameObject);
         }
     }
