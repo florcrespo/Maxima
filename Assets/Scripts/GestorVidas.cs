@@ -19,6 +19,8 @@ public class GestorVidas : MonoBehaviour
 
     public GameObject mensajeNivelCompletado;
     public GameObject cartelGameOver;
+    public GameObject botonSiguienteNivel; 
+    public GameObject fondoOscuro;
     public GameObject reinaPerseguidora;
     public GameObject generadorToros;
 
@@ -39,6 +41,12 @@ public class GestorVidas : MonoBehaviour
 
         if (cartelGameOver != null)
             cartelGameOver.SetActive(false);
+
+        if (botonSiguienteNivel != null) 
+            botonSiguienteNivel.SetActive(false);
+        
+        if (fondoOscuro != null)
+            fondoOscuro.SetActive(false);
 
         ActualizarCorazones();
     }
@@ -80,6 +88,10 @@ public class GestorVidas : MonoBehaviour
 
         if (mensajeNivelCompletado != null)
             mensajeNivelCompletado.SetActive(true);
+        if (botonSiguienteNivel != null)
+            botonSiguienteNivel.SetActive(true);
+        if (fondoOscuro != null)
+            fondoOscuro.SetActive(true);
 
         AudioClip clipVictoria = Resources.Load<AudioClip>("victoria");
         if (clipVictoria != null)

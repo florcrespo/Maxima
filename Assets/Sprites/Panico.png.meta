@@ -1,0 +1,2860 @@
+fileFormatVersion: 2
+guid: f8e495b5e413a674786f7c694a046413
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1757251563602986556
+    second: Panico_0
+  - first:
+      213: -6099436717880840753
+    second: Panico_1
+  - first:
+      213: -4529483682682839282
+    second: Panico_2
+  - first:
+      213: 1888371725450630166
+    second: Panico_3
+  - first:
+      213: -6063460955487972522
+    second: Panico_4
+  - first:
+      213: -8119789592670473731
+    second: Panico_5
+  - first:
+      213: -5040556512799656557
+    second: Panico_6
+  - first:
+      213: 6545589269132524237
+    second: Panico_7
+  - first:
+      213: 6971877697523092093
+    second: Panico_8
+  - first:
+      213: 3259583611588283151
+    second: Panico_9
+  - first:
+      213: 6408401614114174904
+    second: Panico_10
+  - first:
+      213: 42403260990116040
+    second: Panico_11
+  - first:
+      213: 5092052665940049620
+    second: Panico_12
+  - first:
+      213: 1477264628602879612
+    second: Panico_13
+  - first:
+      213: 4602457565111350804
+    second: Panico_14
+  - first:
+      213: 1055720933699561240
+    second: Panico_15
+  - first:
+      213: 7209651028491179492
+    second: Panico_16
+  - first:
+      213: -7119554930880411638
+    second: Panico_17
+  - first:
+      213: -8786864093560135814
+    second: Panico_18
+  - first:
+      213: -4559009956832977576
+    second: Panico_19
+  - first:
+      213: -1142258975701113707
+    second: Panico_20
+  - first:
+      213: -5258225057621450846
+    second: Panico_21
+  - first:
+      213: 170196388787899558
+    second: Panico_22
+  - first:
+      213: -7547951437735360258
+    second: Panico_23
+  - first:
+      213: 1205985596573401200
+    second: Panico_24
+  - first:
+      213: -5151169825871999110
+    second: Panico_25
+  - first:
+      213: -6645331586939994431
+    second: Panico_26
+  - first:
+      213: 1351429374525807093
+    second: Panico_27
+  - first:
+      213: -5363051873099350619
+    second: Panico_28
+  - first:
+      213: -6840476511687115300
+    second: Panico_29
+  - first:
+      213: 3315335695045646507
+    second: Panico_30
+  - first:
+      213: -2652178887498867115
+    second: Panico_31
+  - first:
+      213: -6684372088906543303
+    second: Panico_32
+  - first:
+      213: 7959216779088237255
+    second: Panico_33
+  - first:
+      213: -3443619805619918364
+    second: Panico_34
+  - first:
+      213: 2345745543949415312
+    second: Panico_35
+  - first:
+      213: 3078909083633852461
+    second: Panico_36
+  - first:
+      213: -5496202109586156922
+    second: Panico_37
+  - first:
+      213: -30142281989499336
+    second: Panico_38
+  - first:
+      213: 5105995800369775955
+    second: Panico_39
+  - first:
+      213: -1914154857466489274
+    second: Panico_40
+  - first:
+      213: -1881471906440027827
+    second: Panico_41
+  - first:
+      213: -3985866940012164602
+    second: Panico_42
+  - first:
+      213: 1586497888117349401
+    second: Panico_43
+  - first:
+      213: 4292414531394826462
+    second: Panico_44
+  - first:
+      213: 6509966109402895981
+    second: Panico_45
+  - first:
+      213: 7457140117474237787
+    second: Panico_46
+  - first:
+      213: -6986174712454625134
+    second: Panico_47
+  - first:
+      213: 7117944983897661958
+    second: Panico_48
+  - first:
+      213: 1478081517889277804
+    second: Panico_49
+  - first:
+      213: -6862000871748814051
+    second: Panico_50
+  - first:
+      213: 260921381299104859
+    second: Panico_51
+  - first:
+      213: -6842529020338776309
+    second: Panico_52
+  - first:
+      213: 3767307369450836211
+    second: Panico_53
+  - first:
+      213: -5078085423690043781
+    second: Panico_54
+  - first:
+      213: 1987030930766023
+    second: Panico_55
+  - first:
+      213: -6010109735191599528
+    second: Panico_56
+  - first:
+      213: 5443009262678699492
+    second: Panico_57
+  - first:
+      213: 7302652967751803660
+    second: Panico_58
+  - first:
+      213: 8930793313260346655
+    second: Panico_59
+  - first:
+      213: -952466875773121039
+    second: Panico_60
+  - first:
+      213: -1082388322172690784
+    second: Panico_61
+  - first:
+      213: -7369982629320009371
+    second: Panico_62
+  - first:
+      213: -8289521088167172910
+    second: Panico_63
+  - first:
+      213: 3081901688667429780
+    second: Panico_64
+  - first:
+      213: 8210770302401794075
+    second: Panico_65
+  - first:
+      213: 8471146153644685229
+    second: Panico_66
+  - first:
+      213: 7133425484112957710
+    second: Panico_67
+  - first:
+      213: 7237405961952767263
+    second: Panico_68
+  - first:
+      213: -5587752984370047381
+    second: Panico_69
+  - first:
+      213: 518537068075184108
+    second: Panico_70
+  - first:
+      213: -5660862132054818689
+    second: Panico_71
+  - first:
+      213: -656810926209510890
+    second: Panico_72
+  - first:
+      213: 6180404843417094064
+    second: Panico_73
+  - first:
+      213: -862631446003055016
+    second: Panico_74
+  - first:
+      213: 3257111127527897522
+    second: Panico_75
+  - first:
+      213: 5882800348146277665
+    second: Panico_76
+  - first:
+      213: 8341659288645343634
+    second: Panico_77
+  - first:
+      213: 3171643974551316629
+    second: Panico_78
+  - first:
+      213: 5727885545667084522
+    second: Panico_79
+  - first:
+      213: -8120406606373088943
+    second: Panico_80
+  - first:
+      213: -3050668420297460242
+    second: Panico_81
+  - first:
+      213: -1802243236464735091
+    second: Panico_82
+  - first:
+      213: 1469966532140831579
+    second: Panico_83
+  - first:
+      213: -1492094080463739851
+    second: Panico_84
+  - first:
+      213: 780084940725534831
+    second: Panico_85
+  - first:
+      213: 3494611655578608402
+    second: Panico_86
+  - first:
+      213: 2945344774088144437
+    second: Panico_87
+  - first:
+      213: 5658631519987677520
+    second: Panico_88
+  - first:
+      213: -1469891717300980316
+    second: Panico_89
+  - first:
+      213: 3887816699827907220
+    second: Panico_90
+  - first:
+      213: -7915772461718167806
+    second: Panico_91
+  - first:
+      213: -4176188723435764259
+    second: Panico_92
+  - first:
+      213: 2502872899225837302
+    second: Panico_93
+  - first:
+      213: -5779718873646561051
+    second: Panico_94
+  - first:
+      213: -8168883481973583430
+    second: Panico_95
+  - first:
+      213: 5277044818625096422
+    second: Panico_96
+  - first:
+      213: -5987619433794142300
+    second: Panico_97
+  - first:
+      213: -8531312295019383807
+    second: Panico_98
+  - first:
+      213: 3494287870557510619
+    second: Panico_99
+  - first:
+      213: -2907072695019594522
+    second: Panico_100
+  - first:
+      213: 3990206367082064473
+    second: Panico_101
+  - first:
+      213: -4625221823712217350
+    second: Panico_102
+  - first:
+      213: 4080929609456510085
+    second: Panico_103
+  - first:
+      213: -8350543962857367594
+    second: Panico_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Panico_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 566
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b172630dfc97e0800000000000000
+      internalID: -1757251563602986556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_1
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 968
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdecbc0f927a5ba0800000000000000
+      internalID: -6099436717880840753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 920
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fd2cdb69a0421c0800000000000000
+      internalID: -4529483682682839282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 172
+        width: 573
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614506b4418d43a10800000000000000
+      internalID: 1888371725450630166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1019
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65350b6f2624adba0800000000000000
+      internalID: -6063460955487972522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 951
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df176fdc266b05f80800000000000000
+      internalID: -8119789592670473731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_6
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 983
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957b40ce885c0ab0800000000000000
+      internalID: -5040556512799656557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 977
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcab040a2ca96da50800000000000000
+      internalID: 6545589269132524237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_8
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 958
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a055ac3d511c060800000000000000
+      internalID: 6971877697523092093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 970
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8764560e5c3d20800000000000000
+      internalID: 3259583611588283151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_10
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 155
+        width: 183
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7b05b90573fe850800000000000000
+      internalID: 6408401614114174904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_11
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 963
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c052ac8a85a69000800000000000000
+      internalID: 42403260990116040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 952
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deffeabbea9aa640800000000000000
+      internalID: 5092052665940049620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 904
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ebf135a5c408410800000000000000
+      internalID: 1477264628602879612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_14
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 938
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416754645c63fdf30800000000000000
+      internalID: 4602457565111350804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 943
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8172b13889ca6ae00800000000000000
+      internalID: 1055720933699561240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3
+        width: 126
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e51fbb7963dd0460800000000000000
+      internalID: 7209651028491179492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 24
+        width: 131
+        height: 905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080ef9e282423d90800000000000000
+      internalID: -7119554930880411638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_18
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 909
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f96b569a9ce0680800000000000000
+      internalID: -8786864093560135814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_19
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d508359942bb0c0800000000000000
+      internalID: -4559009956832977576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 627
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59465d77381e520f0800000000000000
+      internalID: -1142258975701113707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 629
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af5a6b5b280707b0800000000000000
+      internalID: -5258225057621450846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 632
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acc1cfb6b8ac5200800000000000000
+      internalID: 170196388787899558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 638
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef882eb782a404790800000000000000
+      internalID: -7547951437735360258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 555
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070ceffa2858cb010800000000000000
+      internalID: 1205985596573401200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 630
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f403fd55e5388b0800000000000000
+      internalID: -5151169825871999110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 622
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce32c1512a07c3a0800000000000000
+      internalID: -6645331586939994431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_27
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 587
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f993af1bdd31c210800000000000000
+      internalID: 1351429374525807093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 603
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad7bef6cbc9295b0800000000000000
+      internalID: -5363051873099350619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 611
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd7c72eadeb111a0800000000000000
+      internalID: -6840476511687115300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 604
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba85e5ecf30720e20800000000000000
+      internalID: 3315335695045646507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 599
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ed6d98a51913bd0800000000000000
+      internalID: -2652178887498867115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_32
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 583
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f803e10075c33a0800000000000000
+      internalID: -6684372088906543303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_33
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 587
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c212e7ad71d47e60800000000000000
+      internalID: 7959216779088237255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_34
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 591
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e96688280ec530d0800000000000000
+      internalID: -3443619805619918364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_35
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 591
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0937f88d423cd8020800000000000000
+      internalID: 2345745543949415312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_36
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 526
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2028b1bf7b7aba20800000000000000
+      internalID: 3078909083633852461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_37
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 567
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6825d5c2d4199b3b0800000000000000
+      internalID: -5496202109586156922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_38
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 555
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836db4511c9e49ff0800000000000000
+      internalID: -30142281989499336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_39
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 559
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3554da1b0242cd640800000000000000
+      internalID: 5105995800369775955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_40
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 551
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6461f9b7c4e8f65e0800000000000000
+      internalID: -1914154857466489274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 550
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41e3c1054ba3e5e0800000000000000
+      internalID: -1881471906440027827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 550
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a0a96d22b5fa8c0800000000000000
+      internalID: -3985866940012164602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 542
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c54227c6f540610800000000000000
+      internalID: 1586497888117349401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 542
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0738c2648b19b30800000000000000
+      internalID: 4292414531394826462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_45
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669aca6fab085a50800000000000000
+      internalID: 6509966109402895981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 526
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ddd5e5d651d7760800000000000000
+      internalID: 7457140117474237787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_47
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 539
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29843550d1f1c0f90800000000000000
+      internalID: -6986174712454625134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_48
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 533
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6026ef7104508c260800000000000000
+      internalID: 7117944983897661958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 502
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f4cde2f43338410800000000000000
+      internalID: 1478081517889277804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 510
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bbdf6409645c0a0800000000000000
+      internalID: -6862000871748814051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_51
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 518
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c23a62d9afe9300800000000000000
+      internalID: 260921381299104859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 499
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d769fb147a01a0800000000000000
+      internalID: -6842529020338776309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_53
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f014dba71a284430800000000000000
+      internalID: 3767307369450836211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_54
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 512
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eadd546340789b0800000000000000
+      internalID: -5078085423690043781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_55
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 526
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c839c0b13f070000800000000000000
+      internalID: 1987030930766023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 475
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a9cce90dc79ca0800000000000000
+      internalID: -6010109735191599528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 494
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edef1b0614798b40800000000000000
+      internalID: 5443009262678699492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_58
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 495
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c036cccde2c385560800000000000000
+      internalID: 7302652967751803660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_59
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 491
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d1157733d80fb70800000000000000
+      internalID: 8930793313260346655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 466
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd87314c6828c2f0800000000000000
+      internalID: -952466875773121039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 470
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae9dd34e859af0f0800000000000000
+      internalID: -1082388322172690784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 462
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569d492b8df88b990800000000000000
+      internalID: -7369982629320009371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 593
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4afa57d74b5fc80800000000000000
+      internalID: -8289521088167172910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 455
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bd2b9d14d15ca20800000000000000
+      internalID: 3081901688667429780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_65
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 454
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b105cf6661482f170800000000000000
+      internalID: 8210770302401794075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 453
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da778607b8e8f8570800000000000000
+      internalID: 8471146153644685229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_67
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 446
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01954ceea40ff260800000000000000
+      internalID: 7133425484112957710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_68
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 456
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d2d71806e607460800000000000000
+      internalID: 7237405961952767263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_69
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 440
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b669ef114405472b0800000000000000
+      internalID: -5587752984370047381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_70
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 416
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef6e7157b6323700800000000000000
+      internalID: 518537068075184108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_71
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 400
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70896822e39071b0800000000000000
+      internalID: -5660862132054818689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_72
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 283
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612dfaa41f982e6f0800000000000000
+      internalID: -656810926209510890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_73
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 153
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7cafbb57535c550800000000000000
+      internalID: 6180404843417094064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_74
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 115
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85608e035415704f0800000000000000
+      internalID: -862631446003055016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_75
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 102
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b5464055933d20800000000000000
+      internalID: 3257111127527897522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_76
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 88
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d9dcb8fb7e3a150800000000000000
+      internalID: 5882800348146277665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_77
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 78
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2991b015de683c370800000000000000
+      internalID: 8341659288645343634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_78
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598a3290461f30c20800000000000000
+      internalID: 3171643974551316629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_79
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 80
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0c49f5e898d7f40800000000000000
+      internalID: 5727885545667084522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_80
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 72
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151956b17358e4f80800000000000000
+      internalID: -8120406606373088943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_81
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 67
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5faa02c39d9a5d0800000000000000
+      internalID: -3050668420297460242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_82
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 33
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c4bab33552df6e0800000000000000
+      internalID: -1802243236464735091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_83
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 79
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5397f3d5ce566410800000000000000
+      internalID: 1469966532140831579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_84
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 55
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534ee7ad6540b4be0800000000000000
+      internalID: -1492094080463739851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_85
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 54
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60c39ade1b63da00800000000000000
+      internalID: 780084940725534831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_86
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 59
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213e3b619ca5f7030800000000000000
+      internalID: 3494611655578608402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_87
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 48
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536b3988777ffd820800000000000000
+      internalID: 2945344774088144437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_88
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b1bff26f778e40800000000000000
+      internalID: 5658631519987677520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_89
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 59
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a57cfb5545e99be0800000000000000
+      internalID: -1469891717300980316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_90
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae211a0bc44f530800000000000000
+      internalID: 3887816699827907220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 29
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f1878b2e6852290800000000000000
+      internalID: -7915772461718167806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 28
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd58e908b723b06c0800000000000000
+      internalID: -4176188723435764259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_93
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 23
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fede4c14adfbb220800000000000000
+      internalID: 2502872899225837302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_94
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e80da28e405acfa0800000000000000
+      internalID: -5779718873646561051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_95
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 27
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab19865f0cb42ae80800000000000000
+      internalID: -8168883481973583430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_96
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 19
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eae6f5bd44db3940800000000000000
+      internalID: 5277044818625096422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_97
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 34
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af797649d3b7eca0800000000000000
+      internalID: -5987619433794142300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_98
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 16
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10472732ba0ba9980800000000000000
+      internalID: -8531312295019383807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_99
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 23
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb59830e443e7030800000000000000
+      internalID: 3494287870557510619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_100
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec9e1549c008a7d0800000000000000
+      internalID: -2907072695019594522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_101
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 23
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aad62cc8f006730800000000000000
+      internalID: 3990206367082064473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_102
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6bf3eb149efcfb0800000000000000
+      internalID: -4625221823712217350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_103
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 10
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584670dabdf52a830800000000000000
+      internalID: 4080929609456510085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panico_104
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79a944288ec1c80800000000000000
+      internalID: -8350543962857367594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Panico_0: -1757251563602986556
+      Panico_1: -6099436717880840753
+      Panico_10: 6408401614114174904
+      Panico_100: -2907072695019594522
+      Panico_101: 3990206367082064473
+      Panico_102: -4625221823712217350
+      Panico_103: 4080929609456510085
+      Panico_104: -8350543962857367594
+      Panico_11: 42403260990116040
+      Panico_12: 5092052665940049620
+      Panico_13: 1477264628602879612
+      Panico_14: 4602457565111350804
+      Panico_15: 1055720933699561240
+      Panico_16: 7209651028491179492
+      Panico_17: -7119554930880411638
+      Panico_18: -8786864093560135814
+      Panico_19: -4559009956832977576
+      Panico_2: -4529483682682839282
+      Panico_20: -1142258975701113707
+      Panico_21: -5258225057621450846
+      Panico_22: 170196388787899558
+      Panico_23: -7547951437735360258
+      Panico_24: 1205985596573401200
+      Panico_25: -5151169825871999110
+      Panico_26: -6645331586939994431
+      Panico_27: 1351429374525807093
+      Panico_28: -5363051873099350619
+      Panico_29: -6840476511687115300
+      Panico_3: 1888371725450630166
+      Panico_30: 3315335695045646507
+      Panico_31: -2652178887498867115
+      Panico_32: -6684372088906543303
+      Panico_33: 7959216779088237255
+      Panico_34: -3443619805619918364
+      Panico_35: 2345745543949415312
+      Panico_36: 3078909083633852461
+      Panico_37: -5496202109586156922
+      Panico_38: -30142281989499336
+      Panico_39: 5105995800369775955
+      Panico_4: -6063460955487972522
+      Panico_40: -1914154857466489274
+      Panico_41: -1881471906440027827
+      Panico_42: -3985866940012164602
+      Panico_43: 1586497888117349401
+      Panico_44: 4292414531394826462
+      Panico_45: 6509966109402895981
+      Panico_46: 7457140117474237787
+      Panico_47: -6986174712454625134
+      Panico_48: 7117944983897661958
+      Panico_49: 1478081517889277804
+      Panico_5: -8119789592670473731
+      Panico_50: -6862000871748814051
+      Panico_51: 260921381299104859
+      Panico_52: -6842529020338776309
+      Panico_53: 3767307369450836211
+      Panico_54: -5078085423690043781
+      Panico_55: 1987030930766023
+      Panico_56: -6010109735191599528
+      Panico_57: 5443009262678699492
+      Panico_58: 7302652967751803660
+      Panico_59: 8930793313260346655
+      Panico_6: -5040556512799656557
+      Panico_60: -952466875773121039
+      Panico_61: -1082388322172690784
+      Panico_62: -7369982629320009371
+      Panico_63: -8289521088167172910
+      Panico_64: 3081901688667429780
+      Panico_65: 8210770302401794075
+      Panico_66: 8471146153644685229
+      Panico_67: 7133425484112957710
+      Panico_68: 7237405961952767263
+      Panico_69: -5587752984370047381
+      Panico_7: 6545589269132524237
+      Panico_70: 518537068075184108
+      Panico_71: -5660862132054818689
+      Panico_72: -656810926209510890
+      Panico_73: 6180404843417094064
+      Panico_74: -862631446003055016
+      Panico_75: 3257111127527897522
+      Panico_76: 5882800348146277665
+      Panico_77: 8341659288645343634
+      Panico_78: 3171643974551316629
+      Panico_79: 5727885545667084522
+      Panico_8: 6971877697523092093
+      Panico_80: -8120406606373088943
+      Panico_81: -3050668420297460242
+      Panico_82: -1802243236464735091
+      Panico_83: 1469966532140831579
+      Panico_84: -1492094080463739851
+      Panico_85: 780084940725534831
+      Panico_86: 3494611655578608402
+      Panico_87: 2945344774088144437
+      Panico_88: 5658631519987677520
+      Panico_89: -1469891717300980316
+      Panico_9: 3259583611588283151
+      Panico_90: 3887816699827907220
+      Panico_91: -7915772461718167806
+      Panico_92: -4176188723435764259
+      Panico_93: 2502872899225837302
+      Panico_94: -5779718873646561051
+      Panico_95: -8168883481973583430
+      Panico_96: 5277044818625096422
+      Panico_97: -5987619433794142300
+      Panico_98: -8531312295019383807
+      Panico_99: 3494287870557510619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
