@@ -11,11 +11,20 @@ public class IntroNivelSiguiente : MonoBehaviour
     public GameObject numero2;
     public GameObject numero1;
 
+    [Header("Audio")]
+    public AudioSource musicaFondo;      // Arrastrá acá el objeto que tiene la música de fondo
+
     [Header("Configuración")]
     public bool arrancarAlInicio = false; // TRUE para Nivel 2, FALSE para Nivel 1
 
     void Start()
     {
+        // Nos aseguramos de que la música empiece apagada durante la intro
+        if (musicaFondo != null && arrancarAlInicio)
+        {
+            musicaFondo.Stop();
+        }
+
         // Si está marcado para arrancar al inicio (como en el Nivel 2), corre la cuenta ya mismo
         if (arrancarAlInicio)
         {
@@ -30,6 +39,9 @@ public class IntroNivelSiguiente : MonoBehaviour
 
         if (introNivel != null) introNivel.SetActive(true);
         if (fondoOscuro != null) fondoOscuro.SetActive(true);
+
+        // Aseguramos que la música no suene durante la intro
+        if (musicaFondo != null) musicaFondo.Stop();
 
         StartCoroutine(CorrerCuentaRegresiva());
     }
@@ -60,5 +72,11 @@ public class IntroNivelSiguiente : MonoBehaviour
         if (fondoOscuro != null) fondoOscuro.SetActive(false);
 
         Time.timeScale = 1f;
+
+        // --- REPRODUCIR MÚSICA AL TERMINAR LA INTRO ---
+        if (musicaFondo != null && !musicaFondo.isPlaying)
+        {
+            musicaFondo.Play();
+        }
     }
 }

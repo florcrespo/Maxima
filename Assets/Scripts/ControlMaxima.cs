@@ -6,7 +6,8 @@ public class ControlMaxima : MonoBehaviour
     [Header("Movimiento")]
     public float velocidad = 5f;
     public float velocidadBici = 9f;
-    public float fuerzaSalto = 10f;
+    public float fuerzaSalto = 5f;
+    public float fuerzaSuperSalto = 10f;
     public float fuerzaTrampolin = 15f;
 
     [Header("Referencias")]
@@ -23,6 +24,9 @@ public class ControlMaxima : MonoBehaviour
     public bool tieneEscudoActivo = false;
     public bool estaAgachada = false;
 
+    [HideInInspector] 
+    public bool estaEnMolino = false;
+
     [Header("Tiempo del Escudo")]
     public float duracionEscudo = 5f; // Duración del escudo en segundos (cambialo a gusto)
     public float velocidadOriginal;
@@ -33,6 +37,10 @@ public class ControlMaxima : MonoBehaviour
     private AudioSource audioSource; // Referencia para el sonido de salto
     private float inputX;
     private bool estaEnSuelo;
+
+// Variables para el doble toque de salto
+    private float tiempoUltimaPulsacionSalto = 0f;
+    private float intervaloDobleTap = 0.25f; // Tiempo máximo entre toques para considerarlo doble (en segundos)
 
     void Start()
     {
@@ -73,16 +81,46 @@ public class ControlMaxima : MonoBehaviour
 
         estaEnSuelo = Physics2D.OverlapCircle(sensorSuelo.position, 0.1f, capaSuelo);
 
-        // SALTO Y SONIDO DE SALTO
-        if (Keyboard.current.upArrowKey.wasPressedThisFrame && estaEnSuelo && !estaEnBicicleta)
+        // SALTO Y DOBLE TOQUE PARA SUPER SALTO
+        if (Keyboard.current.upArrowKey.wasPressedThisFrame && !estaEnBicicleta)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
-            rb.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
+            float tiempoActual = Time.time;
+            bool esDobleTap = (tiempoActual - tiempoUltimaPulsacionSalto < intervaloDobleTap);
 
-            // Reproducimos el sonido si el componente y el audio clip están asignados
-            if (audioSource != null)
+            if (estaEnSuelo)
             {
-                audioSource.Play();
+                if (esDobleTap)
+                {
+                    // --- SUPER SALTO DESDE EL SUELO ---
+                    rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
+                    rb.AddForce(Vector2.up * fuerzaSuperSalto, ForceMode2D.Impulse);
+                    tiempoUltimaPulsacionSalto = 0f;
+                }
+                else
+                {
+                    // --- SALTO NORMAL ---
+                    rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
+                    rb.AddForce(Vector2.up * fuerzaSalto, ForceMode2D.Impulse);
+                    tiempoUltimaPulsacionSalto = tiempoActual;
+                }
+
+                // Reproducimos el sonido de salto
+                if (audioSource != null)
+                {
+                    audioSource.Play();
+                }
+            }
+            else if (esDobleTap)
+            {
+                // --- SUPER SALTO SI APRETASTE EL SEGUNDO TOQUE APENAS SALTANDO ---
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0);
+                rb.AddForce(Vector2.up * fuerzaSuperSalto, ForceMode2D.Impulse);
+                tiempoUltimaPulsacionSalto = 0f;
+
+                if (audioSource != null)
+                {
+                    audioSource.Play();
+                }
             }
         }
 
@@ -101,7 +139,19 @@ public class ControlMaxima : MonoBehaviour
     void FixedUpdate()
     {
         float velX = estaEnBicicleta ? velocidadBici : velocidad;
-        rb.linearVelocity = new Vector2(inputX * velX, rb.linearVelocity.y);
+        
+        // Si está en el molino y NO está agachada, avanzará súper lento
+        if (estaEnMolino && !estaAgachada)
+        {
+            // Reducimos drásticamente la velocidad de avance (ej: un cuarto de la original)
+            float velocidadLenta = (estaEnBicicleta ? velocidadBici : velocidadOriginal) * 0.25f;
+            rb.linearVelocity = new Vector2(inputX * velocidadLenta, rb.linearVelocity.y);
+        }
+        else
+        {
+            // Movimiento normal
+            rb.linearVelocity = new Vector2(inputX * velX, rb.linearVelocity.y);
+        }
     }
 
     void OnTriggerEnter2D(Collider2D collision)
