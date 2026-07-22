@@ -3,113 +3,139 @@ using System.Collections;
 
 public class SecuenciaInicio : MonoBehaviour
 {
+    [Header("Imágenes de la introducción")]
     public GameObject[] imagenesIntro;
-    public GameObject pantallaControles;
+
+    [Header("Interfaz del jugador")]
     public GameObject corazon1;
     public GameObject corazon2;
     public GameObject corazon3;
     public GameObject indicadorMetros;
     public GameObject inventario;
 
-    [Header("Referencia al Countdown del Nivel 1")]
-    public IntroNivelSiguiente scriptCountdown; // <-- ¡ACÁ DECLARAMOS LA VARIABLE!
+    [Header("Countdown del Nivel 1")]
+    public IntroNivelSiguiente scriptCountdown;
 
+    [Header("Configuración")]
     public float tiempoEntreImagenes = 5f;
-    public float tiempoControles = 5f;
 
     private bool esperandoEspacio = false;
     private bool introIniciada = false;
-    private bool mostrandoControles = false;
+    private bool gameplayActivado = false;
 
     void Start()
     {
-        foreach (GameObject img in imagenesIntro)
-            img.SetActive(false);
-
-        pantallaControles.SetActive(false);
-
-        if (PlayerPrefs.GetInt("IntroVista", 0) == 1)
+        // Ocultamos todas las imágenes de la introducción.
+        if (imagenesIntro != null)
         {
-            // Ya se vio la intro: no seguimos con el resto de la lógica
-            return;
+            foreach (GameObject img in imagenesIntro)
+            {
+                if (img != null)
+                    img.SetActive(false);
+            }
         }
 
+        // PantallaInicio maneja la pantalla InicioJuego_0.
+        // El nivel permanece pausado durante la pantalla y la intro.
         Time.timeScale = 0f;
 
-        corazon1.SetActive(false);
-        corazon2.SetActive(false);
-        corazon3.SetActive(false);
-        indicadorMetros.SetActive(false);
-        inventario.SetActive(false);
-    }
+        // Ocultamos la interfaz del jugador.
+        if (corazon1 != null)
+            corazon1.SetActive(false);
 
-    public void IniciarIntro()
-    {
-        if (!introIniciada && !mostrandoControles)
-        {
-            introIniciada = true;
-            StartCoroutine(MostrarIntro());
-        }
-    }
+        if (corazon2 != null)
+            corazon2.SetActive(false);
 
-    public void SaltarIntro()
-    {
-        if (!mostrandoControles)
-        {
-            StopAllCoroutines();
-            foreach (GameObject img in imagenesIntro)
-                img.SetActive(false);
-            StartCoroutine(MostrarControlesYEmpezar());
-        }
+        if (corazon3 != null)
+            corazon3.SetActive(false);
+
+        if (indicadorMetros != null)
+            indicadorMetros.SetActive(false);
+
+        if (inventario != null)
+            inventario.SetActive(false);
     }
 
     void Update()
     {
-        if (introIniciada && !mostrandoControles && Input.GetKeyDown(KeyCode.Return))
+        // ENTER salta las imágenes de la introducción.
+        if (introIniciada && Input.GetKeyDown(KeyCode.Return))
         {
             SaltarIntro();
         }
 
+        // En la última imagen, ESPACIO comienza el countdown.
         if (esperandoEspacio && Input.GetKeyDown(KeyCode.Space))
         {
-            StopAllCoroutines();
-            StartCoroutine(MostrarControlesYEmpezar());
+            ActivarGameplay();
         }
+    }
+
+    public void IniciarIntro()
+    {
+        if (introIniciada || gameplayActivado)
+            return;
+
+        introIniciada = true;
+        esperandoEspacio = false;
+
+        StartCoroutine(MostrarIntro());
+    }
+
+    public void SaltarIntro()
+    {
+        if (gameplayActivado)
+            return;
+
+        StopAllCoroutines();
+
+        introIniciada = false;
+        esperandoEspacio = false;
+
+        OcultarImagenesIntro();
+        ActivarGameplay();
     }
 
     IEnumerator MostrarIntro()
     {
-        for (int i = 0; i < imagenesIntro.Length - 1; i++)
+        if (imagenesIntro == null || imagenesIntro.Length == 0)
         {
-            imagenesIntro[i].SetActive(true);
-            if (i > 0)
-                imagenesIntro[i - 1].SetActive(false);
-            yield return new WaitForSecondsRealtime(tiempoEntreImagenes);
+            Debug.LogWarning(
+                "No hay imágenes asignadas en SecuenciaInicio."
+            );
+
+            ActivarGameplay();
+            yield break;
         }
 
-        imagenesIntro[imagenesIntro.Length - 1].SetActive(true);
-        if (imagenesIntro.Length > 1)
-            imagenesIntro[imagenesIntro.Length - 2].SetActive(false);
+        // Muestra Intro1, Intro2, etc.
+        for (int i = 0; i < imagenesIntro.Length - 1; i++)
+        {
+            if (imagenesIntro[i] != null)
+                imagenesIntro[i].SetActive(true);
 
+            if (i > 0 && imagenesIntro[i - 1] != null)
+                imagenesIntro[i - 1].SetActive(false);
+
+            yield return new WaitForSecondsRealtime(
+                tiempoEntreImagenes
+            );
+        }
+
+        // Mostrar la última imagen.
+        int ultimaImagen = imagenesIntro.Length - 1;
+
+        if (imagenesIntro[ultimaImagen] != null)
+            imagenesIntro[ultimaImagen].SetActive(true);
+
+        if (imagenesIntro.Length > 1 &&
+            imagenesIntro[ultimaImagen - 1] != null)
+        {
+            imagenesIntro[ultimaImagen - 1].SetActive(false);
+        }
+
+        // Espera ESPACIO en la última imagen.
         esperandoEspacio = true;
-    }
-
-    IEnumerator MostrarControlesYEmpezar()
-    {
-        mostrandoControles = true;
-        esperandoEspacio = false;
-        introIniciada = false;
-
-        foreach (GameObject img in imagenesIntro)
-            img.SetActive(false);
-
-        pantallaControles.SetActive(true);
-        yield return new WaitForSecondsRealtime(tiempoControles);
-        pantallaControles.SetActive(false);
-
-        ActivarGameplay();
-        PlayerPrefs.SetInt("IntroVista", 1);
-        mostrandoControles = false;
     }
 
     public void EmpezarDirecto()
@@ -117,33 +143,78 @@ public class SecuenciaInicio : MonoBehaviour
         ActivarGameplay();
     }
 
+    void OcultarImagenesIntro()
+    {
+        if (imagenesIntro == null)
+            return;
+
+        foreach (GameObject img in imagenesIntro)
+        {
+            if (img != null)
+                img.SetActive(false);
+        }
+    }
+
     void ActivarGameplay()
     {
-        // Activamos la UI del jugador
-        corazon1.SetActive(true);
-        corazon2.SetActive(true);
-        corazon3.SetActive(true);
-        indicadorMetros.SetActive(true);
-        inventario.SetActive(true);
+        if (gameplayActivado)
+            return;
 
-        // Disparamos la cuenta regresiva antes de arrancar el tiempo
+        gameplayActivado = true;
+        introIniciada = false;
+        esperandoEspacio = false;
+
+        StopAllCoroutines();
+        OcultarImagenesIntro();
+
+        // Mostrar la interfaz del jugador.
+        if (corazon1 != null)
+            corazon1.SetActive(true);
+
+        if (corazon2 != null)
+            corazon2.SetActive(true);
+
+        if (corazon3 != null)
+            corazon3.SetActive(true);
+
+        if (indicadorMetros != null)
+            indicadorMetros.SetActive(true);
+
+        if (inventario != null)
+            inventario.SetActive(true);
+
+        /*
+         * IMPORTANTE:
+         * Descongelamos antes de iniciar el countdown.
+         * Así sus corrutinas pueden avanzar normalmente.
+         */
+        Time.timeScale = 1f;
+
         if (scriptCountdown != null)
         {
             scriptCountdown.IniciarCountdown();
         }
         else
         {
-            Time.timeScale = 1f; // Respaldo si no asignaste el script en Inspector
+            Debug.LogWarning(
+                "No está asignado Script Countdown en SecuenciaInicio."
+            );
         }
 
-        // Cargar música de fondo
-        AudioClip musicaNivel = Resources.Load<AudioClip>("musica_fondo");
+        // Música del nivel.
+        AudioClip musicaNivel =
+            Resources.Load<AudioClip>("musica_fondo");
+
         if (musicaNivel != null)
         {
-            GameObject emisorMusica = GameObject.Find("MusicaFondo");
+            GameObject emisorMusica =
+                GameObject.Find("MusicaFondo");
+
             if (emisorMusica != null)
             {
-                AudioSource fuenteMusica = emisorMusica.GetComponent<AudioSource>();
+                AudioSource fuenteMusica =
+                    emisorMusica.GetComponent<AudioSource>();
+
                 if (fuenteMusica != null)
                 {
                     fuenteMusica.clip = musicaNivel;

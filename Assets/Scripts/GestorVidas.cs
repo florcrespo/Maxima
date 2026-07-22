@@ -19,7 +19,7 @@ public class GestorVidas : MonoBehaviour
 
     public GameObject mensajeNivelCompletado;
     public GameObject cartelGameOver;
-    public GameObject botonSiguienteNivel; 
+    public GameObject botonSiguienteNivel;
     public GameObject fondoOscuro;
     public GameObject reinaPerseguidora;
     public GameObject generadorToros;
@@ -36,15 +36,18 @@ public class GestorVidas : MonoBehaviour
 
     void Start()
     {
+        Time.timeScale = 1f;
+        AudioListener.pause = false;
+
         if (mensajeNivelCompletado != null)
             mensajeNivelCompletado.SetActive(false);
 
         if (cartelGameOver != null)
             cartelGameOver.SetActive(false);
 
-        if (botonSiguienteNivel != null) 
+        if (botonSiguienteNivel != null)
             botonSiguienteNivel.SetActive(false);
-        
+
         if (fondoOscuro != null)
             fondoOscuro.SetActive(false);
 
@@ -88,12 +91,15 @@ public class GestorVidas : MonoBehaviour
 
         if (mensajeNivelCompletado != null)
             mensajeNivelCompletado.SetActive(true);
+
         if (botonSiguienteNivel != null)
             botonSiguienteNivel.SetActive(true);
+
         if (fondoOscuro != null)
             fondoOscuro.SetActive(true);
 
         AudioClip clipVictoria = Resources.Load<AudioClip>("victoria");
+
         if (clipVictoria != null)
             AudioSource.PlayClipAtPoint(clipVictoria, maxima.transform.position);
 
@@ -127,10 +133,11 @@ public class GestorVidas : MonoBehaviour
         }
 
         GameObject emisorMusica = GameObject.Find("MusicaFondo");
+
         if (emisorMusica != null)
             emisorMusica.GetComponent<AudioSource>().Stop();
 
-        Time.timeScale = 0;
+        Time.timeScale = 0f;
     }
 
     public void PerderVida(GameObject maxima)
@@ -141,15 +148,24 @@ public class GestorVidas : MonoBehaviour
         if (vidas > 0)
         {
             AudioClip clipPerderVida = Resources.Load<AudioClip>("perder vida");
+
             if (clipPerderVida != null)
                 AudioSource.PlayClipAtPoint(clipPerderVida, maxima.transform.position);
 
-            maxima.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
-            StartCoroutine(EfectoParpadeo(maxima.GetComponent<SpriteRenderer>()));
+            Rigidbody2D rb = maxima.GetComponent<Rigidbody2D>();
+
+            if (rb != null)
+                rb.linearVelocity = Vector2.zero;
+
+            SpriteRenderer sr = maxima.GetComponent<SpriteRenderer>();
+
+            if (sr != null)
+                StartCoroutine(EfectoParpadeo(sr));
         }
         else
         {
             AudioClip clipDerrota = Resources.Load<AudioClip>("derrota");
+
             if (clipDerrota != null)
                 AudioSource.PlayClipAtPoint(clipDerrota, maxima.transform.position);
 
@@ -165,14 +181,21 @@ public class GestorVidas : MonoBehaviour
             ActualizarCorazones();
 
             AudioClip clipRecuperarVida = Resources.Load<AudioClip>("recuperar vida");
-            if (clipRecuperarVida != null)
-                AudioSource.PlayClipAtPoint(clipRecuperarVida, Camera.main.transform.position);
+
+            if (clipRecuperarVida != null && Camera.main != null)
+                AudioSource.PlayClipAtPoint(
+                    clipRecuperarVida,
+                    Camera.main.transform.position
+                );
         }
     }
 
     System.Collections.IEnumerator GameOver(GameObject maxima)
     {
         DetenerToros();
+
+        if (fondoOscuro != null)
+            fondoOscuro.SetActive(true);
 
         if (cartelGameOver != null)
             cartelGameOver.SetActive(true);
@@ -215,8 +238,11 @@ public class GestorVidas : MonoBehaviour
 
         if (reinaPerseguidora != null)
         {
-            Rigidbody2D rbReina = reinaPerseguidora.GetComponent<Rigidbody2D>();
-            Animator animReina = reinaPerseguidora.GetComponent<Animator>();
+            Rigidbody2D rbReina =
+                reinaPerseguidora.GetComponent<Rigidbody2D>();
+
+            Animator animReina =
+                reinaPerseguidora.GetComponent<Animator>();
 
             if (rbReina != null)
                 rbReina.linearVelocity = Vector2.zero;
@@ -226,28 +252,55 @@ public class GestorVidas : MonoBehaviour
         }
 
         GameObject emisorMusica = GameObject.Find("MusicaFondo");
+
         if (emisorMusica != null)
             emisorMusica.GetComponent<AudioSource>().Stop();
 
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(1f);
 
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        Time.timeScale = 0f;
+    }
+
+    public void ReintentarNivel()
+    {
+        Time.timeScale = 1f;
+        AudioListener.pause = false;
+
+        SceneManager.LoadScene(
+            SceneManager.GetActiveScene().buildIndex
+        );
+    }
+
+    public void IrAlMenuPrincipal()
+    {
+        Time.timeScale = 1f;
+        AudioListener.pause = false;
+
+        SceneManager.LoadScene("MenuPrincipal");
     }
 
     public void PerderBici(GameObject maxima)
     {
-        maxima.GetComponent<ControlMaxima>().estaEnBicicleta = false;
+        ControlMaxima control = maxima.GetComponent<ControlMaxima>();
+
+        if (control != null)
+            control.estaEnBicicleta = false;
     }
 
     System.Collections.IEnumerator EfectoParpadeo(SpriteRenderer sr)
     {
         ControlMaxima control = sr.GetComponent<ControlMaxima>();
+
+        if (control == null)
+            yield break;
+
         control.esInvencible = true;
 
         for (int i = 0; i < 5; i++)
         {
             sr.enabled = false;
             yield return new WaitForSeconds(0.2f);
+
             sr.enabled = true;
             yield return new WaitForSeconds(0.2f);
         }
