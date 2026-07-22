@@ -5,6 +5,7 @@ public class MenuPrincipal : MonoBehaviour
 {
     [Header("Paneles")]
     public GameObject panelComoJugar;
+    public GameObject panelCreditos;
 
     public void ComenzarPartida()
     {
@@ -29,7 +30,18 @@ public class MenuPrincipal : MonoBehaviour
 
     public void Creditos()
     {
-        Debug.Log("Abrir panel Créditos");
+        if (panelCreditos != null)
+        {
+            panelCreditos.SetActive(true);
+        }
+    }
+
+    public void VolverDesdeCreditos()
+    {
+        if (panelCreditos != null)
+        {
+            panelCreditos.SetActive(false);
+        }
     }
 
     public void SalirJuego()
