@@ -342,7 +342,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7305236644661036664, guid: d6d8b09d4a87ae04a9c5908ef8aae774, type: 3}
+  m_Sprite: {fileID: 6738528063811520010, guid: 09aeaf76c2bba0348889153099ded195, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3101,7 +3101,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7305236644661036664, guid: d6d8b09d4a87ae04a9c5908ef8aae774, type: 3}
+  m_Sprite: {fileID: 6738528063811520010, guid: 09aeaf76c2bba0348889153099ded195, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -6831,7 +6831,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7305236644661036664, guid: d6d8b09d4a87ae04a9c5908ef8aae774, type: 3}
+  m_Sprite: {fileID: 6738528063811520010, guid: 09aeaf76c2bba0348889153099ded195, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -9366,6 +9366,9 @@ MonoBehaviour:
   maximaNormal: {fileID: 1347422382}
   maximaConZuecos: {fileID: 1121854193}
   nivelCompletado: 0
+  panelTutorial: {fileID: 0}
+  imagenPlaca: {fileID: 0}
+  botonContinuar: {fileID: 0}
 --- !u!4 &1146452531
 Transform:
   m_ObjectHideFlags: 0
@@ -11119,7 +11122,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7305236644661036664, guid: d6d8b09d4a87ae04a9c5908ef8aae774, type: 3}
+  m_Sprite: {fileID: 6738528063811520010, guid: 09aeaf76c2bba0348889153099ded195, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

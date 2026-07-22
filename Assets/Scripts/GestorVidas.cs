@@ -29,6 +29,13 @@ public class GestorVidas : MonoBehaviour
 
     public bool nivelCompletado = false;
 
+    [Header("UI de Tutoriales")]
+    public GameObject panelTutorial;
+    public Image imagenPlaca;
+    public Button botonContinuar;
+
+    private bool tutorialActivo = false;
+
     void Awake()
     {
         instancia = this;
@@ -51,9 +58,49 @@ public class GestorVidas : MonoBehaviour
         if (fondoOscuro != null)
             fondoOscuro.SetActive(false);
 
+        if (panelTutorial != null)
+            panelTutorial.SetActive(false);
+
+        // Conecta la acción de hacer clic en el botón de Continuar
+        if (botonContinuar != null)
+        {
+            botonContinuar.onClick.AddListener(CerrarTutorial);
+        }
+
         ActualizarCorazones();
     }
 
+    void Update()
+    {
+        // Si el tutorial está activo y el jugador presiona Espacio o Enter
+        if (tutorialActivo && (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return)))
+        {
+            CerrarTutorial();
+        }
+    }
+
+    // ==========================================
+    // SISTEMA DE TUTORIALES
+    // ==========================================
+    public void MostrarTutorial(Sprite placaSprite)
+    {
+        Time.timeScale = 0f; // Pausa el juego
+        tutorialActivo = true;
+
+        if (imagenPlaca != null) imagenPlaca.sprite = placaSprite;
+        if (panelTutorial != null) panelTutorial.SetActive(true);
+    }
+
+    public void CerrarTutorial()
+    {
+        if (panelTutorial != null) panelTutorial.SetActive(false);
+        tutorialActivo = false;
+        Time.timeScale = 1f; // Reanuda el juego
+    }
+
+    // ==========================================
+    // MÉTODOS EXISTENTES DEL GESTOR DE VIDAS
+    // ==========================================
     void ActualizarCorazones()
     {
         corazon1.sprite = (vidas >= 1) ? corazonLleno : corazonVacio;
